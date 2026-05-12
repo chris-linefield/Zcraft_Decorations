@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/wall3",
+  "textures": {
+    "all": "zcraft_decorations:block/camp1",
+    "particle": "zcraft_decorations:block/camp1",
+    "0": "zcraft_decorations:block/camp1"
+  },
+  "render_type": "solid"
+}

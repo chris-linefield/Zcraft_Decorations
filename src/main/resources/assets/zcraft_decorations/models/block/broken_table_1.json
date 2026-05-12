@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/tablefelldown1",
+  "textures": {
+    "all": "zcraft_decorations:block/planks_oak",
+    "particle": "zcraft_decorations:block/planks_oak",
+    "0": "zcraft_decorations:block/planks_spruce"
+  },
+  "render_type": "solid"
+}

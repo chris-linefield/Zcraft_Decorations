@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/lao_shi_shou_yin_ji_",
+  "textures": {
+    "all": "zcraft_decorations:block/radio",
+    "particle": "zcraft_decorations:block/radio",
+    "texture": "zcraft_decorations:block/radio",
+    "texture2": "zcraft_decorations:block/radio2"
+  }
+}

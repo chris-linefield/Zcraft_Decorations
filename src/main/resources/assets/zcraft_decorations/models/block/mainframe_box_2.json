@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/zzx",
+  "textures": {
+    "all": "zcraft_decorations:block/zzx",
+    "particle": "zcraft_decorations:block/zzx",
+    "0": "zcraft_decorations:block/zzx2"
+  },
+  "render_type": "solid"
+}

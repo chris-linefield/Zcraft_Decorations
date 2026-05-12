@@ -1,0 +1,136 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "from": [
+        6,
+        0,
+        8
+      ],
+      "to": [
+        10,
+        5,
+        12
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            8,
+            6,
+            12.25
+          ],
+          "texture": "#1"
+        },
+        "east": {
+          "uv": [
+            9,
+            8,
+            11.5,
+            12.25
+          ],
+          "texture": "#1"
+        },
+        "south": {
+          "uv": [
+            9,
+            8,
+            11.5,
+            12.25
+          ],
+          "texture": "#1"
+        },
+        "west": {
+          "uv": [
+            9,
+            8,
+            11.5,
+            12.25
+          ],
+          "texture": "#1"
+        },
+        "up": {
+          "uv": [
+            6,
+            8,
+            9,
+            10.75
+          ],
+          "texture": "#1"
+        },
+        "down": {
+          "uv": [
+            6,
+            8,
+            9,
+            10.75
+          ],
+          "texture": "#1"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        7.25,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        7.25,
+        0
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        7.25,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        7.25,
+        0
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        5.75,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        39.25,
+        -34.5,
+        0
+      ],
+      "translation": [
+        -1.5,
+        4.25,
+        0
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        14.5,
+        0
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        0,
+        -0.25
+      ]
+    }
+  }
+}

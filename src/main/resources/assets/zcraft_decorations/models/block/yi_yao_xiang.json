@@ -1,0 +1,15 @@
+{
+  "parent": "zcraft_decorations:custom/block238",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "0": "zcraft_decorations:block/suliao",
+    "1": "zcraft_decorations:block/bingxiang",
+    "2": "zcraft_decorations:block/lvban",
+    "3": "zcraft_decorations:block/yaoping",
+    "4": "zcraft_decorations:block/zhixiang2",
+    "5": "zcraft_decorations:block/yaoping2",
+    "7": "zcraft_decorations:block/chilun",
+    "missing": "zcraft_decorations:block/di"
+  }
+}

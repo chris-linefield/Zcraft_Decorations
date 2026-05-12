@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zcraft_decorations:block/alternator"
+    },
+    "facing=east": {
+      "model": "zcraft_decorations:block/alternator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zcraft_decorations:block/alternator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zcraft_decorations:block/alternator",
+      "y": 270
+    }
+  }
+}

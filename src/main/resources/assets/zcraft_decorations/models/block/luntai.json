@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zcraft_decorations:block/lun_tai_zheng_mian_",
+    "up": "zcraft_decorations:block/lun_tai_zheng_mian_",
+    "north": "zcraft_decorations:block/lun_tai_ce_mian_",
+    "east": "zcraft_decorations:block/lun_tai_ce_mian_",
+    "south": "zcraft_decorations:block/lun_tai_ce_mian_",
+    "west": "zcraft_decorations:block/lun_tai_ce_mian_",
+    "particle": "zcraft_decorations:block/lun_tai_zheng_mian_"
+  }
+}

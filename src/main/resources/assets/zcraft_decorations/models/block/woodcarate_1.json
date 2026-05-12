@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zcraft_decorations:block/woodenbox",
+    "up": "zcraft_decorations:block/woodenbox",
+    "north": "zcraft_decorations:block/woodenbox2",
+    "east": "zcraft_decorations:block/woodenbox1",
+    "south": "zcraft_decorations:block/woodenbox2",
+    "west": "zcraft_decorations:block/woodenbox1",
+    "particle": "zcraft_decorations:block/woodenbox"
+  },
+  "render_type": "solid"
+}

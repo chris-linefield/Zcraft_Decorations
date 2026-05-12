@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/hld",
+  "textures": {
+    "all": "zcraft_decorations:block/hld",
+    "particle": "zcraft_decorations:block/hld",
+    "0": "zcraft_decorations:block/hld",
+    "missing": "zcraft_decorations:block/hld"
+  },
+  "render_type": "solid"
+}

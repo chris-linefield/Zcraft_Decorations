@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/alternator",
+  "textures": {
+    "all": "zcraft_decorations:block/alternator",
+    "particle": "zcraft_decorations:block/alternator",
+    "0": "zcraft_decorations:block/alternator"
+  },
+  "render_type": "solid"
+}

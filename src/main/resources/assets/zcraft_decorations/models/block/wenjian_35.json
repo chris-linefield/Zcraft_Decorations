@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/wen_jian_35",
+  "textures": {
+    "all": "zcraft_decorations:block/wen_jian_35",
+    "particle": "zcraft_decorations:block/wen_jian_35",
+    "0": "zcraft_decorations:block/wen_jian_35"
+  }
+}

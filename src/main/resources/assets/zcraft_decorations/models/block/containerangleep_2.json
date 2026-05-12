@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/container_angled_ep",
+  "textures": {
+    "all": "zcraft_decorations:block/container_black",
+    "particle": "zcraft_decorations:block/container_black",
+    "0": "zcraft_decorations:block/container_red"
+  },
+  "render_type": "solid"
+}

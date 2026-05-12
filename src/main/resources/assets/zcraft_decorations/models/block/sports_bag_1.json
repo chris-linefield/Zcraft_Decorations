@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/bag1",
+  "textures": {
+    "all": "zcraft_decorations:block/bag",
+    "particle": "zcraft_decorations:block/bag",
+    "0": "zcraft_decorations:block/bag"
+  },
+  "render_type": "solid"
+}

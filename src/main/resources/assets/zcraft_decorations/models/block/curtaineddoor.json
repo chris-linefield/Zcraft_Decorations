@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/curtaineddoor",
+  "textures": {
+    "all": "zcraft_decorations:block/totan_s_gray",
+    "particle": "zcraft_decorations:block/totan_s_gray",
+    "0": "zcraft_decorations:block/totan_s_gray"
+  },
+  "render_type": "solid"
+}

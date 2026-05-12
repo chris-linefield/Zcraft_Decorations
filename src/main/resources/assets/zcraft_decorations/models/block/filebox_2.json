@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/filebox2",
+  "textures": {
+    "all": "zcraft_decorations:block/filebox",
+    "particle": "zcraft_decorations:block/filebox",
+    "0": "zcraft_decorations:block/filebox"
+  },
+  "render_type": "solid"
+}

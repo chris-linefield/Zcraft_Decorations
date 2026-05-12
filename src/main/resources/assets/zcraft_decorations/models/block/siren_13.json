@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/si_ren_13",
+  "textures": {
+    "all": "zcraft_decorations:block/zombie416",
+    "particle": "zcraft_decorations:block/zombie416",
+    "0": "zcraft_decorations:block/zombie416",
+    "1": "zcraft_decorations:block/blood21"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/zhuang_man_shui_ping_de_lan_zi_",
+  "textures": {
+    "all": "zcraft_decorations:block/lan_se_zhuo_zi_",
+    "particle": "zcraft_decorations:block/lan_se_zhuo_zi_",
+    "0": "zcraft_decorations:block/lan_se_zhuo_zi_",
+    "1_0": "zcraft_decorations:block/kuang_quan_shui_ping_"
+  }
+}

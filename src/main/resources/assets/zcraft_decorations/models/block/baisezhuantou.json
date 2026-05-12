@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zcraft_decorations:block/bai_se_zhuan_tou_",
+    "up": "zcraft_decorations:block/bai_se_zhuan_tou_",
+    "north": "zcraft_decorations:block/bai_se_zhuan_tou_",
+    "east": "zcraft_decorations:block/bai_se_zhuan_tou_",
+    "south": "zcraft_decorations:block/bai_se_zhuan_tou_",
+    "west": "zcraft_decorations:block/bai_se_zhuan_tou_",
+    "particle": "zcraft_decorations:block/bai_se_zhuan_tou_"
+  }
+}

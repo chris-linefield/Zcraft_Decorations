@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/di_shang_de_qi_you_tong_",
+  "textures": {
+    "all": "zcraft_decorations:block/wool_colored_red",
+    "particle": "zcraft_decorations:block/wool_colored_red",
+    "bed_feet_top": "zcraft_decorations:block/wool_colored_red",
+    "wool_colored_silver": "zcraft_decorations:block/wool_colored_silver"
+  }
+}

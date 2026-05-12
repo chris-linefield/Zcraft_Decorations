@@ -1,0 +1,5003 @@
+{
+  "__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+  "elements": [
+    {
+      "__comment": "shovel57",
+      "from": [
+        7.5,
+        -5,
+        7
+      ],
+      "to": [
+        8.5,
+        -4,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            14.25,
+            8.25,
+            14.5
+          ],
+          "texture": "#shovel"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            14.25,
+            8.25,
+            14
+          ],
+          "texture": "#shovel"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            14,
+            7.75,
+            14.5
+          ],
+          "texture": "#shovel"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            14,
+            8.25,
+            14.5
+          ],
+          "texture": "#shovel"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            14,
+            8,
+            14.5
+          ],
+          "texture": "#shovel"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            14,
+            8,
+            14.5
+          ],
+          "texture": "#shovel"
+        }
+      }
+    },
+    {
+      "__comment": "shovel58",
+      "from": [
+        6,
+        -8,
+        7
+      ],
+      "to": [
+        6.5,
+        -6,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            15.75,
+            7.25,
+            16
+          ],
+          "texture": "#shovel",
+          "cullface": "down"
+        },
+        "up": {
+          "uv": [
+            7,
+            15.25,
+            7.25,
+            15
+          ],
+          "texture": "#shovel"
+        },
+        "north": {
+          "uv": [
+            7.25,
+            15,
+            7,
+            16
+          ],
+          "texture": "#shovel"
+        },
+        "south": {
+          "uv": [
+            7,
+            15,
+            7.25,
+            16
+          ],
+          "texture": "#shovel"
+        },
+        "west": {
+          "uv": [
+            7,
+            15,
+            7.25,
+            16
+          ],
+          "texture": "#shovel"
+        },
+        "east": {
+          "uv": [
+            7.25,
+            15,
+            7,
+            16
+          ],
+          "texture": "#shovel"
+        }
+      }
+    },
+    {
+      "__comment": "shovel59",
+      "from": [
+        9.5,
+        -8,
+        7
+      ],
+      "to": [
+        10,
+        -6,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.75,
+            15.75,
+            9,
+            16
+          ],
+          "texture": "#shovel",
+          "cullface": "down"
+        },
+        "up": {
+          "uv": [
+            8.75,
+            15.25,
+            9,
+            15
+          ],
+          "texture": "#shovel"
+        },
+        "north": {
+          "uv": [
+            9,
+            15,
+            8.75,
+            16
+          ],
+          "texture": "#shovel"
+        },
+        "south": {
+          "uv": [
+            8.75,
+            15,
+            9,
+            16
+          ],
+          "texture": "#shovel"
+        },
+        "west": {
+          "uv": [
+            8.75,
+            15,
+            9,
+            16
+          ],
+          "texture": "#shovel"
+        },
+        "east": {
+          "uv": [
+            9,
+            15,
+            8.75,
+            16
+          ],
+          "texture": "#shovel"
+        }
+      }
+    },
+    {
+      "__comment": "shovel60",
+      "from": [
+        9,
+        -6.5,
+        7
+      ],
+      "to": [
+        9.5,
+        -5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            15,
+            8.75,
+            15.25
+          ],
+          "texture": "#shovel"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            14.75,
+            8.75,
+            14.5
+          ],
+          "texture": "#shovel"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            14.5,
+            8.5,
+            15.25
+          ],
+          "texture": "#shovel"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            14.5,
+            8.75,
+            15.25
+          ],
+          "texture": "#shovel"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            14.5,
+            8.75,
+            15.25
+          ],
+          "texture": "#shovel"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            14.5,
+            8.5,
+            15.25
+          ],
+          "texture": "#shovel"
+        }
+      }
+    },
+    {
+      "__comment": "shovel61",
+      "from": [
+        6.5,
+        -6.5,
+        7
+      ],
+      "to": [
+        7,
+        -5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            15,
+            7.5,
+            15.25
+          ],
+          "texture": "#shovel"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            14.75,
+            7.5,
+            14.5
+          ],
+          "texture": "#shovel"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            14.5,
+            7.25,
+            15.25
+          ],
+          "texture": "#shovel"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            14.5,
+            7.5,
+            15.25
+          ],
+          "texture": "#shovel"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            14.5,
+            7.5,
+            15.25
+          ],
+          "texture": "#shovel"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            14.5,
+            7.25,
+            15.25
+          ],
+          "texture": "#shovel"
+        }
+      }
+    },
+    {
+      "__comment": "shovel62",
+      "from": [
+        7,
+        -5.5,
+        7
+      ],
+      "to": [
+        7.5,
+        -4.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            14.5,
+            7.75,
+            14.75
+          ],
+          "texture": "#shovel"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            14.5,
+            7.75,
+            14.25
+          ],
+          "texture": "#shovel"
+        },
+        "north": {
+          "uv": [
+            7.75,
+            14.25,
+            7.5,
+            14.75
+          ],
+          "texture": "#shovel"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            14.25,
+            7.75,
+            14.75
+          ],
+          "texture": "#shovel"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            14.25,
+            7.75,
+            14.75
+          ],
+          "texture": "#shovel"
+        },
+        "east": {
+          "uv": [
+            7.75,
+            14.25,
+            7.5,
+            14.75
+          ],
+          "texture": "#shovel"
+        }
+      }
+    },
+    {
+      "__comment": "shovel63",
+      "from": [
+        8.5,
+        -5.5,
+        7
+      ],
+      "to": [
+        9,
+        -4.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.25,
+            14.5,
+            8.5,
+            14.75
+          ],
+          "texture": "#shovel"
+        },
+        "up": {
+          "uv": [
+            8.25,
+            14.5,
+            8.5,
+            14.25
+          ],
+          "texture": "#shovel"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            14.25,
+            8.25,
+            14.75
+          ],
+          "texture": "#shovel"
+        },
+        "south": {
+          "uv": [
+            8.25,
+            14.25,
+            8.5,
+            14.75
+          ],
+          "texture": "#shovel"
+        },
+        "west": {
+          "uv": [
+            8.25,
+            14.25,
+            8.5,
+            14.75
+          ],
+          "texture": "#shovel"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            14.25,
+            8.25,
+            14.75
+          ],
+          "texture": "#shovel"
+        }
+      }
+    },
+    {
+      "__comment": "shovel64",
+      "from": [
+        6.5,
+        -8,
+        7.5
+      ],
+      "to": [
+        9.5,
+        -7,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            15.75,
+            8.75,
+            16
+          ],
+          "texture": "#shovel",
+          "cullface": "down"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            15.75,
+            8.75,
+            15.5
+          ],
+          "texture": "#shovel"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            15.5,
+            7.25,
+            16
+          ],
+          "texture": "#shovel"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            15.5,
+            8.75,
+            16
+          ],
+          "texture": "#shovel"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            15.5,
+            7.5,
+            16
+          ],
+          "texture": "#shovel"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            15.5,
+            8.5,
+            16
+          ],
+          "texture": "#shovel"
+        }
+      }
+    },
+    {
+      "__comment": "shovel65",
+      "from": [
+        7.5,
+        -4,
+        7.5
+      ],
+      "to": [
+        8.5,
+        16,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            13.75,
+            8.25,
+            14
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            4.25,
+            8.25,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            4,
+            7.75,
+            14
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            4,
+            8.25,
+            14
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            4,
+            8,
+            14
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            4,
+            8,
+            14
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel1",
+      "from": [
+        7.5,
+        19,
+        7.5
+      ],
+      "to": [
+        8.5,
+        21,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            2.25,
+            8.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            1.75,
+            8.25,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            1.5,
+            7.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            1.5,
+            8.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            1.5,
+            8,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            1.5,
+            8,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel2",
+      "from": [
+        7,
+        23.5,
+        9
+      ],
+      "to": [
+        9,
+        24,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            0,
+            8.5,
+            0.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            0.25,
+            8.5,
+            0
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            0,
+            7.5,
+            0.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            0,
+            8.5,
+            0.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            0,
+            7.75,
+            0.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            0,
+            8.25,
+            0.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel3",
+      "from": [
+        7.5,
+        18,
+        8.5
+      ],
+      "to": [
+        8.5,
+        20,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            2.75,
+            8.25,
+            3
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            2.25,
+            8.25,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            2,
+            7.75,
+            3
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            2,
+            8.25,
+            3
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            2,
+            8,
+            3
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            2,
+            8,
+            3
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel4",
+      "from": [
+        7,
+        19,
+        8
+      ],
+      "to": [
+        9,
+        21.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            2.25,
+            8.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            1.5,
+            8.5,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            1.25,
+            7.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            1.25,
+            8.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            1.25,
+            7.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            1.25,
+            8.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel5",
+      "from": [
+        7,
+        16,
+        7.5
+      ],
+      "to": [
+        9,
+        19,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            3.75,
+            8.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            2.75,
+            8.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            2.5,
+            7.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            2.5,
+            8.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            2.5,
+            7.75,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            2.5,
+            8.25,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel6",
+      "from": [
+        7.5,
+        16,
+        8
+      ],
+      "to": [
+        8.5,
+        19,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            3.75,
+            8.25,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            2.75,
+            8.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            2.5,
+            7.75,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            2.5,
+            8.25,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            2.5,
+            8,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            2.5,
+            8,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel7",
+      "from": [
+        10.5,
+        16,
+        9
+      ],
+      "to": [
+        11,
+        19,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            3.75,
+            9.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            2.75,
+            9.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            2.5,
+            9.25,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            2.5,
+            9.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            2.5,
+            9.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            2.5,
+            9.25,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel8",
+      "from": [
+        6,
+        19,
+        8.5
+      ],
+      "to": [
+        7,
+        21.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            2.25,
+            7.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7,
+            1.5,
+            7.5,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            1.25,
+            7,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7,
+            1.25,
+            7.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7,
+            1.25,
+            7.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            1.25,
+            7.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel9",
+      "from": [
+        7,
+        21.5,
+        8.5
+      ],
+      "to": [
+        9,
+        23.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            1,
+            8.5,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            0.5,
+            8.5,
+            0.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            0.25,
+            7.5,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            0.25,
+            8.5,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            0.25,
+            7.75,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            0.25,
+            8.25,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel10",
+      "from": [
+        6.5,
+        23,
+        9
+      ],
+      "to": [
+        7,
+        23.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            0.25,
+            7.5,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            0.5,
+            7.5,
+            0.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            0.25,
+            7.25,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            0.25,
+            7.5,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            0.25,
+            7.5,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            0.25,
+            7.25,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel11",
+      "from": [
+        9,
+        23,
+        9
+      ],
+      "to": [
+        9.5,
+        23.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            0.25,
+            8.75,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            0.5,
+            8.75,
+            0.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            0.25,
+            8.5,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            0.25,
+            8.75,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            0.25,
+            8.75,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            0.25,
+            8.5,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel12",
+      "from": [
+        9.5,
+        22,
+        9
+      ],
+      "to": [
+        10,
+        23,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.75,
+            0.75,
+            9,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.75,
+            0.75,
+            9,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            9,
+            0.5,
+            8.75,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.75,
+            0.5,
+            9,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.75,
+            0.5,
+            9,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            9,
+            0.5,
+            8.75,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel13",
+      "from": [
+        6,
+        16,
+        8
+      ],
+      "to": [
+        7,
+        19,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            3.75,
+            7.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7,
+            2.75,
+            7.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            2.5,
+            7,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7,
+            2.5,
+            7.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7,
+            2.5,
+            7.25,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            2.5,
+            7.25,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel14",
+      "from": [
+        5,
+        16,
+        8.5
+      ],
+      "to": [
+        6,
+        19,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            3.75,
+            7,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            2.75,
+            7,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7,
+            2.5,
+            6.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            2.5,
+            7,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            2.5,
+            6.75,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7,
+            2.5,
+            6.75,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel15",
+      "from": [
+        10,
+        16,
+        8.5
+      ],
+      "to": [
+        11,
+        19,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            3.75,
+            9.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            9,
+            2.75,
+            9.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            2.5,
+            9,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            9,
+            2.5,
+            9.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            9,
+            2.5,
+            9.25,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            2.5,
+            9.25,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel16",
+      "from": [
+        5.5,
+        21,
+        9
+      ],
+      "to": [
+        6,
+        22,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            1.25,
+            7,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            1.25,
+            7,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7,
+            1,
+            6.75,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            1,
+            7,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            1,
+            7,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7,
+            1,
+            6.75,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel17",
+      "from": [
+        10.5,
+        19,
+        9
+      ],
+      "to": [
+        11,
+        21,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            2.25,
+            9.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            1.75,
+            9.5,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            1.5,
+            9.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            1.5,
+            9.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            1.5,
+            9.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            1.5,
+            9.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel18",
+      "from": [
+        10,
+        21,
+        9
+      ],
+      "to": [
+        10.5,
+        22,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            1.25,
+            9.25,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            9,
+            1.25,
+            9.25,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            1,
+            9,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            9,
+            1,
+            9.25,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            9,
+            1,
+            9.25,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            1,
+            9,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel19",
+      "from": [
+        6,
+        22,
+        9
+      ],
+      "to": [
+        6.5,
+        23,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            0.75,
+            7.25,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7,
+            0.75,
+            7.25,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.25,
+            0.5,
+            7,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7,
+            0.5,
+            7.25,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7,
+            0.5,
+            7.25,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.25,
+            0.5,
+            7,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel20",
+      "from": [
+        9,
+        16,
+        8
+      ],
+      "to": [
+        10,
+        19,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            3.75,
+            9,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            2.75,
+            9,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            9,
+            2.5,
+            8.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            2.5,
+            9,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            2.5,
+            8.75,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            9,
+            2.5,
+            8.75,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel21",
+      "from": [
+        9,
+        19,
+        8.5
+      ],
+      "to": [
+        10,
+        21.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            2.25,
+            9,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            1.5,
+            9,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            9,
+            1.25,
+            8.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            1.25,
+            9,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            1.25,
+            8.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            9,
+            1.25,
+            8.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel22",
+      "from": [
+        5,
+        19,
+        9
+      ],
+      "to": [
+        5.5,
+        21,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            2.25,
+            6.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            1.75,
+            6.75,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            1.5,
+            6.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            1.5,
+            6.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            1.5,
+            6.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            1.5,
+            6.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel23",
+      "from": [
+        5,
+        16,
+        9
+      ],
+      "to": [
+        5.5,
+        19,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            3.75,
+            6.75,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            2.75,
+            6.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            2.5,
+            6.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            2.5,
+            6.75,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            2.5,
+            6.75,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            2.5,
+            6.5,
+            4
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel24",
+      "from": [
+        5.5,
+        19,
+        8.5
+      ],
+      "to": [
+        6,
+        19.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            2.25,
+            7,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            2.5,
+            7,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7,
+            2.25,
+            6.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            2.25,
+            7,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            2.25,
+            7,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7,
+            2.25,
+            6.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel25",
+      "from": [
+        5.5,
+        19.5,
+        8.5
+      ],
+      "to": [
+        6,
+        20,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            2.25,
+            7,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7,
+            2,
+            6.75,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7,
+            2,
+            6.75,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel26",
+      "from": [
+        5.5,
+        20,
+        8.5
+      ],
+      "to": [
+        6,
+        20.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            1.75,
+            7,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7,
+            1.75,
+            6.75,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            1.75,
+            7,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            1.75,
+            7,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7,
+            1.75,
+            6.75,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel27",
+      "from": [
+        5.5,
+        20.5,
+        8.5
+      ],
+      "to": [
+        6,
+        21,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            1.5,
+            7,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            1.75,
+            7,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7,
+            1.5,
+            6.75,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            1.5,
+            7,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            1.5,
+            7,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7,
+            1.5,
+            6.75,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel28",
+      "from": [
+        6,
+        21.5,
+        8.5
+      ],
+      "to": [
+        6.5,
+        22,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            1,
+            7.25,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7,
+            1.25,
+            7.25,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.25,
+            1,
+            7,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7,
+            1,
+            7.25,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7,
+            1,
+            7.25,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.25,
+            1,
+            7,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel29",
+      "from": [
+        6.5,
+        19,
+        8
+      ],
+      "to": [
+        7,
+        19.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            2.25,
+            7.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            2.5,
+            7.5,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            2.25,
+            7.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            2.25,
+            7.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            2.25,
+            7.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            2.25,
+            7.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel30",
+      "from": [
+        6.5,
+        19.5,
+        8
+      ],
+      "to": [
+        7,
+        20,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            2,
+            7.5,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            2.25,
+            7.5,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            2,
+            7.25,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            2,
+            7.5,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            2,
+            7.5,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            2,
+            7.25,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel31",
+      "from": [
+        6.5,
+        20,
+        8
+      ],
+      "to": [
+        7,
+        20.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            1.75,
+            7.5,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            2,
+            7.5,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            1.75,
+            7.25,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            1.75,
+            7.5,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            1.75,
+            7.5,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            1.75,
+            7.25,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel32",
+      "from": [
+        6.5,
+        20.5,
+        8
+      ],
+      "to": [
+        7,
+        21,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            1.5,
+            7.5,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            1.75,
+            7.5,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            1.5,
+            7.25,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            1.5,
+            7.5,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            1.5,
+            7.5,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            1.5,
+            7.25,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel33",
+      "from": [
+        6.5,
+        21.5,
+        8.5
+      ],
+      "to": [
+        7,
+        22,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            1,
+            7.5,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            1.25,
+            7.5,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            1,
+            7.25,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            1,
+            7.5,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            1,
+            7.5,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            1,
+            7.25,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel34",
+      "from": [
+        6.5,
+        22,
+        8.5
+      ],
+      "to": [
+        7,
+        22.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            0.75,
+            7.5,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            1,
+            7.5,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            0.75,
+            7.25,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            0.75,
+            7.5,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            0.75,
+            7.5,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            0.75,
+            7.25,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel35",
+      "from": [
+        6.5,
+        22.5,
+        8.5
+      ],
+      "to": [
+        7,
+        23,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            0.5,
+            7.5,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            0.75,
+            7.5,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            0.5,
+            7.25,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            0.5,
+            7.5,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            0.5,
+            7.5,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            0.5,
+            7.25,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel36",
+      "from": [
+        7,
+        21,
+        8.5
+      ],
+      "to": [
+        7.5,
+        21.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            1.25,
+            7.75,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            1.5,
+            7.75,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            7.75,
+            1.25,
+            7.5,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            1.25,
+            7.75,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            1.25,
+            7.75,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            7.75,
+            1.25,
+            7.5,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel37",
+      "from": [
+        7.5,
+        21,
+        7.5
+      ],
+      "to": [
+        8,
+        21.5,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            1.25,
+            8,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            1.5,
+            8,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8,
+            1.25,
+            7.75,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            1.25,
+            8,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            1.25,
+            8,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8,
+            1.25,
+            7.75,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel38",
+      "from": [
+        7.5,
+        21.5,
+        8
+      ],
+      "to": [
+        8,
+        22,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            1,
+            8,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            1.25,
+            8,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8,
+            1,
+            7.75,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            1,
+            8,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            1,
+            8,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8,
+            1,
+            7.75,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel39",
+      "from": [
+        7.5,
+        22,
+        8
+      ],
+      "to": [
+        8,
+        22.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            0.75,
+            8,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            1,
+            8,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8,
+            0.75,
+            7.75,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            0.75,
+            8,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            0.75,
+            8,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8,
+            0.75,
+            7.75,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel40",
+      "from": [
+        7.5,
+        22.5,
+        8
+      ],
+      "to": [
+        8,
+        23,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            0.5,
+            8,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            0.75,
+            8,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8,
+            0.5,
+            7.75,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            0.5,
+            8,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            0.5,
+            8,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8,
+            0.5,
+            7.75,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel41",
+      "from": [
+        8,
+        21,
+        7.5
+      ],
+      "to": [
+        8.5,
+        21.5,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            1.25,
+            8.25,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8,
+            1.5,
+            8.25,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            1.25,
+            8,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8,
+            1.25,
+            8.25,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8,
+            1.25,
+            8.25,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            1.25,
+            8,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel42",
+      "from": [
+        8,
+        21.5,
+        8
+      ],
+      "to": [
+        8.5,
+        22,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            1,
+            8.25,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8,
+            1.25,
+            8.25,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            1,
+            8,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8,
+            1,
+            8.25,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8,
+            1,
+            8.25,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            1,
+            8,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel43",
+      "from": [
+        8,
+        22,
+        8
+      ],
+      "to": [
+        8.5,
+        22.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            0.75,
+            8.25,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8,
+            1,
+            8.25,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            0.75,
+            8,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8,
+            0.75,
+            8.25,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8,
+            0.75,
+            8.25,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            0.75,
+            8,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel44",
+      "from": [
+        8,
+        22.5,
+        8
+      ],
+      "to": [
+        8.5,
+        23,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            0.5,
+            8.25,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8,
+            0.75,
+            8.25,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            0.5,
+            8,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8,
+            0.5,
+            8.25,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8,
+            0.5,
+            8.25,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            0.5,
+            8,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel45",
+      "from": [
+        8.5,
+        21,
+        8.5
+      ],
+      "to": [
+        9,
+        21.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.25,
+            1.25,
+            8.5,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.25,
+            1.5,
+            8.5,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            1.25,
+            8.25,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.25,
+            1.25,
+            8.5,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.25,
+            1.25,
+            8.5,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            1.25,
+            8.25,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel46",
+      "from": [
+        9,
+        19,
+        8
+      ],
+      "to": [
+        9.5,
+        19.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            2.25,
+            8.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            2.5,
+            8.75,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            2.25,
+            8.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            2.25,
+            8.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            2.25,
+            8.75,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            2.25,
+            8.5,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel47",
+      "from": [
+        9,
+        19.5,
+        8
+      ],
+      "to": [
+        9.5,
+        20,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            2,
+            8.75,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            2.25,
+            8.75,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            2,
+            8.5,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            2,
+            8.75,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            2,
+            8.75,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            2,
+            8.5,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel48",
+      "from": [
+        9,
+        20,
+        8
+      ],
+      "to": [
+        9.5,
+        20.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            1.75,
+            8.75,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            2,
+            8.75,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            1.75,
+            8.5,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            1.75,
+            8.75,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            1.75,
+            8.75,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            1.75,
+            8.5,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel49",
+      "from": [
+        9,
+        20.5,
+        8
+      ],
+      "to": [
+        9.5,
+        21,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            1.5,
+            8.75,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            1.75,
+            8.75,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            1.5,
+            8.5,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            1.5,
+            8.75,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            1.5,
+            8.75,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            1.5,
+            8.5,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel50",
+      "from": [
+        9,
+        21.5,
+        8.5
+      ],
+      "to": [
+        9.5,
+        22,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            1,
+            8.75,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            1.25,
+            8.75,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            1,
+            8.5,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            1,
+            8.75,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            1,
+            8.75,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            1,
+            8.5,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel51",
+      "from": [
+        9,
+        22,
+        8.5
+      ],
+      "to": [
+        9.5,
+        22.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            0.75,
+            8.75,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            1,
+            8.75,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            0.75,
+            8.5,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            0.75,
+            8.75,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            0.75,
+            8.75,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            0.75,
+            8.5,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel52",
+      "from": [
+        9,
+        22.5,
+        8.5
+      ],
+      "to": [
+        9.5,
+        23,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            0.5,
+            8.75,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            0.75,
+            8.75,
+            0.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            0.5,
+            8.5,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            0.5,
+            8.75,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            0.5,
+            8.75,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            0.5,
+            8.5,
+            0.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel53",
+      "from": [
+        9.5,
+        21.5,
+        8.5
+      ],
+      "to": [
+        10,
+        22,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.75,
+            1,
+            9,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            8.75,
+            1.25,
+            9,
+            1
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            9,
+            1,
+            8.75,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            8.75,
+            1,
+            9,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            8.75,
+            1,
+            9,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            9,
+            1,
+            8.75,
+            1.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel54",
+      "from": [
+        10,
+        19,
+        8.5
+      ],
+      "to": [
+        10.5,
+        19.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            2.25,
+            9.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            9,
+            2.5,
+            9.25,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            2.25,
+            9,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            9,
+            2.25,
+            9.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            9,
+            2.25,
+            9.25,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            2.25,
+            9,
+            2.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel55",
+      "from": [
+        10,
+        19.5,
+        8.5
+      ],
+      "to": [
+        10.5,
+        20,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            2,
+            9.25,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            9,
+            2.25,
+            9.25,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            2,
+            9,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            9,
+            2,
+            9.25,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            9,
+            2,
+            9.25,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            2,
+            9,
+            2.25
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel56",
+      "from": [
+        10,
+        20,
+        8.5
+      ],
+      "to": [
+        10.5,
+        20.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            9,
+            2,
+            9.25,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            1.75,
+            9,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            9,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            9,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            1.75,
+            9,
+            2
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    },
+    {
+      "__comment": "shovel",
+      "from": [
+        10,
+        20.5,
+        8.5
+      ],
+      "to": [
+        10.5,
+        21,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "up": {
+          "uv": [
+            9,
+            1.75,
+            9.25,
+            1.5
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            1.5,
+            9,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "south": {
+          "uv": [
+            9,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "west": {
+          "uv": [
+            9,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            1.5,
+            9,
+            1.75
+          ],
+          "texture": "#shovel",
+          "cullface": "up"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        6,
+        1
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -90,
+        -180,
+        45
+      ],
+      "translation": [
+        -6,
+        -6,
+        9
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -90,
+        -60,
+        -90
+      ],
+      "translation": [
+        -3,
+        0,
+        -3
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        -45
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "head": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "ground": {
+      "rotation": [
+        -90,
+        0,
+        90
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
+}

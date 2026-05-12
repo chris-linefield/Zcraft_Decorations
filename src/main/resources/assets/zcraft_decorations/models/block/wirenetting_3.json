@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/handrailbar_flattopl",
+  "textures": {
+    "all": "zcraft_decorations:block/iron_barbroken",
+    "particle": "zcraft_decorations:block/iron_barbroken",
+    "0": "zcraft_decorations:block/iron_bar"
+  },
+  "render_type": "cutout"
+}

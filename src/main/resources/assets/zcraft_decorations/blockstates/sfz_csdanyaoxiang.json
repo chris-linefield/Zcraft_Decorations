@@ -1,0 +1,19 @@
+{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "zcraft_decorations:block/sfz_csdanyaoxiang"
+                                      },
+                     "facing=east":  {
+                                         "model":  "zcraft_decorations:block/sfz_csdanyaoxiang",
+                                         "y":  90
+                                     },
+                     "facing=south":  {
+                                          "model":  "zcraft_decorations:block/sfz_csdanyaoxiang",
+                                          "y":  180
+                                      },
+                     "facing=west":  {
+                                         "model":  "zcraft_decorations:block/sfz_csdanyaoxiang",
+                                         "y":  270
+                                     }
+                 }
+}

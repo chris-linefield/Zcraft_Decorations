@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/ying_er_deng_",
+  "textures": {
+    "all": "zcraft_decorations:block/ying_er_deng_",
+    "particle": "zcraft_decorations:block/ying_er_deng_",
+    "0": "zcraft_decorations:block/ying_er_deng_"
+  }
+}

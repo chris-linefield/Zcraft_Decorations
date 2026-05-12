@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/sleepingbag",
+  "textures": {
+    "all": "zcraft_decorations:block/sleepingbag",
+    "particle": "zcraft_decorations:block/sleepingbag",
+    "0": "zcraft_decorations:block/sleepingbag"
+  },
+  "render_type": "solid"
+}

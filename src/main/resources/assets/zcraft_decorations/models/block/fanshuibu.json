@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/fang_shui_bu_",
+  "textures": {
+    "all": "zcraft_decorations:block/fang_shui_bu_",
+    "particle": "zcraft_decorations:block/fang_shui_bu_",
+    "0": "zcraft_decorations:block/fang_shui_bu_",
+    "missing": "zcraft_decorations:block/fang_shui_bu_"
+  }
+}

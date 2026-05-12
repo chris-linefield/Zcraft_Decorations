@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/satellitereceiver",
+  "textures": {
+    "all": "zcraft_decorations:block/tinplate",
+    "particle": "zcraft_decorations:block/tinplate",
+    "0": "zcraft_decorations:block/tinplate"
+  },
+  "render_type": "solid"
+}

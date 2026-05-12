@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/xdd2",
+  "textures": {
+    "all": "zcraft_decorations:block/xdd",
+    "particle": "zcraft_decorations:block/xdd",
+    "0": "zcraft_decorations:block/xdd"
+  },
+  "render_type": "solid"
+}

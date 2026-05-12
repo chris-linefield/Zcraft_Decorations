@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/dentist_workplace",
+  "textures": {
+    "all": "zcraft_decorations:block/dentist_workplace",
+    "particle": "zcraft_decorations:block/dentist_workplace",
+    "0_0": "zcraft_decorations:block/dentist_workplace"
+  }
+}

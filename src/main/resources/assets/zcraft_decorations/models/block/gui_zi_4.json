@@ -1,0 +1,13 @@
+{
+  "parent": "zcraft_decorations:custom/block539",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "2": "zcraft_decorations:block/bijiben",
+    "3": "zcraft_decorations:block/bingxiang",
+    "4": "zcraft_decorations:block/xinlixiang1",
+    "5": "zcraft_decorations:block/shouyinji",
+    "8": "zcraft_decorations:block/guizi3",
+    "missing": "zcraft_decorations:block/di"
+  }
+}

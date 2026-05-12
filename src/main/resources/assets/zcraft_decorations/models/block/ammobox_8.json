@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/ammo545",
+  "textures": {
+    "all": "zcraft_decorations:block/12gammobox",
+    "particle": "zcraft_decorations:block/12gammobox",
+    "0": "zcraft_decorations:block/ammo545"
+  },
+  "render_type": "solid"
+}

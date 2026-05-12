@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/toolcart",
+  "textures": {
+    "all": "zcraft_decorations:block/toolcart",
+    "particle": "zcraft_decorations:block/toolcart",
+    "0": "zcraft_decorations:block/toolcart",
+    "missing": "zcraft_decorations:block/toolcart"
+  },
+  "render_type": "solid"
+}

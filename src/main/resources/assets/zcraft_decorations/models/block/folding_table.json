@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/tebol",
+  "textures": {
+    "all": "zcraft_decorations:block/tebol",
+    "particle": "zcraft_decorations:block/tebol",
+    "0": "zcraft_decorations:block/tebol"
+  },
+  "render_type": "solid"
+}

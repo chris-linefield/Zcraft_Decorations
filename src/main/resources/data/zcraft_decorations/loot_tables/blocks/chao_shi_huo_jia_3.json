@@ -1,0 +1,19 @@
+{
+    "type":  "minecraft:block",
+    "pools":  [
+                  {
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "zcraft_decorations:chao_shi_huo_jia_3"
+                                      }
+                                  ],
+                      "conditions":  [
+                                         {
+                                             "condition":  "minecraft:survives_explosion"
+                                         }
+                                     ]
+                  }
+              ]
+}

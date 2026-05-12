@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/pei_jian_xiang_",
+  "textures": {
+    "all": "zcraft_decorations:block/pei_jian_xiang_",
+    "particle": "zcraft_decorations:block/pei_jian_xiang_",
+    "0": "zcraft_decorations:block/pei_jian_xiang_"
+  }
+}

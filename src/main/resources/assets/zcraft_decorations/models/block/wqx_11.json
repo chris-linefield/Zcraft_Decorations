@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/wu_qi_xiang_11",
+  "textures": {
+    "all": "zcraft_decorations:block/wu_qi_xiang_11",
+    "particle": "zcraft_decorations:block/wu_qi_xiang_11",
+    "0": "zcraft_decorations:block/wu_qi_xiang_11"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/bullet2",
+  "textures": {
+    "all": "zcraft_decorations:block/bullet",
+    "particle": "zcraft_decorations:block/bullet",
+    "0": "zcraft_decorations:block/bullet"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "zcraft_decorations:block/sfz_qiangbi_3x"
+                                      },
+                     "facing=east":  {
+                                         "model":  "zcraft_decorations:block/sfz_qiangbi_3x",
+                                         "y":  90
+                                     },
+                     "facing=south":  {
+                                          "model":  "zcraft_decorations:block/sfz_qiangbi_3x",
+                                          "y":  180
+                                      },
+                     "facing=west":  {
+                                         "model":  "zcraft_decorations:block/sfz_qiangbi_3x",
+                                         "y":  270
+                                     }
+                 }
+}

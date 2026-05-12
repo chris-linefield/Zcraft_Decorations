@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/glove",
+  "textures": {
+    "all": "zcraft_decorations:block/glove",
+    "particle": "zcraft_decorations:block/glove",
+    "0": "zcraft_decorations:block/glove",
+    "missing": "zcraft_decorations:block/glove"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/sha_qiang_",
+  "textures": {
+    "all": "zcraft_decorations:block/sha_qiang_",
+    "particle": "zcraft_decorations:block/sha_qiang_",
+    "0": "zcraft_decorations:block/sha_qiang_"
+  }
+}

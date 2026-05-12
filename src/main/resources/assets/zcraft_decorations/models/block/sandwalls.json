@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/sandwallw",
+  "textures": {
+    "all": "zcraft_decorations:block/0002",
+    "particle": "zcraft_decorations:block/0002",
+    "0": "zcraft_decorations:block/0002"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/block208",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "1": "zcraft_decorations:block/stone",
+    "2": "zcraft_decorations:block/iron_block",
+    "3": "zcraft_decorations:block/bingxiang2",
+    "4": "zcraft_decorations:block/railings"
+  }
+}

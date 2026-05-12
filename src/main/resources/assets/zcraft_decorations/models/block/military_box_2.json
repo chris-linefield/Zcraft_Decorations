@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/mqqxs",
+  "textures": {
+    "all": "zcraft_decorations:block/mgreen",
+    "particle": "zcraft_decorations:block/mgreen",
+    "0": "zcraft_decorations:block/mgreen",
+    "2": "zcraft_decorations:block/mgraylite",
+    "3": "zcraft_decorations:block/mgraydark"
+  },
+  "render_type": "solid"
+}

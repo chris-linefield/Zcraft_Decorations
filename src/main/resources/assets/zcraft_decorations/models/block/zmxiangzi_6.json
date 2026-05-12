@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/zmxiang_zi_6",
+  "textures": {
+    "all": "zcraft_decorations:block/abyss_box03",
+    "particle": "zcraft_decorations:block/abyss_box03",
+    "0": "zcraft_decorations:block/abyss_box03"
+  }
+}

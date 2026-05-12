@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/xing_li_xiang_121",
+  "textures": {
+    "all": "zcraft_decorations:block/xinlixiang1",
+    "particle": "zcraft_decorations:block/xinlixiang1",
+    "0": "zcraft_decorations:block/xinlixiang1",
+    "1": "zcraft_decorations:block/xinlixiang2",
+    "2": "zcraft_decorations:block/xinlixiang1"
+  }
+}

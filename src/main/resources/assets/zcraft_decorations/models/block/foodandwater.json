@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/foodwater",
+  "textures": {
+    "all": "zcraft_decorations:block/purified_water_bottle",
+    "particle": "zcraft_decorations:block/purified_water_bottle",
+    "0": "zcraft_decorations:block/purified_water_bottle",
+    "1": "zcraft_decorations:block/foodsmodel"
+  },
+  "render_type": "solid"
+}

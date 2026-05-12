@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/mu_zhi_dang_ban_",
+  "textures": {
+    "all": "zcraft_decorations:block/mu_zhi_dang_ban_",
+    "particle": "zcraft_decorations:block/mu_zhi_dang_ban_",
+    "0": "zcraft_decorations:block/mu_zhi_dang_ban_"
+  }
+}

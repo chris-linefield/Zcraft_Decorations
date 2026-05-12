@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zcraft_decorations:block/liftcart"
+    },
+    "facing=east": {
+      "model": "zcraft_decorations:block/liftcart",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zcraft_decorations:block/liftcart",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zcraft_decorations:block/liftcart",
+      "y": 270
+    }
+  }
+}

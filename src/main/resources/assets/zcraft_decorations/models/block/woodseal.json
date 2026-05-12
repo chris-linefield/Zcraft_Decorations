@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/woodenseal",
+  "textures": {
+    "all": "zcraft_decorations:block/19",
+    "particle": "zcraft_decorations:block/19",
+    "0": "zcraft_decorations:block/19"
+  },
+  "render_type": "solid"
+}

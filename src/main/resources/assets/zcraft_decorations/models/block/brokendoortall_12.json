@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/doortallbroken1",
+  "textures": {
+    "all": "zcraft_decorations:block/talldoorbirch",
+    "particle": "zcraft_decorations:block/talldoorbirch",
+    "0": "zcraft_decorations:block/talldooroak"
+  },
+  "render_type": "cutout"
+}

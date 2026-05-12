@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/containerendpoints",
+  "textures": {
+    "all": "zcraft_decorations:block/container_blue",
+    "particle": "zcraft_decorations:block/container_blue",
+    "0": "zcraft_decorations:block/container_red"
+  },
+  "render_type": "solid"
+}

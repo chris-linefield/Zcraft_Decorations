@@ -1,0 +1,2331 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"elements": [
+		{
+			"name": "行李箱把�?",
+			"from": [1.3, 0.95, 9.5],
+			"to": [3.2, 1.5, 9.95],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, -4.8, 18.8]},
+			"faces": {
+				"north": {"uv": [0, 7, 15.75, 0], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [15.75, 0, 0, 7], "texture": "#0"},
+				"south": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [15.75, 0, 0, 7], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-7.1, 1.05, 9.8],
+			"to": [1.8, 1.2, 11.65],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.1, -4.7, 19.1]},
+			"faces": {
+				"north": {"uv": [0, 7, 15.75, 0], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [15.75, 0, 0, 7], "texture": "#0"},
+				"south": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [1.3, 0.95, 11.5],
+			"to": [3.2, 1.5, 11.95],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, -4.8, 20.8]},
+			"faces": {
+				"north": {"uv": [0, 7, 15.75, 0], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [15.75, 0, 0, 7], "texture": "#0"},
+				"south": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [15.75, 0, 0, 7], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [1.8, 0.8, 12.1],
+			"to": [1.9, 2.05, 12.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.3, -5.35, 21]},
+			"faces": {
+				"north": {"uv": [0, 7, 15.75, 0], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [15.75, 0, 0, 7], "texture": "#0"},
+				"south": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [15.75, 0, 0, 7], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [1.8, 2.05, 9.1],
+			"to": [1.9, 2.2, 12.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.3, -4.1, 19.1]},
+			"faces": {
+				"north": {"uv": [0, 7, 15.75, 0], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [15.75, 0, 0, 7], "texture": "#0"},
+				"south": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [1.8, 0.8, 9.1],
+			"to": [1.9, 2.05, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.3, -5.35, 18]},
+			"faces": {
+				"north": {"uv": [0, 7, 15.75, 0], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [15.75, 0, 0, 7], "texture": "#0"},
+				"south": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [1.8, 0.65, 9.1],
+			"to": [1.9, 0.8, 12.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.3, -5.5, 19.1]},
+			"faces": {
+				"north": {"uv": [0, 7, 15.75, 0], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [15.75, 0, 0, 7], "texture": "#0"},
+				"south": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [3.2, 0.95, 11.6],
+			"to": [7.1, 1.5, 11.85],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.4, -4.8, 20.8]},
+			"faces": {
+				"north": {"uv": [0, 7, 15.75, 0], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [15.75, 0, 0, 7], "texture": "#0"},
+				"south": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [3.2, 0.95, 9.6],
+			"to": [7.1, 1.5, 9.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.4, -4.8, 18.8]},
+			"faces": {
+				"north": {"uv": [0, 7, 15.75, 0], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [6.8, 0.95, 9.75],
+			"to": [7.1, 1.5, 11.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.7, -4.8, 19.05]},
+			"faces": {
+				"east": {"uv": [15.75, 0, 0, 7], "texture": "#0"},
+				"west": {"uv": [15.75, 0, 0, 7], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [-9, 0.85, 9.1],
+			"to": [1.2, 2.1, 12.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.5, -4.7, 19.1]},
+			"faces": {
+				"east": {"uv": [15.75, 0, 0, 7], "texture": "#0"},
+				"west": {"uv": [15.75, 0, 0, 7], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 7, 15.75, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-9.1, -0.05, 8],
+			"to": [1.8, 0.8, 13.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.9, -4.8, 21.1]},
+			"faces": {
+				"north": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "down"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-9.1, 2.05, 8],
+			"to": [1.8, 3.2, 13.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.9, -4.8, 21.1]},
+			"faces": {
+				"north": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-9.1, 0.75, 8],
+			"to": [1.8, 2.1, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.9, -4.8, 21.1]},
+			"faces": {
+				"north": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-9.1, 0.75, 12.2],
+			"to": [1.8, 2.1, 13.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.9, -4.8, 21.1]},
+			"faces": {
+				"north": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [3.25, 16, 9.5, 8.25], "rotation": 270, "texture": "#1", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-1.3, 3.5, 8.5],
+			"to": [1.1, 3.6, 13.35],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.9, -4.8, 21.1]},
+			"faces": {
+				"north": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-1.5, 3.2, 8.3],
+			"to": [1.3, 3.5, 13.55],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.9, -4.8, 21.1]},
+			"faces": {
+				"north": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-8.4, 3.5, 8.5],
+			"to": [-2.7, 3.6, 13.35],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.2, -4.8, 21.1]},
+			"faces": {
+				"north": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"east": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"south": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"west": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-8.6, 3.2, 8.3],
+			"to": [-2.5, 3.5, 13.55],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.2, -4.8, 21.1]},
+			"faces": {
+				"north": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"east": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"south": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"west": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 16, 13, 8.5], "rotation": 270, "texture": "#1", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-4.1, 1.25, 7.7],
+			"to": [-1.9, 1.5, 7.9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.1, -4.8, 21]},
+			"faces": {
+				"north": {"uv": [0, 15.75, 16, 8], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [16, 8, 0, 15.75], "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 15.75, 16, 8], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [16, 8, 0, 15.75], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 15.75, 16, 8], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 15.75, 16, 8], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-2.6, 1.25, 7.9],
+			"to": [-1.8, 1.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.9, -4.8, 21.1]},
+			"faces": {
+				"north": {"uv": [0, 15.75, 16, 8], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [16, 8, 0, 15.75], "texture": "#0", "cullface": "west"},
+				"west": {"uv": [16, 8, 0, 15.75], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 15.75, 16, 8], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 15.75, 16, 8], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-4.2, 1.25, 7.9],
+			"to": [-3.4, 1.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.3, -4.8, 21.1]},
+			"faces": {
+				"north": {"uv": [0, 15.75, 16, 8], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [16, 8, 0, 15.75], "texture": "#0", "cullface": "west"},
+				"west": {"uv": [16, 8, 0, 15.75], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 15.75, 16, 8], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 15.75, 16, 8], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-9.97841, 5.70455, -1.51705],
+			"to": [-7.57841, 5.80455, 3.33295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-10.17841, 5.40455, -1.71705],
+			"to": [-7.37841, 5.70455, 3.53295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [12, 10.5, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-10.67841, 4.25455, -2.01705],
+			"to": [0.22159, 5.40455, 3.73295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-6.17841, 5.70455, -1.51705],
+			"to": [-0.47841, 5.80455, 3.33295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [7.75, 10.25, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-6.37841, 5.40455, -1.71705],
+			"to": [-0.27841, 5.70455, 3.53295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-6.97841, 3.45455, -2.31705],
+			"to": [-4.77841, 3.70455, -2.11705],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-10.67841, 2.95455, -2.01705],
+			"to": [0.22159, 4.30455, -0.76705],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-7.07841, 3.45455, -2.11705],
+			"to": [-6.27841, 3.70455, -2.01705],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-5.47841, 3.45455, -2.11705],
+			"to": [-4.67841, 3.70455, -2.01705],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-10.77841, 3.00455, -0.91705],
+			"to": [-10.67841, 4.25455, -0.76705],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-10.77841, 2.85455, -0.91705],
+			"to": [-10.67841, 3.00455, 2.23295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-10.67841, 3.25455, -0.21705],
+			"to": [-1.77841, 3.40455, 1.63295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-10.67841, 2.15455, -2.01705],
+			"to": [0.22159, 3.00455, 3.73295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-10.77841, 4.25455, -0.91705],
+			"to": [-10.67841, 4.40455, 2.23295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-10.77841, 3.00455, 2.08295],
+			"to": [-10.67841, 4.25455, 2.23295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-10.67841, 2.95455, 2.18295],
+			"to": [0.22159, 4.30455, 3.73295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-12.07841, 3.15455, 1.48295],
+			"to": [-10.17841, 3.70455, 1.93295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-12.07841, 3.15455, -0.51705],
+			"to": [-10.17841, 3.70455, -0.06705],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-15.97841, 3.15455, -0.41705],
+			"to": [-12.07841, 3.70455, -0.26705],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-15.97841, 3.15455, 1.58295],
+			"to": [-12.07841, 3.70455, 1.83295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-15.97841, 3.15455, -0.26705],
+			"to": [-15.67841, 3.70455, 1.58295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"from": [-10.07841, 3.05455, -0.91705],
+			"to": [0.12159, 4.30455, 2.23295],
+			"rotation": {"angle": -45, "axis": "x", "origin": [-2.11932, 8.54091, 3.66364]},
+			"faces": {
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-2.68864, 7.8, 19.62727],
+			"to": [2.16136, 10.2, 19.72727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"east": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"south": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"down": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-2.88864, 7.6, 19.32727],
+			"to": [2.36136, 10.4, 19.62727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"east": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"south": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"down": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-3.08864, 0, 18.17727],
+			"to": [2.66136, 10.9, 19.32727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"east": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"south": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"down": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-2.68864, 0.7, 19.62727],
+			"to": [2.16136, 6.4, 19.72727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"east": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"south": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"down": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-2.88864, 0.5, 19.32727],
+			"to": [2.36136, 6.6, 19.62727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"east": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"south": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"down": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [2.76136, 5, 17.37727],
+			"to": [2.96136, 7.2, 17.62727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"east": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"south": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"up": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"down": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [1.41136, 0, 16.87727],
+			"to": [2.66136, 10.9, 18.22727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"east": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"up": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"down": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [2.66136, 6.5, 17.37727],
+			"to": [2.76136, 7.3, 17.62727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"east": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"south": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"up": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"down": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [2.66136, 4.9, 17.37727],
+			"to": [2.76136, 5.7, 17.62727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"east": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"south": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"up": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"down": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [1.41136, 10.9, 16.92727],
+			"to": [1.56136, 11, 18.17727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-1.58864, 10.9, 16.77727],
+			"to": [1.56136, 11, 16.92727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-0.98864, 2, 17.17727],
+			"to": [0.86136, 10.9, 17.32727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-3.08864, 0, 16.07727],
+			"to": [2.66136, 10.9, 16.92727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"east": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"south": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"down": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-1.58864, 10.9, 18.17727],
+			"to": [1.56136, 11, 18.32727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-1.58864, 10.9, 16.92727],
+			"to": [-1.43864, 11, 18.17727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [-3.08864, 0, 16.87727],
+			"to": [-1.53864, 10.9, 18.22727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"east": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"down": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-1.28864, 10.4, 17.07727],
+			"to": [-0.83864, 12.3, 17.62727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [0.71136, 10.4, 17.07727],
+			"to": [1.16136, 12.3, 17.62727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [0.91136, 12.3, 17.07727],
+			"to": [1.06136, 16.2, 17.62727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-1.18864, 12.3, 17.07727],
+			"to": [-0.93864, 16.2, 17.62727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-0.93864, 15.9, 17.07727],
+			"to": [0.91136, 16.2, 17.62727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"from": [-1.58864, 0.1, 16.97727],
+			"to": [1.56136, 10.3, 18.22727],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0.28068, 6.94091, 14.96364]},
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"up": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "south"},
+				"down": {"uv": [0.25, 0.25, 11.75, 7.25], "texture": "#1", "cullface": "west"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.6, 7.8, 16],
+			"to": [9.45, 10.2, 16.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.4, 7.6, 16.1],
+			"to": [9.65, 10.4, 16.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [12, 10.5, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.1, 0, 16.4],
+			"to": [9.85, 10.9, 17.55],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.6, 0.7, 16],
+			"to": [9.45, 6.4, 16.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [7.75, 10.25, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.4, 0.5, 16.1],
+			"to": [9.65, 6.6, 16.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [3.8, 5, 18.1],
+			"to": [4, 7.2, 18.35],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.1, 0, 17.5],
+			"to": [5.35, 10.9, 18.85],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4, 6.5, 18.1],
+			"to": [4.1, 7.3, 18.35],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4, 4.9, 18.1],
+			"to": [4.1, 5.7, 18.35],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [5.2, 10.9, 17.55],
+			"to": [5.35, 11, 18.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [5.2, 10.9, 18.8],
+			"to": [8.35, 11, 18.95],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [5.9, 2, 18.4],
+			"to": [7.75, 10.9, 18.55],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.1, 0, 18.8],
+			"to": [9.85, 10.9, 19.65],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [5.2, 10.9, 17.4],
+			"to": [8.35, 11, 17.55],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [8.2, 10.9, 17.55],
+			"to": [8.35, 11, 18.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [8.3, 0, 17.5],
+			"to": [9.85, 10.9, 18.85],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"east": {"uv": [0, 8, 6.5, 15.75], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [7.6, 10.4, 18.1],
+			"to": [8.05, 12.3, 18.65],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [5.6, 10.4, 18.1],
+			"to": [6.05, 12.3, 18.65],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [5.7, 12.3, 18.1],
+			"to": [5.85, 16.2, 18.65],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "up"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [7.7, 12.3, 18.1],
+			"to": [7.95, 16.2, 18.65],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "up"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [5.85, 15.9, 18.1],
+			"to": [7.7, 16.2, 18.65],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "up"},
+				"down": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"from": [5.2, 0.1, 17.5],
+			"to": [8.35, 10.3, 18.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.58068, 8.54091, 17.86364]},
+			"faces": {
+				"south": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [12.03977, 3.60455, 8.79432],
+			"to": [14.43977, 3.70455, 13.64432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [11.83977, 3.30455, 8.59432],
+			"to": [14.63977, 3.60455, 13.84432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [12, 10.5, 16, 15.75], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.23977, 2.15455, 8.39432],
+			"to": [15.13977, 3.30455, 14.14432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0"},
+				"south": {"uv": [0, 8, 6.5, 15.75], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.93977, 3.60455, 8.79432],
+			"to": [10.63977, 3.70455, 13.64432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [7.75, 10.25, 16, 15.75], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.73977, 3.30455, 8.59432],
+			"to": [10.83977, 3.60455, 13.84432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [9.23977, 1.35455, 14.24432],
+			"to": [11.43977, 1.60455, 14.44432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.23977, 0.85455, 12.89432],
+			"to": [15.13977, 2.20455, 14.14432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 8, 6.5, 15.75], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [10.73977, 1.35455, 14.14432],
+			"to": [11.53977, 1.60455, 14.24432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [9.13977, 1.35455, 14.14432],
+			"to": [9.93977, 1.60455, 14.24432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [15.13977, 0.90455, 12.89432],
+			"to": [15.23977, 2.15455, 13.04432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [15.13977, 0.75455, 9.89432],
+			"to": [15.23977, 0.90455, 13.04432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [6.23977, 1.15455, 10.49432],
+			"to": [15.13977, 1.30455, 12.34432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.23977, 0.05455, 8.39432],
+			"to": [15.13977, 0.90455, 14.14432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0"},
+				"south": {"uv": [0, 8, 6.5, 15.75], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [15.13977, 2.15455, 9.89432],
+			"to": [15.23977, 2.30455, 13.04432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [15.13977, 0.90455, 9.89432],
+			"to": [15.23977, 2.15455, 10.04432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.23977, 0.85455, 8.39432],
+			"to": [15.13977, 2.20455, 9.94432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 8, 16, 15.75], "texture": "#0"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [14.63977, 1.05455, 10.19432],
+			"to": [16.53977, 1.60455, 10.64432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [14.63977, 1.05455, 12.19432],
+			"to": [16.53977, 1.60455, 12.64432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [16.53977, 1.05455, 12.39432],
+			"to": [20.43977, 1.60455, 12.54432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [16.53977, 1.05455, 10.29432],
+			"to": [20.43977, 1.60455, 10.54432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [20.13977, 1.05455, 10.54432],
+			"to": [20.43977, 1.60455, 12.39432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"from": [4.33977, 0.95455, 9.89432],
+			"to": [14.53977, 2.20455, 13.04432],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48068, 8.54091, 8.86364]},
+			"faces": {
+				"east": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [15.36343, 5.00455, 12.83821],
+			"to": [17.76343, 5.10455, 17.68821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [15.16343, 4.70455, 12.63821],
+			"to": [17.96343, 5.00455, 17.88821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [14.66343, 3.55455, 12.33821],
+			"to": [25.56343, 4.70455, 18.08821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [19.16343, 5.00455, 12.83821],
+			"to": [24.86343, 5.10455, 17.68821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"up": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [18.96343, 4.70455, 12.63821],
+			"to": [25.06343, 5.00455, 17.88821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"up": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [18.36343, 2.75455, 12.03821],
+			"to": [20.56343, 3.00455, 12.23821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"up": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"down": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [14.66343, 2.25455, 12.33821],
+			"to": [25.56343, 3.60455, 13.58821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [18.26343, 2.75455, 12.23821],
+			"to": [19.06343, 3.00455, 12.33821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"up": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"down": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [19.86343, 2.75455, 12.23821],
+			"to": [20.66343, 3.00455, 12.33821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"up": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"down": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [14.56343, 2.30455, 13.43821],
+			"to": [14.66343, 3.55455, 13.58821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [14.56343, 2.15455, 13.43821],
+			"to": [14.66343, 2.30455, 16.58821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [14.66343, 2.55455, 14.13821],
+			"to": [23.56343, 2.70455, 15.98821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [14.66343, 1.45455, 12.33821],
+			"to": [25.56343, 2.30455, 18.08821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [14.56343, 3.55455, 13.43821],
+			"to": [14.66343, 3.70455, 16.58821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [14.56343, 2.30455, 16.43821],
+			"to": [14.66343, 3.55455, 16.58821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [14.66343, 2.25455, 16.53821],
+			"to": [25.56343, 3.60455, 18.08821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "south"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "south"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [13.26343, 2.45455, 15.83821],
+			"to": [15.16343, 3.00455, 16.28821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [13.26343, 2.45455, 13.83821],
+			"to": [15.16343, 3.00455, 14.28821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [9.36343, 2.45455, 13.93821],
+			"to": [13.26343, 3.00455, 14.08821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [9.36343, 2.45455, 15.93821],
+			"to": [13.26343, 3.00455, 16.18821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [9.36343, 2.45455, 14.08821],
+			"to": [9.66343, 3.00455, 15.93821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [15.26343, 2.35455, 13.43821],
+			"to": [25.46343, 3.60455, 16.58821],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [20.52252, 5.84091, 17.8189]},
+			"faces": {
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [5.15805, 3.60455, 2.34771],
+			"to": [7.55805, 3.70455, 7.19771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.95805, 3.30455, 2.14771],
+			"to": [7.75805, 3.60455, 7.39771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.45805, 2.15455, 1.84771],
+			"to": [15.35805, 3.30455, 7.59771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [8.95805, 3.60455, 2.34771],
+			"to": [14.65805, 3.70455, 7.19771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [8.75805, 3.30455, 2.14771],
+			"to": [14.85805, 3.60455, 7.39771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [8.15805, 1.35455, 1.54771],
+			"to": [10.35805, 1.60455, 1.74771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.45805, 0.85455, 1.84771],
+			"to": [15.35805, 2.20455, 3.09771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [8.05805, 1.35455, 1.74771],
+			"to": [8.85805, 1.60455, 1.84771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [9.65805, 1.35455, 1.74771],
+			"to": [10.45805, 1.60455, 1.84771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [4.35805, 0.90455, 2.94771],
+			"to": [4.45805, 2.15455, 3.09771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [4.35805, 0.75455, 2.94771],
+			"to": [4.45805, 0.90455, 6.09771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [4.45805, 1.15455, 3.64771],
+			"to": [13.35805, 1.30455, 5.49771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.45805, 0.05455, 1.84771],
+			"to": [15.35805, 0.90455, 7.59771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [4.35805, 2.15455, 2.94771],
+			"to": [4.45805, 2.30455, 6.09771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [4.35805, 0.90455, 5.94771],
+			"to": [4.45805, 2.15455, 6.09771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [4.45805, 0.85455, 6.04771],
+			"to": [15.35805, 2.20455, 7.59771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [3.05805, 1.05455, 5.34771],
+			"to": [4.95805, 1.60455, 5.79771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [3.05805, 1.05455, 3.34771],
+			"to": [4.95805, 1.60455, 3.79771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-0.84195, 1.05455, 3.44771],
+			"to": [3.05805, 1.60455, 3.59771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-0.84195, 1.05455, 5.44771],
+			"to": [3.05805, 1.60455, 5.69771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [-0.84195, 1.05455, 3.59771],
+			"to": [-0.54195, 1.60455, 5.44771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"from": [5.05805, 0.95455, 2.94771],
+			"to": [15.25805, 2.20455, 6.09771],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.61714, 1.84091, 4.22839]},
+			"faces": {
+				"east": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [2, 0, 8.5, 7.75], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [18.84783, 3.60455, 0.0693],
+			"to": [23.69783, 3.70455, 2.4693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [18.64783, 3.30455, -0.1307],
+			"to": [23.89783, 3.60455, 2.6693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [12, 10.5, 16, 15.75], "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [18.44783, 2.15455, -0.6307],
+			"to": [24.19783, 3.30455, 10.2693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [18.84783, 3.60455, 3.8693],
+			"to": [23.69783, 3.70455, 9.5693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [7.75, 10.25, 16, 15.75], "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [18.64783, 3.30455, 3.6693],
+			"to": [23.89783, 3.60455, 9.7693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [24.29783, 1.35455, 3.0693],
+			"to": [24.49783, 1.60455, 5.2693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [22.94783, 0.85455, -0.6307],
+			"to": [24.19783, 2.20455, 10.2693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 8, 16, 15.75], "rotation": 270, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [24.19783, 1.35455, 2.9693],
+			"to": [24.29783, 1.60455, 3.7693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [24.19783, 1.35455, 4.5693],
+			"to": [24.29783, 1.60455, 5.3693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [22.94783, 0.90455, -0.7307],
+			"to": [23.09783, 2.15455, -0.6307],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "north"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "north"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [19.94783, 0.75455, -0.7307],
+			"to": [23.09783, 0.90455, -0.6307],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "north"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [20.54783, 1.15455, -0.6307],
+			"to": [22.39783, 1.30455, 8.2693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [18.44783, 0.05455, -0.6307],
+			"to": [24.19783, 0.90455, 10.2693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 8, 6.5, 15.75], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"down": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [19.94783, 2.15455, -0.7307],
+			"to": [23.09783, 2.30455, -0.6307],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "north"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [19.94783, 0.90455, -0.7307],
+			"to": [20.09783, 2.15455, -0.6307],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱外�?",
+			"from": [18.44783, 0.85455, -0.6307],
+			"to": [19.99783, 2.20455, 10.2693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 15.75], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 8, 16, 15.75], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 15.75], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 8, 6.5, 15.75], "rotation": 270, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [20.24783, 1.05455, -2.0307],
+			"to": [20.69783, 1.60455, -0.1307],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [22.24783, 1.05455, -2.0307],
+			"to": [22.69783, 1.60455, -0.1307],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [22.44783, 1.05455, -5.9307],
+			"to": [22.59783, 1.60455, -2.0307],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "north"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "north"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "north"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "north"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [20.34783, 1.05455, -5.9307],
+			"to": [20.59783, 1.60455, -2.0307],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [0, 0, 15.75, 7], "rotation": 90, "texture": "#0", "cullface": "north"},
+				"west": {"uv": [0, 0, 15.75, 7], "rotation": 270, "texture": "#0", "cullface": "north"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "north"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "north"}
+			}
+		},
+		{
+			"name": "行李箱把�?",
+			"from": [20.59783, 1.05455, -5.9307],
+			"to": [22.44783, 1.60455, -5.6307],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "north"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"up": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "north"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "north"}
+			}
+		},
+		{
+			"from": [19.94783, 0.95455, -0.0307],
+			"to": [23.09783, 2.20455, 10.1693],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.31714, 1.84091, 4.22839]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.75, 7], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "east"},
+				"down": {"uv": [0, 0, 15.75, 7], "rotation": 180, "texture": "#0", "cullface": "east"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-6, 0, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 3.75, 0],
+			"scale": [0.45508, 0.45508, 0.45508]
+		},
+		"gui": {
+			"rotation": [31, 118.75, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.51563, 0.51563, 0.51563]
+		}
+	},
+	"groups": [
+		{
+			"name": "行李箱把�?",
+			"origin": [11.95, 9.8, 6.5],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+		},
+		{
+			"name": "行李箱外�?",
+			"origin": [14, 6.4, 6.5],
+			"color": 0,
+			"children": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+		},
+		{
+			"name": "group",
+			"origin": [12, -0.4, 6.4],
+			"color": 0,
+			"children": [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]
+		},
+		{
+			"name": "group",
+			"origin": [12, -0.4, 6.4],
+			"color": 0,
+			"children": [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]
+		},
+		{
+			"name": "group",
+			"origin": [12, -0.4, 6.4],
+			"color": 0,
+			"children": [66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87]
+		},
+		{
+			"name": "group",
+			"origin": [12, -0.4, 6.4],
+			"color": 0,
+			"children": [88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109]
+		},
+		{
+			"name": "group",
+			"origin": [12, -0.4, 6.4],
+			"color": 0,
+			"children": [110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131]
+		},
+		{
+			"name": "group",
+			"origin": [12, -0.4, 6.4],
+			"color": 0,
+			"children": [132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153]
+		},
+		{
+			"name": "group",
+			"origin": [12, -0.4, 6.4],
+			"color": 0,
+			"children": [154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175]
+		}
+	]
+}

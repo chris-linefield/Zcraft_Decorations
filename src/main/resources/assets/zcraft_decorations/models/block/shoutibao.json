@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/shou_ti_bao_",
+  "textures": {
+    "all": "zcraft_decorations:block/paper_bag_string",
+    "particle": "zcraft_decorations:block/paper_bag_string",
+    "texture": "zcraft_decorations:block/paper_bag_white",
+    "texture1": "zcraft_decorations:block/paper_bag_string"
+  }
+}

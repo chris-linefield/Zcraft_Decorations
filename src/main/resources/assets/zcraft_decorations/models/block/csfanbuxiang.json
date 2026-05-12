@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/csfan_bu_xiang_",
+  "textures": {
+    "all": "zcraft_decorations:block/sc_wbox02",
+    "particle": "zcraft_decorations:block/sc_wbox02",
+    "0": "zcraft_decorations:block/sc_wbox02",
+    "1": "zcraft_decorations:block/sc_wbox01"
+  }
+}

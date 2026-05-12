@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/farm",
+  "textures": {
+    "all": "zcraft_decorations:block/3",
+    "particle": "zcraft_decorations:block/3",
+    "0": "zcraft_decorations:block/3",
+    "missing": "zcraft_decorations:block/3"
+  },
+  "render_type": "cutout"
+}

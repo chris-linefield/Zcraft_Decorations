@@ -1,0 +1,13 @@
+{
+  "parent": "zcraft_decorations:custom/csdanyaoxiang",
+  "textures": {
+    "all": "zcraft_decorations:block/cs_blbox01_01",
+    "particle": "zcraft_decorations:block/cs_blbox01_01",
+    "0": "zcraft_decorations:block/cs_blbox01_01",
+    "1": "zcraft_decorations:block/cs_blbox01_02",
+    "2": "zcraft_decorations:block/cs_blbox01_03",
+    "3": "zcraft_decorations:block/cs_blbox01_04",
+    "4": "zcraft_decorations:block/cs_blbox01_011",
+    "missing": "zcraft_decorations:block/cs_blbox01_01"
+  }
+}

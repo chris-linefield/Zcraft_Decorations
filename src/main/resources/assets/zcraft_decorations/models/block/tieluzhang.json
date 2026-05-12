@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/tie_lu_zhang_",
+  "textures": {
+    "all": "zcraft_decorations:block/jin_shu_qiang_",
+    "particle": "zcraft_decorations:block/jin_shu_qiang_",
+    "0": "zcraft_decorations:block/jin_shu_qiang_"
+  }
+}

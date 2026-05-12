@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/block111",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "texture": "zcraft_decorations:block/planks_jungle",
+    "chair": "zcraft_decorations:block/chair"
+  }
+}

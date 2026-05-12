@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/medicalcart1",
+  "textures": {
+    "all": "zcraft_decorations:block/mcart",
+    "particle": "zcraft_decorations:block/mcart",
+    "0": "zcraft_decorations:block/mcart"
+  },
+  "render_type": "solid"
+}

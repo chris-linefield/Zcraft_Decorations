@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/taxi1",
+  "textures": {
+    "all": "zcraft_decorations:block/taxi1",
+    "particle": "zcraft_decorations:block/taxi1",
+    "0": "zcraft_decorations:block/taxi1"
+  }
+}

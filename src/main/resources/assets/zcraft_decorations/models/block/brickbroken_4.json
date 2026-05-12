@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "zcraft_decorations:block/wallbrick3",
+    "bottom": "zcraft_decorations:block/wallbrick3",
+    "top": "zcraft_decorations:block/wallbrick3",
+    "side": "zcraft_decorations:block/wallbrick3"
+  },
+  "render_type": "solid"
+}

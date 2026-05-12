@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/elivtorbot",
+  "textures": {
+    "all": "zcraft_decorations:block/sprite-0002",
+    "particle": "zcraft_decorations:block/sprite-0002",
+    "0": "zcraft_decorations:block/elevtorb"
+  },
+  "render_type": "solid"
+}

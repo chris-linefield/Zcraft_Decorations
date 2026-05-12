@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zcraft_decorations:block/range_retro_blue1",
+    "up": "zcraft_decorations:block/range_retro_black2",
+    "north": "zcraft_decorations:block/range_retro_blue",
+    "east": "zcraft_decorations:block/range_retro_blue1",
+    "south": "zcraft_decorations:block/range_retro_blue1",
+    "west": "zcraft_decorations:block/range_retro_blue1",
+    "particle": "zcraft_decorations:block/range_retro_blue1"
+  },
+  "render_type": "solid"
+}

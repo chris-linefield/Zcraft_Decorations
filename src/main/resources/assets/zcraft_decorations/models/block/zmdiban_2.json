@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/zmdi_ban_2",
+  "textures": {
+    "all": "zcraft_decorations:block/abyss_floor05",
+    "particle": "zcraft_decorations:block/abyss_floor05",
+    "0": "zcraft_decorations:block/abyss_floor05"
+  }
+}

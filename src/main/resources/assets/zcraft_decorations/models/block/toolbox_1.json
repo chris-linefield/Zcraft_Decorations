@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/toolbox",
+  "textures": {
+    "all": "zcraft_decorations:block/toolsbox",
+    "particle": "zcraft_decorations:block/toolsbox",
+    "0": "zcraft_decorations:block/toolsbox"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/meterbox1",
+  "textures": {
+    "all": "zcraft_decorations:block/meterbox",
+    "particle": "zcraft_decorations:block/meterbox",
+    "0": "zcraft_decorations:block/meterbox"
+  },
+  "render_type": "solid"
+}

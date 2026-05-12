@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/wooden_pallet",
+  "textures": {
+    "all": "zcraft_decorations:block/wooden_pallet",
+    "particle": "zcraft_decorations:block/wooden_pallet",
+    "0": "zcraft_decorations:block/wooden_pallet",
+    "missing": "zcraft_decorations:block/wooden_pallet"
+  },
+  "render_type": "solid"
+}

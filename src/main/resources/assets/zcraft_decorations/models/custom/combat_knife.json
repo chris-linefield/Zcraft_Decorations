@@ -1,0 +1,1680 @@
+{
+  "__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+  "elements": [
+    {
+      "__comment": "combat_knife1",
+      "from": [
+        8,
+        15.5,
+        7.75
+      ],
+      "to": [
+        8.5,
+        16,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            0,
+            8.5,
+            0.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            8,
+            0.5,
+            8.5,
+            0
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            0,
+            8,
+            0.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            8.5,
+            0.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            8.5,
+            0.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            0,
+            8,
+            0.5
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife2",
+      "from": [
+        7.5,
+        15,
+        7.75
+      ],
+      "to": [
+        8.5,
+        15.5,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            0.5,
+            8.5,
+            1
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            1,
+            8.5,
+            0.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            0.5,
+            7.5,
+            1
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            0.5,
+            8.5,
+            1
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            0.5,
+            8,
+            1
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            0.5,
+            8,
+            1
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife3",
+      "from": [
+        7,
+        13,
+        7.75
+      ],
+      "to": [
+        9,
+        15,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            2.5,
+            9,
+            3
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            1.5,
+            9,
+            1
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            9,
+            1,
+            7,
+            3
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            1,
+            9,
+            3
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            1,
+            7.5,
+            3
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            9,
+            1,
+            8.5,
+            3
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife4",
+      "from": [
+        7,
+        12.5,
+        7.75
+      ],
+      "to": [
+        8.5,
+        13,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            3,
+            8.5,
+            3.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            3.5,
+            8.5,
+            3
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            3,
+            7,
+            3.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            3,
+            8.5,
+            3.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            3,
+            7.5,
+            3.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            3,
+            8,
+            3.5
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife5",
+      "from": [
+        7,
+        11.5,
+        7.75
+      ],
+      "to": [
+        8.5,
+        12,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            4,
+            8.5,
+            4.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            4.5,
+            8.5,
+            4
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            4,
+            7,
+            4.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            4,
+            8.5,
+            4.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            4,
+            7.5,
+            4.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            4,
+            8,
+            4.5
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife6",
+      "from": [
+        7,
+        10.5,
+        7.75
+      ],
+      "to": [
+        8.5,
+        11,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            5,
+            8.5,
+            5.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            5.5,
+            8.5,
+            5
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            5,
+            7,
+            5.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            5,
+            8.5,
+            5.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            5,
+            7.5,
+            5.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            5,
+            8,
+            5.5
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife7",
+      "from": [
+        7,
+        9.5,
+        7.75
+      ],
+      "to": [
+        8.5,
+        10,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            6,
+            8.5,
+            6.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            6.5,
+            8.5,
+            6
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            6,
+            7,
+            6.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            6,
+            8.5,
+            6.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            6,
+            7.5,
+            6.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            6,
+            8,
+            6.5
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife8",
+      "from": [
+        7,
+        8.5,
+        7.75
+      ],
+      "to": [
+        8.5,
+        9,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            7,
+            8.5,
+            7.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            7.5,
+            8.5,
+            7
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            7,
+            7,
+            7.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            7,
+            8.5,
+            7.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            7,
+            7.5,
+            7.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            7,
+            8,
+            7.5
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife9",
+      "from": [
+        7,
+        7.5,
+        7.75
+      ],
+      "to": [
+        8.5,
+        8,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            8,
+            8.5,
+            8.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            8.5,
+            8.5,
+            8
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            8,
+            7,
+            8.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            8,
+            8.5,
+            8.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            8,
+            7.5,
+            8.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            8,
+            8,
+            8.5
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife10",
+      "from": [
+        7,
+        6.5,
+        7.75
+      ],
+      "to": [
+        8.5,
+        7,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            9,
+            8.5,
+            9.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            9.5,
+            8.5,
+            9
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            9,
+            7,
+            9.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            9,
+            8.5,
+            9.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            9,
+            7.5,
+            9.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            9,
+            8,
+            9.5
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife11",
+      "from": [
+        7,
+        12,
+        7.75
+      ],
+      "to": [
+        9,
+        12.5,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            3.5,
+            9,
+            4
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            4,
+            9,
+            3.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            9,
+            3.5,
+            7,
+            4
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            3.5,
+            9,
+            4
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            3.5,
+            7.5,
+            4
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            9,
+            3.5,
+            8.5,
+            4
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife12",
+      "from": [
+        7,
+        11,
+        7.75
+      ],
+      "to": [
+        9,
+        11.5,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            4.5,
+            9,
+            5
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            5,
+            9,
+            4.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            9,
+            4.5,
+            7,
+            5
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            4.5,
+            9,
+            5
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            4.5,
+            7.5,
+            5
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            9,
+            4.5,
+            8.5,
+            5
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife13",
+      "from": [
+        7,
+        10,
+        7.75
+      ],
+      "to": [
+        9,
+        10.5,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            5.5,
+            9,
+            6
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            6,
+            9,
+            5.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            9,
+            5.5,
+            7,
+            6
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            5.5,
+            9,
+            6
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            5.5,
+            7.5,
+            6
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            9,
+            5.5,
+            8.5,
+            6
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife14",
+      "from": [
+        7,
+        9,
+        7.75
+      ],
+      "to": [
+        9,
+        9.5,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            6.5,
+            9,
+            7
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            7,
+            9,
+            6.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            9,
+            6.5,
+            7,
+            7
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            6.5,
+            9,
+            7
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            6.5,
+            7.5,
+            7
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            9,
+            6.5,
+            8.5,
+            7
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife15",
+      "from": [
+        7,
+        8,
+        7.75
+      ],
+      "to": [
+        9,
+        8.5,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            7.5,
+            9,
+            8
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            8,
+            9,
+            7.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            9,
+            7.5,
+            7,
+            8
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            7.5,
+            9,
+            8
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            7.5,
+            7.5,
+            8
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            9,
+            7.5,
+            8.5,
+            8
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife16",
+      "from": [
+        7,
+        7,
+        7.75
+      ],
+      "to": [
+        9,
+        7.5,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            8.5,
+            9,
+            9
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            9,
+            9,
+            8.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            9,
+            8.5,
+            7,
+            9
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            8.5,
+            9,
+            9
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            8.5,
+            7.5,
+            9
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            9,
+            8.5,
+            8.5,
+            9
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife17",
+      "from": [
+        7,
+        5.5,
+        7.75
+      ],
+      "to": [
+        9,
+        6.5,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            10,
+            9,
+            10.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            10,
+            9,
+            9.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            9,
+            9.5,
+            7,
+            10.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            9.5,
+            9,
+            10.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            9.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            9,
+            9.5,
+            8.5,
+            10.5
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife18",
+      "from": [
+        7,
+        5,
+        7
+      ],
+      "to": [
+        9,
+        5.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            10.5,
+            9,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            11,
+            9,
+            10.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            9,
+            10.5,
+            7,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            10.5,
+            9,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            10.5,
+            7.5,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            9,
+            10.5,
+            8.5,
+            11
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife19",
+      "from": [
+        9,
+        5,
+        7.5
+      ],
+      "to": [
+        9.5,
+        5.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            10.5,
+            9.5,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            9,
+            11,
+            9.5,
+            10.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            10.5,
+            9,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            9,
+            10.5,
+            9.5,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            9,
+            10.5,
+            9.5,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            10.5,
+            9,
+            11
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife20",
+      "from": [
+        6,
+        5,
+        7.5
+      ],
+      "to": [
+        7,
+        5.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            10.5,
+            7,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            6,
+            11,
+            7,
+            10.5
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            7,
+            10.5,
+            6,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            6,
+            10.5,
+            7,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            6,
+            10.5,
+            6.5,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            7,
+            10.5,
+            6.5,
+            11
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife21",
+      "from": [
+        7.5,
+        0,
+        7
+      ],
+      "to": [
+        8.5,
+        5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            15.5,
+            8.5,
+            16
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            11.5,
+            8.5,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            11,
+            7.5,
+            16
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            11,
+            8.5,
+            16
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            11,
+            8,
+            16
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            11,
+            8,
+            16
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife22",
+      "from": [
+        7,
+        0,
+        7.5
+      ],
+      "to": [
+        7.5,
+        5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            15.5,
+            7.5,
+            16
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            7,
+            11.5,
+            7.5,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            11,
+            7,
+            16
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            7,
+            11,
+            7.5,
+            16
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7,
+            11,
+            7.5,
+            16
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            11,
+            7,
+            16
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    },
+    {
+      "__comment": "combat_knife",
+      "from": [
+        8.5,
+        0,
+        7.5
+      ],
+      "to": [
+        9,
+        5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            15.5,
+            9,
+            16
+          ],
+          "texture": "#combat_knife"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            11.5,
+            9,
+            11
+          ],
+          "texture": "#combat_knife"
+        },
+        "north": {
+          "uv": [
+            9,
+            11,
+            8.5,
+            16
+          ],
+          "texture": "#combat_knife"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            11,
+            9,
+            16
+          ],
+          "texture": "#combat_knife"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            11,
+            8.5,
+            16
+          ],
+          "texture": "#combat_knife"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            11,
+            7.5,
+            16
+          ],
+          "texture": "#combat_knife"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        0,
+        1.75,
+        1
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -90,
+        -90,
+        45
+      ],
+      "translation": [
+        -10.5,
+        -1.5,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        15
+      ],
+      "translation": [
+        0,
+        0,
+        -6
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        -45
+      ]
+    },
+    "head": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "ground": {
+      "rotation": [
+        -90,
+        0,
+        90
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ]
+    }
+  }
+}

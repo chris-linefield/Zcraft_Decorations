@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/tie_jia_chuang_",
+  "textures": {
+    "all": "zcraft_decorations:block/tie_jia_chuang_",
+    "particle": "zcraft_decorations:block/tie_jia_chuang_",
+    "1": "zcraft_decorations:block/tie_jia_chuang_",
+    "missing": "zcraft_decorations:block/tie_jia_chuang_"
+  }
+}

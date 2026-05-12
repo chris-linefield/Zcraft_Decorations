@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/shou_yin_ji_",
+  "textures": {
+    "all": "zcraft_decorations:block/shou_yin_ji_",
+    "particle": "zcraft_decorations:block/shou_yin_ji_",
+    "0": "zcraft_decorations:block/shou_yin_ji_"
+  }
+}

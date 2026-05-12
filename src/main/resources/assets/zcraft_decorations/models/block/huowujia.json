@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/huo_wu_jia_",
+  "textures": {
+    "all": "zcraft_decorations:block/liang_shi_jia_",
+    "particle": "zcraft_decorations:block/liang_shi_jia_",
+    "0": "zcraft_decorations:block/liang_shi_jia_",
+    "missing": "zcraft_decorations:block/liang_shi_jia_"
+  }
+}

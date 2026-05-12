@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/block634",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "0": "zcraft_decorations:block/elevator_door_up",
+    "1": "zcraft_decorations:block/baoting1",
+    "2": "zcraft_decorations:block/planks_spruce",
+    "4": "zcraft_decorations:block/guoshidai"
+  }
+}

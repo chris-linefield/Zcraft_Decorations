@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/gan_ran_biao_zhi_",
+  "textures": {
+    "all": "zcraft_decorations:block/sign62",
+    "particle": "zcraft_decorations:block/sign62",
+    "0": "zcraft_decorations:block/sign62"
+  }
+}

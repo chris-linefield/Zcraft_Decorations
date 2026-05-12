@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zcraft_decorations:block/range_silver_side",
+    "up": "zcraft_decorations:block/range_silver_top",
+    "north": "zcraft_decorations:block/range_silver",
+    "east": "zcraft_decorations:block/range_silver_side",
+    "south": "zcraft_decorations:block/range_silver_side",
+    "west": "zcraft_decorations:block/range_silver_side",
+    "particle": "zcraft_decorations:block/range_silver_side"
+  },
+  "render_type": "solid"
+}

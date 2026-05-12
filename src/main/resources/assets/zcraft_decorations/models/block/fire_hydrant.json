@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/firehydrant",
+  "textures": {
+    "all": "zcraft_decorations:block/firehydrant",
+    "particle": "zcraft_decorations:block/firehydrant",
+    "0": "zcraft_decorations:block/firehydrant",
+    "missing": "zcraft_decorations:block/firehydrant"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/warehouseshelves",
+  "textures": {
+    "all": "zcraft_decorations:block/hj",
+    "particle": "zcraft_decorations:block/hj",
+    "0": "zcraft_decorations:block/hj"
+  },
+  "render_type": "solid"
+}

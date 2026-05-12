@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/gong_wen_bao_",
+  "textures": {
+    "all": "zcraft_decorations:block/briefcase_brown",
+    "particle": "zcraft_decorations:block/briefcase_brown",
+    "texture": "zcraft_decorations:block/briefcase_brown",
+    "texture1": "zcraft_decorations:block/1-metal-light"
+  }
+}

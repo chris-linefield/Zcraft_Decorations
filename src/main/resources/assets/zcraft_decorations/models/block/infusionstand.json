@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/infusionstand",
+  "textures": {
+    "all": "zcraft_decorations:block/infusionstand",
+    "particle": "zcraft_decorations:block/infusionstand",
+    "0": "zcraft_decorations:block/infusionstand"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/dustbin",
+  "textures": {
+    "all": "zcraft_decorations:block/dustbin",
+    "particle": "zcraft_decorations:block/dustbin",
+    "0": "zcraft_decorations:block/dustbin"
+  },
+  "render_type": "solid"
+}

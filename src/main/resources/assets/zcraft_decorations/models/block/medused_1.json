@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/gbandage",
+  "textures": {
+    "all": "zcraft_decorations:block/gbandage",
+    "particle": "zcraft_decorations:block/gbandage",
+    "0": "zcraft_decorations:block/gbandage",
+    "missing": "zcraft_decorations:block/gbandage"
+  },
+  "render_type": "cutout"
+}

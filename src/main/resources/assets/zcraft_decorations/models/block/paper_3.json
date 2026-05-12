@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/paper3",
+  "textures": {
+    "all": "zcraft_decorations:block/paper1",
+    "particle": "zcraft_decorations:block/paper1",
+    "0": "zcraft_decorations:block/paper1",
+    "missing": "zcraft_decorations:block/paper1"
+  },
+  "render_type": "solid"
+}

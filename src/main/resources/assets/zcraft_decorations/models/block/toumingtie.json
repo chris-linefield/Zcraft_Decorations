@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/toumingmisss",
+  "textures": {
+    "all": "zcraft_decorations:block/toumingbarr",
+    "particle": "zcraft_decorations:block/toumingbarr",
+    "0": "zcraft_decorations:block/toumingbarr"
+  }
+}

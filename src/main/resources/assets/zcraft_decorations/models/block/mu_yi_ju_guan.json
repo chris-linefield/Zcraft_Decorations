@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/mu_yi_ju_guan_",
+  "textures": {
+    "all": "zcraft_decorations:block/mu_yi_ju_",
+    "particle": "zcraft_decorations:block/mu_yi_ju_",
+    "0": "zcraft_decorations:block/mu_yi_ju_"
+  }
+}

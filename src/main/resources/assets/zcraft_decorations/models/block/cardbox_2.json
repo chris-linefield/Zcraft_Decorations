@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/cardboxhelf",
+  "textures": {
+    "all": "zcraft_decorations:block/cardbox",
+    "particle": "zcraft_decorations:block/cardbox",
+    "0": "zcraft_decorations:block/cardbox"
+  },
+  "render_type": "solid"
+}

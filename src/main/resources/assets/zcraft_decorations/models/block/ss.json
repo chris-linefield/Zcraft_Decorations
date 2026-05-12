@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/si_shi_",
+  "textures": {
+    "all": "zcraft_decorations:block/si_shi_",
+    "particle": "zcraft_decorations:block/si_shi_",
+    "0": "zcraft_decorations:block/si_shi_"
+  }
+}

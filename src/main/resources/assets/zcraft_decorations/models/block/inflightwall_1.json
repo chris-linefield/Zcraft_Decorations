@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/inflight_wall1",
+  "textures": {
+    "all": "zcraft_decorations:block/sterilizinglamp",
+    "particle": "zcraft_decorations:block/sterilizinglamp",
+    "0": "zcraft_decorations:block/sterilizinglamp"
+  },
+  "render_type": "solid"
+}

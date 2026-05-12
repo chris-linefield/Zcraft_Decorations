@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/gpuminer3",
+  "textures": {
+    "all": "zcraft_decorations:block/gpuminer",
+    "particle": "zcraft_decorations:block/gpuminer",
+    "0": "zcraft_decorations:block/gpuminer"
+  },
+  "render_type": "solid"
+}

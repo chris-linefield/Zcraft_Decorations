@@ -1,0 +1,19 @@
+{
+    "type":  "minecraft:block",
+    "pools":  [
+                  {
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "zcraft_decorations:sfz_kong_ju_zi"
+                                      }
+                                  ],
+                      "conditions":  [
+                                         {
+                                             "condition":  "minecraft:survives_explosion"
+                                         }
+                                     ]
+                  }
+              ]
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/barr2",
+  "textures": {
+    "all": "zcraft_decorations:block/barr",
+    "particle": "zcraft_decorations:block/barr",
+    "0": "zcraft_decorations:block/barr",
+    "missing": "zcraft_decorations:block/barr"
+  },
+  "render_type": "solid"
+}

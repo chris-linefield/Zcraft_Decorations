@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "zcraft_decorations:block/brickbroken_4"
+    },
+    "type=top": {
+      "model": "zcraft_decorations:block/brickbroken_4_top"
+    },
+    "type=double": {
+      "model": "zcraft_decorations:block/brickbroken_4_full"
+    }
+  }
+}

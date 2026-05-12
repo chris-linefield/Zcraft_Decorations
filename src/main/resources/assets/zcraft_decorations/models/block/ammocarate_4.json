@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/ammocarate_top2",
+  "textures": {
+    "all": "zcraft_decorations:block/crate",
+    "particle": "zcraft_decorations:block/crate",
+    "0": "zcraft_decorations:block/crate"
+  },
+  "render_type": "solid"
+}

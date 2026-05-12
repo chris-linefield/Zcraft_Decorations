@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/curtainleft",
+  "textures": {
+    "all": "zcraft_decorations:block/curtain_black",
+    "particle": "zcraft_decorations:block/curtain_black",
+    "0": "zcraft_decorations:block/curtain_black"
+  },
+  "render_type": "cutout"
+}

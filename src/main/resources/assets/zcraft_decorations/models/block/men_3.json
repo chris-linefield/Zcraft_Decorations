@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/block554",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "2": "zcraft_decorations:block/door_wood_lower",
+    "3": "zcraft_decorations:block/door_wood_upper"
+  }
+}

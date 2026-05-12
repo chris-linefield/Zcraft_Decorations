@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/block684",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "0": "zcraft_decorations:block/xinfeng1",
+    "1": "zcraft_decorations:block/xinfeng2",
+    "2": "zcraft_decorations:block/xinfeng3",
+    "3": "zcraft_decorations:block/xinfeng4"
+  }
+}

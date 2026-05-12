@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/hei_ban_bao_4",
+  "textures": {
+    "all": "zcraft_decorations:block/hei_ban_bao_4",
+    "particle": "zcraft_decorations:block/hei_ban_bao_4",
+    "0": "zcraft_decorations:block/hei_ban_bao_4",
+    "missing": "zcraft_decorations:block/hei_ban_bao_4"
+  }
+}

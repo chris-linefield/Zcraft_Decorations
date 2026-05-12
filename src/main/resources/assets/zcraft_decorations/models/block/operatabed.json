@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/operatebed",
+  "textures": {
+    "all": "zcraft_decorations:block/operatabed",
+    "particle": "zcraft_decorations:block/operatabed",
+    "0": "zcraft_decorations:block/operatabed"
+  },
+  "render_type": "solid"
+}

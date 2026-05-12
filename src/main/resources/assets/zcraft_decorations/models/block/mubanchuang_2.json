@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/bed3",
+  "textures": {
+    "all": "zcraft_decorations:block/bed3",
+    "particle": "zcraft_decorations:block/bed3",
+    "1": "zcraft_decorations:block/bed3"
+  }
+}

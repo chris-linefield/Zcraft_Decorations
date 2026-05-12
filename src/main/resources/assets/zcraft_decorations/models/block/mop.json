@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/mop",
+  "textures": {
+    "all": "zcraft_decorations:block/mop",
+    "particle": "zcraft_decorations:block/mop",
+    "0": "zcraft_decorations:block/mop"
+  },
+  "render_type": "cutout"
+}

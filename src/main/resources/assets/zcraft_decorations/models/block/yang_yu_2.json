@@ -1,0 +1,12 @@
+{
+  "parent": "zcraft_decorations:custom/block225",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "0": "zcraft_decorations:block/chugui1",
+    "1": "zcraft_decorations:block/grass_top",
+    "3": "zcraft_decorations:block/double_plant_grass_top",
+    "4": "zcraft_decorations:block/flower_dandelion",
+    "7": "zcraft_decorations:block/tallgrass"
+  }
+}

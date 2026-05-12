@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/huang_se_tie_pi_ju_2",
+  "textures": {
+    "all": "zcraft_decorations:block/huang_se_tie_pi_ju_",
+    "particle": "zcraft_decorations:block/huang_se_tie_pi_ju_",
+    "0": "zcraft_decorations:block/huang_se_tie_pi_ju_"
+  }
+}

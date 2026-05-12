@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/concwall3",
+  "textures": {
+    "all": "zcraft_decorations:block/conwall",
+    "particle": "zcraft_decorations:block/conwall",
+    "0": "zcraft_decorations:block/conwall"
+  },
+  "render_type": "solid"
+}

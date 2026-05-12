@@ -1,0 +1,19 @@
+{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "zcraft_decorations:block/sfz_lajitong"
+                                      },
+                     "facing=east":  {
+                                         "model":  "zcraft_decorations:block/sfz_lajitong",
+                                         "y":  90
+                                     },
+                     "facing=south":  {
+                                          "model":  "zcraft_decorations:block/sfz_lajitong",
+                                          "y":  180
+                                      },
+                     "facing=west":  {
+                                         "model":  "zcraft_decorations:block/sfz_lajitong",
+                                         "y":  270
+                                     }
+                 }
+}

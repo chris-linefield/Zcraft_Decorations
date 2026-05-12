@@ -1,0 +1,100 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"elements": [
+		{
+			"name": "电线上沿",
+			"from": [4.7, 0, 15.8],
+			"to": [5, 32, 16],
+			"rotation": {"angle": 0, "axis": "z", "origin": [-0.2, 4.7, 23.1]},
+			"faces": {
+				"north": {"uv": [12.75, 0, 13.5, 5.75], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2"},
+				"south": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "south"},
+				"west": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2"},
+				"up": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "up"},
+				"down": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "down"}
+			}
+		},
+		{
+			"name": "电线上沿",
+			"from": [3.5, 0, 15.8],
+			"to": [3.8, 32, 16],
+			"rotation": {"angle": 0, "axis": "z", "origin": [-1.4, 4.7, 23.1]},
+			"faces": {
+				"north": {"uv": [12.75, 0, 13.5, 5.75], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2"},
+				"south": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "south"},
+				"west": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2"},
+				"up": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "up"},
+				"down": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "down"}
+			}
+		},
+		{
+			"name": "电线上沿",
+			"from": [-0.31924, 0.1, 15.7],
+			"to": [-0.01924, 32, 15.9],
+			"rotation": {"angle": 0, "axis": "z", "origin": [-5.21924, 4.75061, 23]},
+			"faces": {
+				"north": {"uv": [12.75, 0, 13.5, 5.75], "rotation": 90, "texture": "#2", "cullface": "west"},
+				"east": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"south": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"west": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"up": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"down": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"}
+			}
+		},
+		{
+			"name": "电线上沿",
+			"from": [-2.55563, 0.1, 15.7],
+			"to": [-2.25563, 32, 15.9],
+			"rotation": {"angle": 0, "axis": "z", "origin": [-7.45563, 3.38701, 23]},
+			"faces": {
+				"north": {"uv": [12.75, 0, 13.5, 5.75], "rotation": 90, "texture": "#2", "cullface": "west"},
+				"east": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"south": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"west": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"up": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"down": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"}
+			}
+		},
+		{
+			"name": "电线上沿",
+			"from": [-7.55563, 0.1, 15.7],
+			"to": [-7.25563, 32, 15.9],
+			"rotation": {"angle": 0, "axis": "z", "origin": [-12.45563, -7.61299, 23]},
+			"faces": {
+				"north": {"uv": [12.75, 0, 13.5, 5.75], "rotation": 90, "texture": "#2", "cullface": "west"},
+				"east": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"south": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"west": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"up": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"down": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"}
+			}
+		},
+		{
+			"name": "电线上沿",
+			"from": [-10.35563, 0.1, 15.7],
+			"to": [-10.05563, 32, 15.9],
+			"rotation": {"angle": 0, "axis": "z", "origin": [-15.25563, -8.61299, 23]},
+			"faces": {
+				"north": {"uv": [12.75, 0, 13.5, 5.75], "rotation": 90, "texture": "#2", "cullface": "west"},
+				"east": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"south": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"west": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"up": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"},
+				"down": {"uv": [12.75, 0, 13.5, 5.75], "texture": "#2", "cullface": "west"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"scale": [0.21289, 0.21289, 0.21289]
+		},
+		"gui": {
+			"rotation": [35.25, 0.75, 0],
+			"translation": [6, -1.25, 0],
+			"scale": [0.61133, 0.61133, 0.61133]
+		}
+	}
+}

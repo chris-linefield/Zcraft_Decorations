@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/medicalbedc",
+  "textures": {
+    "all": "zcraft_decorations:block/medicalbed",
+    "particle": "zcraft_decorations:block/medicalbed",
+    "0": "zcraft_decorations:block/medicalbed"
+  },
+  "render_type": "cutout"
+}

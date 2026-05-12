@@ -1,0 +1,8 @@
+{
+  "parent": "testa:custom/chuang_dian__1",
+  "textures": {
+    "all": "testa:block/chuang_dian__1",
+    "particle": "testa:block/chuang_dian__1",
+    "0": "testa:block/chuang_dian__1"
+  }
+}

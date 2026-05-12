@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zcraft_decorations:block/brick_sandstone",
+    "up": "zcraft_decorations:block/brick_sandstone",
+    "north": "zcraft_decorations:block/brick_sandstone",
+    "east": "zcraft_decorations:block/brick_sandstone",
+    "south": "zcraft_decorations:block/brick_sandstone",
+    "west": "zcraft_decorations:block/brick_sandstone",
+    "particle": "zcraft_decorations:block/brick_sandstone"
+  },
+  "render_type": "solid"
+}

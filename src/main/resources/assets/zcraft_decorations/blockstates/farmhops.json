@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zcraft_decorations:block/farmhops"
+    },
+    "facing=east": {
+      "model": "zcraft_decorations:block/farmhops",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zcraft_decorations:block/farmhops",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zcraft_decorations:block/farmhops",
+      "y": 270
+    }
+  }
+}

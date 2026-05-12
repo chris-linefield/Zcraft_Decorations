@@ -1,0 +1,19 @@
+{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "zcraft_decorations:block/sfz_micaibao"
+                                      },
+                     "facing=east":  {
+                                         "model":  "zcraft_decorations:block/sfz_micaibao",
+                                         "y":  90
+                                     },
+                     "facing=south":  {
+                                          "model":  "zcraft_decorations:block/sfz_micaibao",
+                                          "y":  180
+                                      },
+                     "facing=west":  {
+                                         "model":  "zcraft_decorations:block/sfz_micaibao",
+                                         "y":  270
+                                     }
+                 }
+}

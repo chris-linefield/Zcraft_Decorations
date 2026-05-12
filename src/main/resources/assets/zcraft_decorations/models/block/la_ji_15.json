@@ -1,0 +1,13 @@
+{
+  "parent": "zcraft_decorations:custom/block507",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "0": "zcraft_decorations:block/bingxiang",
+    "1": "zcraft_decorations:block/chuangdian",
+    "2": "zcraft_decorations:block/youtong",
+    "3": "zcraft_decorations:block/planks_spruce",
+    "4": "zcraft_decorations:block/desk",
+    "5": "zcraft_decorations:block/planks_jungle"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/san_luo_de_yao_pin_2",
+  "textures": {
+    "all": "zcraft_decorations:block/san_luo_de_yao_pin_2",
+    "particle": "zcraft_decorations:block/san_luo_de_yao_pin_2",
+    "0": "zcraft_decorations:block/san_luo_de_yao_pin_2"
+  }
+}

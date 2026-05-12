@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/liftcar",
+  "textures": {
+    "all": "zcraft_decorations:block/liftcar",
+    "particle": "zcraft_decorations:block/liftcar",
+    "0": "zcraft_decorations:block/liftcar",
+    "missing": "zcraft_decorations:block/liftcar"
+  },
+  "render_type": "solid"
+}

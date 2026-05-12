@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/ironwalls2",
+  "textures": {
+    "all": "zcraft_decorations:block/ironwall1",
+    "particle": "zcraft_decorations:block/ironwall1",
+    "0": "zcraft_decorations:block/ironwall3",
+    "missing": "zcraft_decorations:block/ironwall3"
+  },
+  "render_type": "solid"
+}

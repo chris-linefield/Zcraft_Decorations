@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/coffee1",
+  "textures": {
+    "all": "zcraft_decorations:block/coffeeb",
+    "particle": "zcraft_decorations:block/coffeeb",
+    "0": "zcraft_decorations:block/coffeeb"
+  },
+  "render_type": "cutout"
+}

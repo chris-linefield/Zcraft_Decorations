@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/bigweaponbox1",
+  "textures": {
+    "all": "zcraft_decorations:block/bigwepbox",
+    "particle": "zcraft_decorations:block/bigwepbox",
+    "0": "zcraft_decorations:block/bigwepbox"
+  },
+  "render_type": "solid"
+}

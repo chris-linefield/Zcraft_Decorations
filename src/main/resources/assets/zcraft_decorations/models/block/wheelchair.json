@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/wheelchair",
+  "textures": {
+    "all": "zcraft_decorations:block/wheelchair",
+    "particle": "zcraft_decorations:block/wheelchair",
+    "0": "zcraft_decorations:block/wheelchair"
+  },
+  "render_type": "cutout"
+}

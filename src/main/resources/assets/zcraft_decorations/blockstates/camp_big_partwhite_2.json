@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zcraft_decorations:block/camp_big_partwhite_2"
+    },
+    "facing=east": {
+      "model": "zcraft_decorations:block/camp_big_partwhite_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zcraft_decorations:block/camp_big_partwhite_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zcraft_decorations:block/camp_big_partwhite_2",
+      "y": 270
+    }
+  }
+}

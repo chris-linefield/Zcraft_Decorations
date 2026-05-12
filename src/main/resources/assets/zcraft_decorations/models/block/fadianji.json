@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/fa_dian_ji_",
+  "textures": {
+    "all": "zcraft_decorations:block/fa_dian_ji_",
+    "particle": "zcraft_decorations:block/fa_dian_ji_",
+    "0": "zcraft_decorations:block/fa_dian_ji_",
+    "missing": "zcraft_decorations:block/fa_dian_ji_"
+  }
+}

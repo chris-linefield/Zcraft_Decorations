@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/cshai_bao_",
+  "textures": {
+    "all": "zcraft_decorations:block/ze_ad03",
+    "particle": "zcraft_decorations:block/ze_ad03",
+    "0": "zcraft_decorations:block/ze_ad03"
+  }
+}

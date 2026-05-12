@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/gan_ran_wu_zhi_",
+  "textures": {
+    "all": "zcraft_decorations:block/shelter4_05",
+    "particle": "zcraft_decorations:block/shelter4_05",
+    "0": "zcraft_decorations:block/shelter4_05"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zcraft_decorations:block/infusionstand"
+    },
+    "facing=east": {
+      "model": "zcraft_decorations:block/infusionstand",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zcraft_decorations:block/infusionstand",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zcraft_decorations:block/infusionstand",
+      "y": 270
+    }
+  }
+}

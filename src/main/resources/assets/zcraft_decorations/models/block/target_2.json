@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/target2",
+  "textures": {
+    "all": "zcraft_decorations:block/target1",
+    "particle": "zcraft_decorations:block/target1",
+    "0": "zcraft_decorations:block/target1"
+  },
+  "render_type": "solid"
+}

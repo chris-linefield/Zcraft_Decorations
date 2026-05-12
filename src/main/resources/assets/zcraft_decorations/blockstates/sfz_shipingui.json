@@ -1,0 +1,19 @@
+{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "zcraft_decorations:block/sfz_shipingui"
+                                      },
+                     "facing=east":  {
+                                         "model":  "zcraft_decorations:block/sfz_shipingui",
+                                         "y":  90
+                                     },
+                     "facing=south":  {
+                                          "model":  "zcraft_decorations:block/sfz_shipingui",
+                                          "y":  180
+                                      },
+                     "facing=west":  {
+                                         "model":  "zcraft_decorations:block/sfz_shipingui",
+                                         "y":  270
+                                     }
+                 }
+}

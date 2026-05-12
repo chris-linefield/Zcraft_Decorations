@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/shi_tou_di_ban_1",
+  "textures": {
+    "all": "zcraft_decorations:block/shi_tou_di_ban_",
+    "particle": "zcraft_decorations:block/shi_tou_di_ban_",
+    "texture": "zcraft_decorations:block/shi_tou_di_ban_"
+  }
+}

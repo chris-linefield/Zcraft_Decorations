@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/moneter",
+  "textures": {
+    "all": "zcraft_decorations:block/moniter",
+    "particle": "zcraft_decorations:block/moniter",
+    "0": "zcraft_decorations:block/moniter"
+  },
+  "render_type": "solid"
+}

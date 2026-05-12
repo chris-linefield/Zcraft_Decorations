@@ -1,0 +1,13 @@
+{
+  "parent": "test:custom/block132",
+  "textures": {
+    "all": "test:block/di",
+    "particle": "test:block/di",
+    "0": "test:block/suliao",
+    "1": "test:block/tieban4",
+    "2": "test:block/lajidui2",
+    "3": "test:block/guantou",
+    "4": "test:block/zhangpeng2",
+    "missing": "test:block/di"
+  }
+}

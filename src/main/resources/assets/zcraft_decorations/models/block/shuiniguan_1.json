@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/shui_ni_guan_1",
+  "textures": {
+    "all": "zcraft_decorations:block/shui_ni_guan_",
+    "particle": "zcraft_decorations:block/shui_ni_guan_",
+    "texture": "zcraft_decorations:block/shui_ni_guan_"
+  }
+}

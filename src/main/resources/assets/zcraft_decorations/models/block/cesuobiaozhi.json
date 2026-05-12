@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/ce_suo_biao_zhi_",
+  "textures": {
+    "all": "zcraft_decorations:block/ce_suo_biao_zhi_",
+    "particle": "zcraft_decorations:block/ce_suo_biao_zhi_",
+    "0": "zcraft_decorations:block/ce_suo_biao_zhi_"
+  }
+}

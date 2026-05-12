@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/military_tent",
+  "textures": {
+    "all": "zcraft_decorations:block/military_tent",
+    "particle": "zcraft_decorations:block/military_tent",
+    "military_tent": "zcraft_decorations:block/military_tent"
+  }
+}

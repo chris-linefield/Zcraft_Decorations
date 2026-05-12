@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/zmdao_xia_men_1",
+  "textures": {
+    "all": "zcraft_decorations:block/abyss_door11",
+    "particle": "zcraft_decorations:block/abyss_door11",
+    "0": "zcraft_decorations:block/abyss_door11"
+  }
+}

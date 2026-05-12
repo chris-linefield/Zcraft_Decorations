@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/filedrawer4",
+  "textures": {
+    "all": "zcraft_decorations:block/filedrawer",
+    "particle": "zcraft_decorations:block/filedrawer",
+    "0": "zcraft_decorations:block/filedrawer"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/case",
+  "textures": {
+    "all": "zcraft_decorations:block/sprite-0002",
+    "particle": "zcraft_decorations:block/sprite-0002",
+    "0": "zcraft_decorations:block/sprite-0002",
+    "missing": "zcraft_decorations:block/sprite-0002"
+  },
+  "render_type": "solid"
+}

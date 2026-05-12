@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/dbad1",
+  "textures": {
+    "all": "zcraft_decorations:block/dbed",
+    "particle": "zcraft_decorations:block/dbed",
+    "0": "zcraft_decorations:block/dbed"
+  },
+  "render_type": "solid"
+}

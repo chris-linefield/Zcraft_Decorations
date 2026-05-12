@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/bheavybutton",
+  "textures": {
+    "all": "zcraft_decorations:block/phone",
+    "particle": "zcraft_decorations:block/phone",
+    "1": "zcraft_decorations:block/bottom",
+    "3": "zcraft_decorations:block/touch_screen_unpowered",
+    "missing": "zcraft_decorations:block/bottom"
+  },
+  "render_type": "solid"
+}

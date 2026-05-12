@@ -1,0 +1,5876 @@
+{
+  "__comment": "Designed by Optimus0812 with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
+  "elements": [
+    {
+      "__comment": "crossbow1",
+      "from": [
+        7.5,
+        3.5,
+        22
+      ],
+      "to": [
+        8.5,
+        4,
+        24
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15,
+            9.75,
+            16,
+            10
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            15,
+            10,
+            16,
+            9.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            15,
+            9.75,
+            15.25,
+            10
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            16,
+            9.75,
+            15.75,
+            10
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            15,
+            9.75,
+            16,
+            10
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            16,
+            9.75,
+            15,
+            10
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow2",
+      "from": [
+        7.5,
+        4,
+        20
+      ],
+      "to": [
+        8.5,
+        4.5,
+        22
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14,
+            9.5,
+            15,
+            9.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            14,
+            9.75,
+            15,
+            9.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            14,
+            9.5,
+            14.25,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            15,
+            9.5,
+            14.75,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            14,
+            9.5,
+            15,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            15,
+            9.5,
+            14,
+            9.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow3",
+      "from": [
+        7.5,
+        4.5,
+        18
+      ],
+      "to": [
+        8.5,
+        5,
+        20
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            13,
+            9.25,
+            14,
+            9.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            13,
+            9.5,
+            14,
+            9.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            13,
+            9.25,
+            13.25,
+            9.5
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            14,
+            9.25,
+            13.75,
+            9.5
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            13,
+            9.25,
+            14,
+            9.5
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            14,
+            9.25,
+            13,
+            9.5
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow4",
+      "from": [
+        7.5,
+        4,
+        17.5
+      ],
+      "to": [
+        8.5,
+        4.5,
+        18
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12.75,
+            9.5,
+            13,
+            9.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            12.75,
+            9.75,
+            13,
+            9.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            12.75,
+            9.5,
+            13,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            13,
+            9.5,
+            12.75,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            12.75,
+            9.5,
+            13,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            13,
+            9.5,
+            12.75,
+            9.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow5",
+      "from": [
+        7.5,
+        3,
+        16.5
+      ],
+      "to": [
+        8.5,
+        4,
+        17.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12.25,
+            10,
+            12.75,
+            10.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            12.25,
+            10,
+            12.75,
+            9.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            12.25,
+            9.75,
+            12.5,
+            10.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            12.75,
+            9.75,
+            12.5,
+            10.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            12.25,
+            9.75,
+            12.75,
+            10.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            12.75,
+            9.75,
+            12.25,
+            10.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow6",
+      "from": [
+        7.5,
+        4,
+        16
+      ],
+      "to": [
+        8.5,
+        5,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12,
+            9.5,
+            12.25,
+            9.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            12,
+            9.5,
+            12.25,
+            9.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            12,
+            9.25,
+            12.25,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            12.25,
+            9.25,
+            12,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            12,
+            9.25,
+            12.25,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            12.25,
+            9.25,
+            12,
+            9.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow7",
+      "from": [
+        7.5,
+        5,
+        15.5
+      ],
+      "to": [
+        8.5,
+        6,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            11.75,
+            9,
+            12,
+            9.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            11.75,
+            9,
+            12,
+            8.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            11.75,
+            8.75,
+            12,
+            9.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            12,
+            8.75,
+            11.75,
+            9.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            11.75,
+            8.75,
+            12,
+            9.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            12,
+            8.75,
+            11.75,
+            9.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow8",
+      "from": [
+        7.5,
+        6,
+        15
+      ],
+      "to": [
+        8.5,
+        6.5,
+        15.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            11.5,
+            8.5,
+            11.75,
+            8.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            11.5,
+            8.75,
+            11.75,
+            8.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            11.5,
+            8.5,
+            11.75,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            11.75,
+            8.5,
+            11.5,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            11.5,
+            8.5,
+            11.75,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            11.75,
+            8.5,
+            11.5,
+            8.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow9",
+      "from": [
+        7.5,
+        6.5,
+        8
+      ],
+      "to": [
+        8.5,
+        7,
+        15
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            8.25,
+            11.5,
+            8.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            8,
+            8.5,
+            11.5,
+            8.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            8,
+            8.25,
+            8.25,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            11.5,
+            8.25,
+            11.25,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            8,
+            8.25,
+            11.5,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            11.5,
+            8.25,
+            8,
+            8.5
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow10",
+      "from": [
+        7.5,
+        7,
+        22
+      ],
+      "to": [
+        8.5,
+        7.5,
+        24
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15,
+            8,
+            16,
+            8.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            15,
+            8.25,
+            16,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            15,
+            8,
+            15.25,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            16,
+            8,
+            15.75,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            15,
+            8,
+            16,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            16,
+            8,
+            15,
+            8.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow11",
+      "from": [
+        7.5,
+        7.5,
+        18
+      ],
+      "to": [
+        8.5,
+        8,
+        22
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            13,
+            7.75,
+            15,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            13,
+            8,
+            15,
+            7.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            13,
+            7.75,
+            13.25,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            15,
+            7.75,
+            14.75,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            13,
+            7.75,
+            15,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            15,
+            7.75,
+            13,
+            8
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow12",
+      "from": [
+        7.5,
+        7,
+        17.5
+      ],
+      "to": [
+        8.5,
+        7.5,
+        18
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12.75,
+            8,
+            13,
+            8.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            12.75,
+            8.25,
+            13,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            12.75,
+            8,
+            13,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            13,
+            8,
+            12.75,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            12.75,
+            8,
+            13,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            13,
+            8,
+            12.75,
+            8.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow13",
+      "from": [
+        7.5,
+        6.5,
+        16.5
+      ],
+      "to": [
+        8.5,
+        7,
+        17.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12.25,
+            8.25,
+            12.75,
+            8.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            12.25,
+            8.5,
+            12.75,
+            8.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            12.25,
+            8.25,
+            12.5,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            12.75,
+            8.25,
+            12.5,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            12.25,
+            8.25,
+            12.75,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            12.75,
+            8.25,
+            12.25,
+            8.5
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow14",
+      "from": [
+        7.5,
+        7,
+        16
+      ],
+      "to": [
+        8.5,
+        7.5,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12,
+            8,
+            12.25,
+            8.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            12,
+            8.25,
+            12.25,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            12,
+            8,
+            12.25,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            12.25,
+            8,
+            12,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            12,
+            8,
+            12.25,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            12.25,
+            8,
+            12,
+            8.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow15",
+      "from": [
+        7.5,
+        7.5,
+        15.5
+      ],
+      "to": [
+        8.5,
+        8,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            11.75,
+            7.75,
+            12,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            11.75,
+            8,
+            12,
+            7.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            11.75,
+            7.75,
+            12,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            12,
+            7.75,
+            11.75,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            11.75,
+            7.75,
+            12,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            12,
+            7.75,
+            11.75,
+            8
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow16",
+      "from": [
+        7,
+        4,
+        22
+      ],
+      "to": [
+        9,
+        7,
+        24
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15,
+            9.5,
+            16,
+            9.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            15,
+            8.5,
+            16,
+            8.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            15,
+            8.25,
+            15.25,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            16,
+            8.25,
+            15.75,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            15,
+            8.25,
+            16,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            16,
+            8.25,
+            15,
+            9.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow17",
+      "from": [
+        7,
+        4.5,
+        20
+      ],
+      "to": [
+        9,
+        7.5,
+        22
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14,
+            9.25,
+            15,
+            9.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            14,
+            8.25,
+            15,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            14,
+            8,
+            14.25,
+            9.5
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            15,
+            8,
+            14.75,
+            9.5
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            14,
+            8,
+            15,
+            9.5
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            15,
+            8,
+            14,
+            9.5
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow18",
+      "from": [
+        7,
+        5,
+        18
+      ],
+      "to": [
+        9,
+        7.5,
+        20
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            13,
+            9,
+            14,
+            9.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            13,
+            8.25,
+            14,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            13,
+            8,
+            13.25,
+            9.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            14,
+            8,
+            13.75,
+            9.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            13,
+            8,
+            14,
+            9.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            14,
+            8,
+            13,
+            9.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow19",
+      "from": [
+        7,
+        4.5,
+        17.5
+      ],
+      "to": [
+        9,
+        7,
+        18
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12.75,
+            9.25,
+            13,
+            9.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            12.75,
+            8.5,
+            13,
+            8.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            12.75,
+            8.25,
+            13,
+            9.5
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            13,
+            8.25,
+            12.75,
+            9.5
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            12.75,
+            8.25,
+            13,
+            9.5
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            13,
+            8.25,
+            12.75,
+            9.5
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow20",
+      "from": [
+        7,
+        4,
+        16.5
+      ],
+      "to": [
+        9,
+        6.5,
+        17.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12.25,
+            9.5,
+            12.75,
+            9.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            12.25,
+            8.75,
+            12.75,
+            8.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            12.25,
+            8.5,
+            12.5,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            12.75,
+            8.5,
+            12.5,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            12.25,
+            8.5,
+            12.75,
+            9.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            12.75,
+            8.5,
+            12.25,
+            9.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow21",
+      "from": [
+        7,
+        5,
+        16
+      ],
+      "to": [
+        9,
+        7,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12,
+            9,
+            12.25,
+            9.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            12,
+            8.5,
+            12.25,
+            8.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            12,
+            8.25,
+            12.25,
+            9.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            12.25,
+            8.25,
+            12,
+            9.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            12,
+            8.25,
+            12.25,
+            9.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            12.25,
+            8.25,
+            12,
+            9.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow22",
+      "from": [
+        7,
+        6,
+        15.5
+      ],
+      "to": [
+        9,
+        7.5,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            11.75,
+            8.5,
+            12,
+            8.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            11.75,
+            8.25,
+            12,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            11.75,
+            8,
+            12,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            12,
+            8,
+            11.75,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            11.75,
+            8,
+            12,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            12,
+            8,
+            11.75,
+            8.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow23",
+      "from": [
+        7,
+        6.5,
+        15
+      ],
+      "to": [
+        9,
+        8.5,
+        15.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            11.5,
+            8.25,
+            11.75,
+            8.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            11.5,
+            7.75,
+            11.75,
+            7.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            11.5,
+            7.5,
+            11.75,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            11.75,
+            7.5,
+            11.5,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            11.5,
+            7.5,
+            11.75,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            11.75,
+            7.5,
+            11.5,
+            8.5
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow24",
+      "from": [
+        7,
+        7,
+        14.5
+      ],
+      "to": [
+        9,
+        8.5,
+        15
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            11.25,
+            8,
+            11.5,
+            8.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            11.25,
+            7.75,
+            11.5,
+            7.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            11.25,
+            7.5,
+            11.5,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            11.5,
+            7.5,
+            11.25,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            11.25,
+            7.5,
+            11.5,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            11.5,
+            7.5,
+            11.25,
+            8.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow25",
+      "from": [
+        7.5,
+        6,
+        7.5
+      ],
+      "to": [
+        8.5,
+        6.5,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            8.5,
+            8,
+            8.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            7.75,
+            8.75,
+            8,
+            8.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            7.75,
+            8.5,
+            8,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            8,
+            8.5,
+            7.75,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            8.5,
+            8,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            8,
+            8.5,
+            7.75,
+            8.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow26",
+      "from": [
+        7.5,
+        5.5,
+        0
+      ],
+      "to": [
+        8.5,
+        6,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4,
+            8.75,
+            7.75,
+            9
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            4,
+            9,
+            7.75,
+            8.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            4,
+            8.75,
+            4.25,
+            9
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            8.75,
+            7.5,
+            9
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            4,
+            8.75,
+            7.75,
+            9
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            7.75,
+            8.75,
+            4,
+            9
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow27",
+      "from": [
+        7,
+        6,
+        0
+      ],
+      "to": [
+        9,
+        6.5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4,
+            8.5,
+            7.75,
+            8.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            4,
+            8.75,
+            7.75,
+            8.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            4,
+            8.5,
+            4.25,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            8.5,
+            7.5,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            4,
+            8.5,
+            7.75,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            7.75,
+            8.5,
+            4,
+            8.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow28",
+      "from": [
+        7,
+        6.5,
+        0
+      ],
+      "to": [
+        9,
+        7,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4,
+            8.25,
+            8,
+            8.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            4,
+            8.5,
+            8,
+            8.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            4,
+            8.25,
+            4.25,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            8,
+            8.25,
+            7.75,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            4,
+            8.25,
+            8,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            8,
+            8.25,
+            4,
+            8.5
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow29",
+      "from": [
+        7,
+        7,
+        0
+      ],
+      "to": [
+        9,
+        8,
+        14.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4,
+            8,
+            11.25,
+            8.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            4,
+            8,
+            11.25,
+            7.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            4,
+            7.75,
+            4.25,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            11.25,
+            7.75,
+            11,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            4,
+            7.75,
+            11.25,
+            8.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            11.25,
+            7.75,
+            4,
+            8.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow30",
+      "from": [
+        7.5,
+        8,
+        -4
+      ],
+      "to": [
+        8.5,
+        8.5,
+        14.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            7.5,
+            11.25,
+            7.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            2,
+            7.75,
+            11.25,
+            7.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            2,
+            7.5,
+            2.25,
+            7.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            11.25,
+            7.5,
+            11,
+            7.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            2,
+            7.5,
+            11.25,
+            7.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            11.25,
+            7.5,
+            2,
+            7.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow31",
+      "from": [
+        7.5,
+        8.5,
+        -4
+      ],
+      "to": [
+        8.5,
+        9,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            7.25,
+            12,
+            7.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            2,
+            7.5,
+            12,
+            7.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            2,
+            7.25,
+            2.25,
+            7.5
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            12,
+            7.25,
+            11.75,
+            7.5
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            2,
+            7.25,
+            12,
+            7.5
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            12,
+            7.25,
+            2,
+            7.5
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow32",
+      "from": [
+        7,
+        9,
+        12
+      ],
+      "to": [
+        9,
+        9.5,
+        15.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            10,
+            7,
+            11.75,
+            7.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            10,
+            7.25,
+            11.75,
+            7
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            10,
+            7,
+            10.25,
+            7.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            11.75,
+            7,
+            11.5,
+            7.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            10,
+            7,
+            11.75,
+            7.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            11.75,
+            7,
+            10,
+            7.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow33",
+      "from": [
+        7.5,
+        9.5,
+        9
+      ],
+      "to": [
+        8.5,
+        10,
+        15
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            6.75,
+            11.5,
+            7
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            8.5,
+            7,
+            11.5,
+            6.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            8.5,
+            6.75,
+            8.75,
+            7
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            11.5,
+            6.75,
+            11.25,
+            7
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            6.75,
+            11.5,
+            7
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            11.5,
+            6.75,
+            8.5,
+            7
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow34",
+      "from": [
+        7,
+        9.5,
+        14
+      ],
+      "to": [
+        7.5,
+        10.5,
+        15
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            11,
+            6.75,
+            11.5,
+            7
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            11,
+            6.75,
+            11.5,
+            6.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            11,
+            6.5,
+            11.25,
+            7
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            11.5,
+            6.5,
+            11.25,
+            7
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            11,
+            6.5,
+            11.5,
+            7
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            11.5,
+            6.5,
+            11,
+            7
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow35",
+      "from": [
+        8.5,
+        9.5,
+        14
+      ],
+      "to": [
+        9,
+        10.5,
+        15
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            11,
+            6.75,
+            11.5,
+            7
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            11,
+            6.75,
+            11.5,
+            6.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            11,
+            6.5,
+            11.25,
+            7
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            11.5,
+            6.5,
+            11.25,
+            7
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            11,
+            6.5,
+            11.5,
+            7
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            11.5,
+            6.5,
+            11,
+            7
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow36",
+      "from": [
+        7.5,
+        6,
+        12
+      ],
+      "to": [
+        8.5,
+        6.5,
+        14
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            10,
+            8.5,
+            11,
+            8.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            10,
+            8.75,
+            11,
+            8.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            10,
+            8.5,
+            10.25,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            11,
+            8.5,
+            10.75,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            10,
+            8.5,
+            11,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            11,
+            8.5,
+            10,
+            8.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow37",
+      "from": [
+        7.5,
+        6,
+        9.5
+      ],
+      "to": [
+        8.5,
+        6.5,
+        11
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.75,
+            8.5,
+            9.5,
+            8.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            8.75,
+            8.75,
+            9.5,
+            8.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            8.75,
+            8.5,
+            9,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            9.5,
+            8.5,
+            9.25,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            8.75,
+            8.5,
+            9.5,
+            8.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            8.5,
+            8.75,
+            8.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow38",
+      "from": [
+        7.5,
+        5.5,
+        10.5
+      ],
+      "to": [
+        8.5,
+        6,
+        11.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            8.75,
+            9.75,
+            9
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            9.25,
+            9,
+            9.75,
+            8.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            9.25,
+            8.75,
+            9.5,
+            9
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            9.75,
+            8.75,
+            9.5,
+            9
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            8.75,
+            9.75,
+            9
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            9.75,
+            8.75,
+            9.25,
+            9
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow39",
+      "from": [
+        7.5,
+        5.5,
+        12.5
+      ],
+      "to": [
+        8.5,
+        6,
+        13.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            10.25,
+            8.75,
+            10.75,
+            9
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            10.25,
+            9,
+            10.75,
+            8.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            10.25,
+            8.75,
+            10.5,
+            9
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            10.75,
+            8.75,
+            10.5,
+            9
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            10.25,
+            8.75,
+            10.75,
+            9
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            10.75,
+            8.75,
+            10.25,
+            9
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow40",
+      "from": [
+        7.5,
+        5,
+        11
+      ],
+      "to": [
+        8.5,
+        5.5,
+        13
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.5,
+            9,
+            10.5,
+            9.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            9.5,
+            9.25,
+            10.5,
+            9
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            9.5,
+            9,
+            9.75,
+            9.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            10.5,
+            9,
+            10.25,
+            9.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            9.5,
+            9,
+            10.5,
+            9.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            10.5,
+            9,
+            9.5,
+            9.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow41",
+      "from": [
+        7.5,
+        6.5,
+        -4
+      ],
+      "to": [
+        8.5,
+        8,
+        0
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            8.25,
+            4,
+            8.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            2,
+            8,
+            4,
+            7.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            2,
+            7.75,
+            2.25,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            4,
+            7.75,
+            3.75,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            2,
+            7.75,
+            4,
+            8.5
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            4,
+            7.75,
+            2,
+            8.5
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow42",
+      "from": [
+        7,
+        7.5,
+        -5
+      ],
+      "to": [
+        9,
+        9,
+        -4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.5,
+            7.75,
+            2,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            1.5,
+            7.5,
+            2,
+            7.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            1.5,
+            7.25,
+            1.75,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            2,
+            7.25,
+            1.75,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            7.25,
+            2,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            2,
+            7.25,
+            1.5,
+            8
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow43",
+      "from": [
+        7,
+        9,
+        -5
+      ],
+      "to": [
+        7.5,
+        9.5,
+        -4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.5,
+            7,
+            2,
+            7.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            1.5,
+            7.25,
+            2,
+            7
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            1.5,
+            7,
+            1.75,
+            7.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            2,
+            7,
+            1.75,
+            7.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            7,
+            2,
+            7.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            2,
+            7,
+            1.5,
+            7.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow44",
+      "from": [
+        8.5,
+        9,
+        -5
+      ],
+      "to": [
+        9,
+        9.5,
+        -4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.5,
+            7,
+            2,
+            7.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            1.5,
+            7.25,
+            2,
+            7
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            1.5,
+            7,
+            1.75,
+            7.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            2,
+            7,
+            1.75,
+            7.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            7,
+            2,
+            7.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            2,
+            7,
+            1.5,
+            7.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow45",
+      "from": [
+        7.5,
+        9.5,
+        -5
+      ],
+      "to": [
+        8.5,
+        10,
+        -4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.5,
+            6.75,
+            2,
+            7
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            1.5,
+            7,
+            2,
+            6.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            1.5,
+            6.75,
+            1.75,
+            7
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            2,
+            6.75,
+            1.75,
+            7
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            6.75,
+            2,
+            7
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            2,
+            6.75,
+            1.5,
+            7
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow46",
+      "from": [
+        7,
+        7.5,
+        -5.5
+      ],
+      "to": [
+        7.5,
+        8,
+        -5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.25,
+            7.75,
+            1.5,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            1.25,
+            8,
+            1.5,
+            7.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            1.25,
+            7.75,
+            1.5,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            7.75,
+            1.25,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            1.25,
+            7.75,
+            1.5,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            7.75,
+            1.25,
+            8
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow48",
+      "from": [
+        6.5,
+        7.5,
+        -6
+      ],
+      "to": [
+        7,
+        8,
+        -5.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            7.75,
+            1.25,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            1,
+            8,
+            1.25,
+            7.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            1,
+            7.75,
+            1.25,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            1.25,
+            7.75,
+            1,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            1,
+            7.75,
+            1.25,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            1.25,
+            7.75,
+            1,
+            8
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow49",
+      "from": [
+        9,
+        7.5,
+        -6
+      ],
+      "to": [
+        9.5,
+        8,
+        -5.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            7.75,
+            1.25,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            1,
+            8,
+            1.25,
+            7.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            1,
+            7.75,
+            1.25,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            1.25,
+            7.75,
+            1,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            1,
+            7.75,
+            1.25,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            1.25,
+            7.75,
+            1,
+            8
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow50",
+      "from": [
+        6,
+        7.5,
+        -7.5
+      ],
+      "to": [
+        6.5,
+        8,
+        -6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            7.75,
+            1,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            0.25,
+            8,
+            1,
+            7.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            0.25,
+            7.75,
+            0.5,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            1,
+            7.75,
+            0.75,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0.25,
+            7.75,
+            1,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            1,
+            7.75,
+            0.25,
+            8
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow51",
+      "from": [
+        9.5,
+        7.5,
+        -7.5
+      ],
+      "to": [
+        10,
+        8,
+        -6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            7.75,
+            1,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            0.25,
+            8,
+            1,
+            7.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            0.25,
+            7.75,
+            0.5,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            1,
+            7.75,
+            0.75,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0.25,
+            7.75,
+            1,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            1,
+            7.75,
+            0.25,
+            8
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow52",
+      "from": [
+        6.5,
+        7.5,
+        -8
+      ],
+      "to": [
+        9.5,
+        8,
+        -7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            7.75,
+            0.25,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            0,
+            8,
+            0.25,
+            7.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            0,
+            7.75,
+            0.25,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            0.25,
+            7.75,
+            0,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0,
+            7.75,
+            0.25,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            0.25,
+            7.75,
+            0,
+            8
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow53",
+      "from": [
+        7.75,
+        10,
+        -4.5
+      ],
+      "to": [
+        8.25,
+        10.5,
+        -4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.75,
+            6.5,
+            2,
+            6.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            1.75,
+            6.75,
+            2,
+            6.5
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            1.75,
+            6.5,
+            2,
+            6.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            2,
+            6.5,
+            1.75,
+            6.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            1.75,
+            6.5,
+            2,
+            6.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            2,
+            6.5,
+            1.75,
+            6.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow54",
+      "from": [
+        6.5,
+        8.5,
+        -5.5
+      ],
+      "to": [
+        7.5,
+        10,
+        -5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            14.5,
+            5.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            6,
+            14.25,
+            5.5,
+            14
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            5.5,
+            14,
+            6,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            6,
+            14,
+            5.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            6,
+            14,
+            6.25,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            14,
+            5.25,
+            14.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow55",
+      "from": [
+        4.5,
+        8.5,
+        -6
+      ],
+      "to": [
+        6.5,
+        10,
+        -5.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.5,
+            14.5,
+            4.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            14.25,
+            4.5,
+            14
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            4.5,
+            14,
+            3.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            14,
+            4.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            14,
+            3.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            14,
+            4.25,
+            14.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow56",
+      "from": [
+        2,
+        8,
+        -5.5
+      ],
+      "to": [
+        3.5,
+        10.5,
+        -5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.25,
+            14.75,
+            3,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            2.25,
+            14,
+            3,
+            13.75
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            3,
+            13.75,
+            2.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            2.25,
+            13.75,
+            3,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            2.25,
+            13.75,
+            2.5,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            3,
+            13.75,
+            2.75,
+            15
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow57",
+      "from": [
+        1,
+        8,
+        -5
+      ],
+      "to": [
+        2,
+        10.5,
+        -4.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.75,
+            14.75,
+            2.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            1.75,
+            14,
+            2.25,
+            13.75
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            2.25,
+            13.75,
+            1.75,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            1.75,
+            13.75,
+            2.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            1.75,
+            13.75,
+            2,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            2.25,
+            13.75,
+            2,
+            15
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow58",
+      "from": [
+        -0.5,
+        8,
+        -4
+      ],
+      "to": [
+        0,
+        10.5,
+        -3.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            14.75,
+            1.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            1,
+            14,
+            1.25,
+            13.75
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            1.25,
+            13.75,
+            1,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            1,
+            13.75,
+            1.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            1,
+            13.75,
+            1.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            1.25,
+            13.75,
+            1,
+            15
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow59",
+      "from": [
+        -1,
+        8.5,
+        -3.5
+      ],
+      "to": [
+        -0.5,
+        10,
+        -2.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.75,
+            14.5,
+            1,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            0.75,
+            14.25,
+            1,
+            14
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            1,
+            14,
+            0.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            0.75,
+            14,
+            1,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0.75,
+            14,
+            1,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            1,
+            14,
+            0.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow60",
+      "from": [
+        -1.5,
+        8.5,
+        -2.5
+      ],
+      "to": [
+        -1,
+        10,
+        -2
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.5,
+            14.5,
+            0.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            0.5,
+            14.25,
+            0.75,
+            14
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            0.75,
+            14,
+            0.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            14,
+            0.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            14,
+            0.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            0.75,
+            14,
+            0.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow61",
+      "from": [
+        -2.5,
+        8.5,
+        -2
+      ],
+      "to": [
+        -1.5,
+        10,
+        -1.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            14.5,
+            0.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            0,
+            14.25,
+            0.5,
+            14
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            0.5,
+            14,
+            0,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            0,
+            14,
+            0.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0,
+            14,
+            0.25,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            0.5,
+            14,
+            0.25,
+            14.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow62",
+      "from": [
+        0,
+        8,
+        -4.5
+      ],
+      "to": [
+        1,
+        10.5,
+        -4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.25,
+            14.75,
+            1.75,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            1.25,
+            14,
+            1.75,
+            13.75
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            1.75,
+            13.75,
+            1.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            1.25,
+            13.75,
+            1.75,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            1.25,
+            13.75,
+            1.5,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            1.75,
+            13.75,
+            1.5,
+            15
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow63",
+      "from": [
+        9.5,
+        8.5,
+        -6
+      ],
+      "to": [
+        11.5,
+        10,
+        -5.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            14.5,
+            7,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            6,
+            14.25,
+            7,
+            14
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            7,
+            14,
+            6,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            6,
+            14,
+            7,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            6,
+            14,
+            6.25,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            7,
+            14,
+            6.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow64",
+      "from": [
+        12.5,
+        8,
+        -5.5
+      ],
+      "to": [
+        14,
+        10.5,
+        -5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            14.75,
+            8.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            14,
+            8.25,
+            13.75
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            13.75,
+            7.5,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            13.75,
+            8.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            13.75,
+            7.75,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            13.75,
+            8,
+            15
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow65",
+      "from": [
+        14,
+        8,
+        -5
+      ],
+      "to": [
+        15,
+        10.5,
+        -4.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.25,
+            14.75,
+            8.75,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            8.25,
+            14,
+            8.75,
+            13.75
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            13.75,
+            8.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            8.25,
+            13.75,
+            8.75,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            8.25,
+            13.75,
+            8.5,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            13.75,
+            8.5,
+            15
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow66",
+      "from": [
+        15,
+        8,
+        -4.5
+      ],
+      "to": [
+        16,
+        10.5,
+        -4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.75,
+            14.75,
+            9.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            8.75,
+            14,
+            9.25,
+            13.75
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            13.75,
+            8.75,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            8.75,
+            13.75,
+            9.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            8.75,
+            13.75,
+            9,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            13.75,
+            9,
+            15
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow67",
+      "from": [
+        16,
+        8,
+        -4
+      ],
+      "to": [
+        16.5,
+        10.5,
+        -3.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            14.75,
+            9.5,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            14,
+            9.5,
+            13.75
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            13.75,
+            9.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            13.75,
+            9.5,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            13.75,
+            9.5,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            13.75,
+            9.25,
+            15
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow68",
+      "from": [
+        16.5,
+        8.5,
+        -3.5
+      ],
+      "to": [
+        17,
+        10,
+        -2.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.5,
+            14.5,
+            9.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            9.5,
+            14.25,
+            9.75,
+            14
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            9.75,
+            14,
+            9.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            9.5,
+            14,
+            9.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            9.5,
+            14,
+            9.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            9.75,
+            14,
+            9.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow69",
+      "from": [
+        17,
+        8.5,
+        -2.5
+      ],
+      "to": [
+        17.5,
+        10,
+        -2
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.75,
+            14.5,
+            10,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            9.75,
+            14.25,
+            10,
+            14
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            10,
+            14,
+            9.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            9.75,
+            14,
+            10,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            9.75,
+            14,
+            10,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            10,
+            14,
+            9.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow70",
+      "from": [
+        17.5,
+        8.5,
+        -2
+      ],
+      "to": [
+        18.5,
+        10,
+        -1.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            10,
+            14.5,
+            10.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            10,
+            14.25,
+            10.5,
+            14
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            10.5,
+            14,
+            10,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            10,
+            14,
+            10.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            10,
+            14,
+            10.25,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            10.5,
+            14,
+            10.25,
+            14.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow71",
+      "from": [
+        3.5,
+        8,
+        -6
+      ],
+      "to": [
+        4.5,
+        10.5,
+        -5.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3,
+            14.75,
+            3.5,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            3,
+            14,
+            3.5,
+            13.75
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            3.5,
+            13.75,
+            3,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            3,
+            13.75,
+            3.5,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            3,
+            13.75,
+            3.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            13.75,
+            3.25,
+            15
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow72",
+      "from": [
+        11.5,
+        8,
+        -6
+      ],
+      "to": [
+        12.5,
+        10.5,
+        -5.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            14.75,
+            7.5,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            7,
+            14,
+            7.5,
+            13.75
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            13.75,
+            7,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            7,
+            13.75,
+            7.5,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            7,
+            13.75,
+            7.25,
+            15
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            13.75,
+            7.25,
+            15
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow46",
+      "from": [
+        8.5,
+        7.5,
+        -5.5
+      ],
+      "to": [
+        9,
+        8,
+        -5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.25,
+            7.75,
+            1.5,
+            8
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            1.25,
+            8,
+            1.5,
+            7.75
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            1.25,
+            7.75,
+            1.5,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            7.75,
+            1.25,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            1.25,
+            7.75,
+            1.5,
+            8
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            7.75,
+            1.25,
+            8
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow61",
+      "from": [
+        -2.5,
+        9,
+        -1.5
+      ],
+      "to": [
+        -2,
+        9.5,
+        -1
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            0,
+            13.25,
+            0.25,
+            13
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow61",
+      "from": [
+        -2.5,
+        9.5,
+        -1.5
+      ],
+      "to": [
+        -2,
+        10,
+        0
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            0,
+            13.25,
+            0.25,
+            13
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow61",
+      "from": [
+        -2.5,
+        8.5,
+        -1.5
+      ],
+      "to": [
+        -2,
+        9,
+        0
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            0,
+            13.25,
+            0.25,
+            13
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow61",
+      "from": [
+        18,
+        9.5,
+        -1.5
+      ],
+      "to": [
+        18.5,
+        10,
+        0
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            0,
+            13.25,
+            0.25,
+            13
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow61",
+      "from": [
+        18,
+        9,
+        -1.5
+      ],
+      "to": [
+        18.5,
+        9.5,
+        -1
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            0,
+            13.25,
+            0.25,
+            13
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow61",
+      "from": [
+        18,
+        8.5,
+        -1.5
+      ],
+      "to": [
+        18.5,
+        9,
+        0
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            0,
+            13.25,
+            0.25,
+            13
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow54",
+      "from": [
+        8.5,
+        8.5,
+        -5.5
+      ],
+      "to": [
+        9.5,
+        10,
+        -5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5,
+            14.5,
+            4.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            5,
+            14.25,
+            4.5,
+            14
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            4.5,
+            14,
+            5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            5,
+            14,
+            4.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            5,
+            14,
+            5.25,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            14,
+            4.25,
+            14.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow54",
+      "from": [
+        7.5,
+        9.5,
+        -5.5
+      ],
+      "to": [
+        8.5,
+        10,
+        -5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            14,
+            5,
+            14.25
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            14.25,
+            5,
+            14
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            5,
+            14,
+            5.5,
+            14.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            14,
+            5,
+            14.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            14,
+            5.75,
+            14.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            5,
+            14,
+            4.75,
+            14.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow54",
+      "from": [
+        7.5,
+        8.5,
+        -5.5
+      ],
+      "to": [
+        8.5,
+        9,
+        -5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            14.5,
+            5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            14.75,
+            5,
+            14.5
+          ],
+          "texture": "#crossbow"
+        },
+        "north": {
+          "uv": [
+            5,
+            14.5,
+            5.5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            14.5,
+            5,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            14.5,
+            5.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            5,
+            14.5,
+            4.75,
+            14.75
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    },
+    {
+      "__comment": "crossbow61",
+      "from": [
+        -2.5,
+        9,
+        0
+      ],
+      "to": [
+        18.5,
+        9.5,
+        0.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            0,
+            13.25,
+            0.25,
+            13
+          ],
+          "texture": "#crossbow",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "south": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "west": {
+          "uv": [
+            0,
+            13,
+            0.25,
+            13.25
+          ],
+          "texture": "#crossbow"
+        },
+        "east": {
+          "uv": [
+            0.25,
+            13,
+            0,
+            13.25
+          ],
+          "texture": "#crossbow"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        0.75,
+        -1.5
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        -45,
+        0
+      ],
+      "translation": [
+        -6,
+        -6,
+        9
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        30,
+        0,
+        -30
+      ],
+      "translation": [
+        -6,
+        0,
+        -3
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        135,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "head": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        -90,
+        90
+      ],
+      "translation": [
+        0,
+        0,
+        -1
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
+}

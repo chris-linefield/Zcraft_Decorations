@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/solarpad",
+  "textures": {
+    "all": "zcraft_decorations:block/solarpad",
+    "particle": "zcraft_decorations:block/solarpad",
+    "0": "zcraft_decorations:block/solarpad"
+  },
+  "render_type": "solid"
+}

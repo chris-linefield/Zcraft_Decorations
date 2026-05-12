@@ -1,0 +1,1266 @@
+{
+  "__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+  "elements": [
+    {
+      "__comment": "screw_driver1",
+      "from": [
+        7.5,
+        0,
+        7
+      ],
+      "to": [
+        8.5,
+        0.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            15.5,
+            8.5,
+            16
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            16,
+            8.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            15.5,
+            7.5,
+            16
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            15.5,
+            8.5,
+            16
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver2",
+      "from": [
+        7,
+        0,
+        7.5
+      ],
+      "to": [
+        7.5,
+        0.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            15.5,
+            7.5,
+            16
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            7,
+            16,
+            7.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            15.5,
+            7,
+            16
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            7,
+            15.5,
+            7.5,
+            16
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            7,
+            15.5,
+            7.5,
+            16
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            15.5,
+            7,
+            16
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver3",
+      "from": [
+        8.5,
+        0,
+        7.5
+      ],
+      "to": [
+        9,
+        0.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            15.5,
+            9,
+            16
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            16,
+            9,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            9,
+            15.5,
+            8.5,
+            16
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            15.5,
+            9,
+            16
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            15.5,
+            9,
+            16
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            9,
+            15.5,
+            8.5,
+            16
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver4",
+      "from": [
+        7,
+        0.5,
+        7
+      ],
+      "to": [
+        9,
+        5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            15,
+            9,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            7,
+            11.5,
+            9,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            9,
+            11,
+            7,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            7,
+            11,
+            9,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            7,
+            11,
+            7.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            9,
+            11,
+            8.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver5",
+      "from": [
+        7.5,
+        0.5,
+        9
+      ],
+      "to": [
+        8.5,
+        5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            15,
+            8.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            11.5,
+            8.5,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            11,
+            7.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            11,
+            8.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            11,
+            8,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            11,
+            8,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver6",
+      "from": [
+        7.5,
+        0.5,
+        6.5
+      ],
+      "to": [
+        8.5,
+        5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            15,
+            8.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            11.5,
+            8.5,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            11,
+            7.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            11,
+            8.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            11,
+            8,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            11,
+            8,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver7",
+      "from": [
+        6.5,
+        0.5,
+        7.5
+      ],
+      "to": [
+        7,
+        5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            15,
+            7,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            11.5,
+            7,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            7,
+            11,
+            6.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            11,
+            7,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            11,
+            7,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            7,
+            11,
+            6.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver8",
+      "from": [
+        9,
+        0.5,
+        7.5
+      ],
+      "to": [
+        9.5,
+        5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            15,
+            9.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            9,
+            11.5,
+            9.5,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            11,
+            9,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            9,
+            11,
+            9.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            9,
+            11,
+            9.5,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            11,
+            9,
+            15.5
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver9",
+      "from": [
+        7.5,
+        5,
+        7
+      ],
+      "to": [
+        8.5,
+        8.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            10.5,
+            8.5,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            8,
+            8.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            7.5,
+            7.5,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            7.5,
+            8.5,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            7.5,
+            8,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            7.5,
+            8,
+            11
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver10",
+      "from": [
+        7,
+        5,
+        7.5
+      ],
+      "to": [
+        7.5,
+        8.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            10.5,
+            7.5,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            7,
+            8,
+            7.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            7.5,
+            7,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            7,
+            7.5,
+            7.5,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            7,
+            7.5,
+            7.5,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            7.5,
+            7,
+            11
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver11",
+      "from": [
+        8.5,
+        5,
+        7.5
+      ],
+      "to": [
+        9,
+        8.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            10.5,
+            9,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            8,
+            9,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            9,
+            7.5,
+            8.5,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            7.5,
+            9,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            7.5,
+            9,
+            11
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            9,
+            7.5,
+            8.5,
+            11
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver12",
+      "from": [
+        7.5,
+        8.5,
+        6.5
+      ],
+      "to": [
+        8.5,
+        9,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            7,
+            8.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            7.5,
+            8.5,
+            7
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            7,
+            7.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            7,
+            8.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            7,
+            8,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            7,
+            8,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver13",
+      "from": [
+        7,
+        8.5,
+        7
+      ],
+      "to": [
+        7.5,
+        9,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            7,
+            7.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            7,
+            7.5,
+            7.5,
+            7
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            7,
+            7,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            7,
+            7,
+            7.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            7,
+            7,
+            7.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            7,
+            7,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver14",
+      "from": [
+        8.5,
+        8.5,
+        7
+      ],
+      "to": [
+        9,
+        9,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            7,
+            9,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            7.5,
+            9,
+            7
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            9,
+            7,
+            8.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            7,
+            9,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            7,
+            9,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            9,
+            7,
+            8.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver15",
+      "from": [
+        9,
+        8.5,
+        7.5
+      ],
+      "to": [
+        9.5,
+        9,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            7,
+            9.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            9,
+            7.5,
+            9.5,
+            7
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            7,
+            9,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            9,
+            7,
+            9.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            9,
+            7,
+            9.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            7,
+            9,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver16",
+      "from": [
+        6.5,
+        8.5,
+        7.5
+      ],
+      "to": [
+        7,
+        9,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            7,
+            7,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            7.5,
+            7,
+            7
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            7,
+            7,
+            6.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            7,
+            7,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            7,
+            7,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            7,
+            7,
+            6.5,
+            7.5
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    },
+    {
+      "__comment": "screw_driver",
+      "from": [
+        7.5,
+        9,
+        7.75
+      ],
+      "to": [
+        8.5,
+        16,
+        8.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            6.5,
+            8.5,
+            7
+          ],
+          "texture": "#screw_driver"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            0.5,
+            8.5,
+            0
+          ],
+          "texture": "#screw_driver"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            0,
+            7.5,
+            7
+          ],
+          "texture": "#screw_driver"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            0,
+            8.5,
+            7
+          ],
+          "texture": "#screw_driver"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            0,
+            8,
+            7
+          ],
+          "texture": "#screw_driver"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            0,
+            8,
+            7
+          ],
+          "texture": "#screw_driver"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        0,
+        -0.25,
+        1
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -90,
+        -90,
+        45
+      ],
+      "translation": [
+        -10.25,
+        -1.5,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        10
+      ],
+      "translation": [
+        0,
+        0,
+        -6
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        -45
+      ]
+    },
+    "head": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "ground": {
+      "rotation": [
+        -90,
+        0,
+        90
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ]
+    }
+  }
+}

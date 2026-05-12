@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/lan_zi_",
+  "textures": {
+    "all": "zcraft_decorations:block/lan_se_zhuo_zi_",
+    "particle": "zcraft_decorations:block/lan_se_zhuo_zi_",
+    "0": "zcraft_decorations:block/lan_se_zhuo_zi_"
+  }
+}

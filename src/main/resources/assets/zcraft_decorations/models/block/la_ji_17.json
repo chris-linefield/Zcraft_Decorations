@@ -1,0 +1,18 @@
+{
+  "parent": "zcraft_decorations:custom/block522",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "0": "zcraft_decorations:block/chugui1",
+    "2": "zcraft_decorations:block/youtong",
+    "3": "zcraft_decorations:block/lajidui",
+    "4": "zcraft_decorations:block/zhuantou",
+    "5": "zcraft_decorations:block/bengdai",
+    "6": "zcraft_decorations:block/desk",
+    "7": "zcraft_decorations:block/canape",
+    "missing": "zcraft_decorations:block/di",
+    "8": "zcraft_decorations:block/hardened_clay_stained_silver1",
+    "9": "zcraft_decorations:block/zhuban6",
+    "10": "zcraft_decorations:block/youtong1"
+  }
+}

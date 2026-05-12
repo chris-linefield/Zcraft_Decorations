@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/logwall",
+  "textures": {
+    "all": "zcraft_decorations:block/logwall",
+    "particle": "zcraft_decorations:block/logwall",
+    "0": "zcraft_decorations:block/logwall"
+  },
+  "render_type": "cutout"
+}

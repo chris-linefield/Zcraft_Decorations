@@ -1,0 +1,19 @@
+{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "zcraft_decorations:block/sfz_zmguizi"
+                                      },
+                     "facing=east":  {
+                                         "model":  "zcraft_decorations:block/sfz_zmguizi",
+                                         "y":  90
+                                     },
+                     "facing=south":  {
+                                          "model":  "zcraft_decorations:block/sfz_zmguizi",
+                                          "y":  180
+                                      },
+                     "facing=west":  {
+                                         "model":  "zcraft_decorations:block/sfz_zmguizi",
+                                         "y":  270
+                                     }
+                 }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/di_shang_de_xie_ye_",
+  "textures": {
+    "all": "zcraft_decorations:block/di_shang_de_xie_ye__1",
+    "particle": "zcraft_decorations:block/di_shang_de_xie_ye__1",
+    "0": "zcraft_decorations:block/di_shang_de_xie_ye__1"
+  }
+}

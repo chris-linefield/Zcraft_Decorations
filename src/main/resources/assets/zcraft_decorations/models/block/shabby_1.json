@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zcraft_decorations:block/chest_shabby_wood_side",
+    "up": "zcraft_decorations:block/chest_shabby_wood_side",
+    "north": "zcraft_decorations:block/cabinet_shabby_wood",
+    "east": "zcraft_decorations:block/cabinet_shabby_wood_side",
+    "south": "zcraft_decorations:block/cabinet_shabby_wood_side",
+    "west": "zcraft_decorations:block/cabinet_shabby_wood_side",
+    "particle": "zcraft_decorations:block/chest_shabby_wood_side"
+  },
+  "render_type": "solid"
+}

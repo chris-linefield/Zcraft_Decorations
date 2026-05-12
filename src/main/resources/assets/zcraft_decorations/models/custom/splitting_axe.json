@@ -1,0 +1,8724 @@
+{
+  "__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+  "elements": [
+    {
+      "__comment": "splitting_axe",
+      "from": [
+        7,
+        -8,
+        7
+      ],
+      "to": [
+        7.5,
+        -7,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            15.75,
+            7.5,
+            16
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            15.75,
+            7.5,
+            15.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            15.5,
+            7.25,
+            16
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            15.5,
+            7.5,
+            16
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            15.5,
+            7.5,
+            16
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            15.5,
+            7.25,
+            16
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe1",
+      "from": [
+        6.5,
+        -8,
+        7.5
+      ],
+      "to": [
+        9,
+        -7,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            15.75,
+            8.25,
+            16
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7,
+            15.75,
+            8.25,
+            15.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            15.5,
+            7,
+            16
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7,
+            15.5,
+            8.25,
+            16
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7,
+            15.5,
+            7.25,
+            16
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe2",
+      "from": [
+        7,
+        15.5,
+        7.5
+      ],
+      "to": [
+        10,
+        18,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            4,
+            8.75,
+            4.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            3.25,
+            8.75,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            3,
+            7.25,
+            4.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            3,
+            8.75,
+            4.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            3,
+            7.5,
+            4.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            3,
+            8.5,
+            4.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe3",
+      "from": [
+        9,
+        15.5,
+        7
+      ],
+      "to": [
+        9.5,
+        18,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.25,
+            4,
+            8.5,
+            4.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            8.25,
+            3.25,
+            8.5,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            3,
+            8.25,
+            4.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            8.25,
+            3,
+            8.5,
+            4.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            8.25,
+            3,
+            8.5,
+            4.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            3,
+            8.25,
+            4.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe4",
+      "from": [
+        7,
+        -7,
+        7.5
+      ],
+      "to": [
+        9,
+        -2.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            15.25,
+            8.25,
+            15.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            13.5,
+            8.25,
+            13.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            13.25,
+            7.25,
+            15.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            13.25,
+            8.25,
+            15.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            13.25,
+            7.5,
+            15.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            13.25,
+            8,
+            15.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe5",
+      "from": [
+        7.5,
+        -8,
+        7
+      ],
+      "to": [
+        8.5,
+        -2.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            15.75,
+            8,
+            16
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            13.5,
+            8,
+            13.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8,
+            13.25,
+            7.5,
+            16
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            13.25,
+            8,
+            16
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            13.25,
+            7.75,
+            16
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8,
+            13.25,
+            7.75,
+            16
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe6",
+      "from": [
+        7.5,
+        -2.5,
+        7.5
+      ],
+      "to": [
+        9.5,
+        2.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            13,
+            8.5,
+            13.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            11,
+            8.5,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            10.75,
+            7.5,
+            13.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10.75,
+            8.5,
+            13.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            10.75,
+            7.75,
+            13.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            10.75,
+            8.25,
+            13.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe7",
+      "from": [
+        8,
+        -2.5,
+        7
+      ],
+      "to": [
+        9,
+        2.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            13,
+            8.25,
+            13.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            11,
+            8.25,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            10.75,
+            7.75,
+            13.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            10.75,
+            8.25,
+            13.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            10.75,
+            8,
+            13.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            10.75,
+            8,
+            13.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe8",
+      "from": [
+        7,
+        2.5,
+        7.5
+      ],
+      "to": [
+        9,
+        10,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            10.5,
+            8.25,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            7.25,
+            8.25,
+            7
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            7,
+            7.25,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            7,
+            8.25,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            7,
+            7.5,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            7,
+            8,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe9",
+      "from": [
+        6.5,
+        10,
+        7.5
+      ],
+      "to": [
+        9,
+        14.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            6.75,
+            8.25,
+            7
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7,
+            5,
+            8.25,
+            4.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            4.75,
+            7,
+            7
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7,
+            4.75,
+            8.25,
+            7
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7,
+            4.75,
+            7.25,
+            7
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            4.75,
+            8,
+            7
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe10",
+      "from": [
+        7.5,
+        2.5,
+        7
+      ],
+      "to": [
+        8.5,
+        18,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            10.5,
+            8,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            3.25,
+            8,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8,
+            3,
+            7.5,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            3,
+            8,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            3,
+            7.75,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8,
+            3,
+            7.75,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe11",
+      "from": [
+        7,
+        10,
+        7
+      ],
+      "to": [
+        7.5,
+        15,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            6.75,
+            7.5,
+            7
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            4.75,
+            7.5,
+            4.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            4.5,
+            7.25,
+            7
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            4.5,
+            7.5,
+            7
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            4.5,
+            7.5,
+            7
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            4.5,
+            7.25,
+            7
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe12",
+      "from": [
+        6.5,
+        14.5,
+        7.5
+      ],
+      "to": [
+        9.5,
+        15,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            4.5,
+            8.5,
+            4.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7,
+            4.75,
+            8.5,
+            4.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            4.5,
+            7,
+            4.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7,
+            4.5,
+            8.5,
+            4.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7,
+            4.5,
+            7.25,
+            4.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            4.5,
+            8.25,
+            4.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe13",
+      "from": [
+        7,
+        15,
+        7.5
+      ],
+      "to": [
+        9.5,
+        15.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            4.25,
+            8.5,
+            4.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            4.5,
+            8.5,
+            4.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            4.25,
+            7.25,
+            4.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            4.25,
+            8.5,
+            4.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            4.25,
+            7.5,
+            4.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            4.25,
+            8.25,
+            4.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe14",
+      "from": [
+        8,
+        23,
+        8.5
+      ],
+      "to": [
+        9.5,
+        23.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            0.25,
+            8.5,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            0.5,
+            8.5,
+            0.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            0.25,
+            7.75,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            0.25,
+            8.5,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            0.25,
+            8,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            0.25,
+            8.25,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe15",
+      "from": [
+        11,
+        18.5,
+        7
+      ],
+      "to": [
+        11.5,
+        22.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.5,
+            2.5,
+            9.75,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9.5,
+            1,
+            9.75,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.75,
+            0.75,
+            9.5,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9.5,
+            0.75,
+            9.75,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            0.75,
+            9.5,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            0.75,
+            8.5,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe16",
+      "from": [
+        1.5,
+        18.5,
+        7.5
+      ],
+      "to": [
+        2,
+        22.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.5,
+            2.5,
+            4.75,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            1,
+            4.75,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            4.75,
+            0.75,
+            4.5,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            0.75,
+            4.75,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            0.75,
+            4.75,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            4.75,
+            0.75,
+            4.5,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe17",
+      "from": [
+        6.5,
+        18,
+        6.5
+      ],
+      "to": [
+        10.5,
+        23,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            2.75,
+            9,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7,
+            0.75,
+            9,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9,
+            0.5,
+            7,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7,
+            0.5,
+            9,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7,
+            0.5,
+            7.25,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9,
+            0.5,
+            8.75,
+            3
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe18",
+      "from": [
+        7.5,
+        2.5,
+        7
+      ],
+      "to": [
+        8.5,
+        18,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            10.5,
+            8,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            3.25,
+            8,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8,
+            3,
+            7.5,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            3,
+            8,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            3,
+            7.75,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8,
+            3,
+            7.75,
+            10.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe19",
+      "from": [
+        8.5,
+        14.5,
+        7
+      ],
+      "to": [
+        9,
+        18,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            4.5,
+            8.25,
+            4.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            8,
+            3.25,
+            8.25,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            3,
+            8,
+            4.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            8,
+            3,
+            8.25,
+            4.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            8,
+            3,
+            8.25,
+            4.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            3,
+            8,
+            4.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe20",
+      "from": [
+        7.5,
+        23,
+        7.5
+      ],
+      "to": [
+        10,
+        23.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            0.25,
+            8.75,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            7.25,
+            8.25,
+            6
+          ],
+          "texture": "#splitting_axe",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            8.75,
+            0.25,
+            7.5,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            0.25,
+            8.75,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            0.25,
+            7.75,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            0.25,
+            8.5,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe21",
+      "from": [
+        8,
+        23,
+        7
+      ],
+      "to": [
+        9.5,
+        23.5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            0.25,
+            8.5,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            0.5,
+            8.5,
+            0.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            0.25,
+            7.75,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            0.25,
+            8.5,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            0.25,
+            8,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            0.25,
+            8.25,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe22",
+      "from": [
+        10.5,
+        18,
+        7
+      ],
+      "to": [
+        11,
+        23,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            2.75,
+            9.25,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            0.75,
+            9.25,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            0.5,
+            9,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            0.5,
+            9.25,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            0.5,
+            9.25,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            0.5,
+            9,
+            3
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe23",
+      "from": [
+        4.5,
+        17.5,
+        7
+      ],
+      "to": [
+        5.5,
+        23.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            3,
+            6.5,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6,
+            0.5,
+            6.5,
+            0.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            0.25,
+            6,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6,
+            0.25,
+            6.5,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6,
+            0.25,
+            6.25,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            0.25,
+            6.25,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe24",
+      "from": [
+        3.5,
+        17.5,
+        7.5
+      ],
+      "to": [
+        4.5,
+        23.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            3,
+            6,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            0.5,
+            6,
+            0.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            0.25,
+            5.5,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            0.25,
+            6,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            0.25,
+            5.75,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            0.25,
+            5.75,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe25",
+      "from": [
+        2.5,
+        17,
+        7.5
+      ],
+      "to": [
+        3.5,
+        24,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5,
+            3.25,
+            5.5,
+            3.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5,
+            0.25,
+            5.5,
+            0
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.5,
+            0,
+            5,
+            3.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5,
+            0,
+            5.5,
+            3.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5,
+            0,
+            5.25,
+            3.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            0,
+            5.25,
+            3.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe26",
+      "from": [
+        2,
+        17.5,
+        7.5
+      ],
+      "to": [
+        2.5,
+        23.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.75,
+            3,
+            5,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            4.75,
+            0.5,
+            5,
+            0.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5,
+            0.25,
+            4.75,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            4.75,
+            0.25,
+            5,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            4.75,
+            0.25,
+            5,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5,
+            0.25,
+            4.75,
+            3.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe27",
+      "from": [
+        5.5,
+        18,
+        7
+      ],
+      "to": [
+        6.5,
+        23,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            2.75,
+            7,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            0.75,
+            7,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            0.5,
+            6.5,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            0.5,
+            7,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            0.5,
+            6.75,
+            3
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            0.5,
+            6.75,
+            3
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe28",
+      "from": [
+        2.5,
+        20.5,
+        7
+      ],
+      "to": [
+        3,
+        21,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5,
+            1.5,
+            5.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5,
+            1.75,
+            5.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.25,
+            1.5,
+            5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5,
+            1.5,
+            5.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5,
+            1.5,
+            5.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            1.5,
+            5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe29",
+      "from": [
+        2.5,
+        20.5,
+        8.5
+      ],
+      "to": [
+        3,
+        21,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5,
+            1.5,
+            5.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5,
+            1.75,
+            5.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.25,
+            1.5,
+            5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5,
+            1.5,
+            5.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5,
+            1.5,
+            5.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            1.5,
+            5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe30",
+      "from": [
+        3,
+        20,
+        7
+      ],
+      "to": [
+        3.5,
+        20.5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.25,
+            1.75,
+            5.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            2,
+            5.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.5,
+            1.75,
+            5.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            1.75,
+            5.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            1.75,
+            5.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            1.75,
+            5.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe31",
+      "from": [
+        3,
+        20,
+        8.5
+      ],
+      "to": [
+        3.5,
+        20.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.25,
+            1.75,
+            5.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            2,
+            5.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.5,
+            1.75,
+            5.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            1.75,
+            5.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            1.75,
+            5.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            1.75,
+            5.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe32",
+      "from": [
+        3,
+        20.5,
+        7
+      ],
+      "to": [
+        3.5,
+        21,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.25,
+            1.5,
+            5.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            1.75,
+            5.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.5,
+            1.5,
+            5.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            1.5,
+            5.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            1.5,
+            5.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            1.5,
+            5.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe33",
+      "from": [
+        3,
+        20.5,
+        8.5
+      ],
+      "to": [
+        3.5,
+        21,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.25,
+            1.5,
+            5.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            1.75,
+            5.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.5,
+            1.5,
+            5.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            1.5,
+            5.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            1.5,
+            5.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            1.5,
+            5.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe34",
+      "from": [
+        3,
+        22,
+        7
+      ],
+      "to": [
+        3.5,
+        22.5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.25,
+            0.75,
+            5.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            1,
+            5.5,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.5,
+            0.75,
+            5.25,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            0.75,
+            5.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            0.75,
+            5.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            0.75,
+            5.25,
+            1
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe35",
+      "from": [
+        3,
+        22,
+        8.5
+      ],
+      "to": [
+        3.5,
+        22.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.25,
+            0.75,
+            5.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            1,
+            5.5,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.5,
+            0.75,
+            5.25,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            0.75,
+            5.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            0.75,
+            5.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            0.75,
+            5.25,
+            1
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe36",
+      "from": [
+        3.5,
+        19,
+        7
+      ],
+      "to": [
+        4,
+        19.5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            2.25,
+            5.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            2.5,
+            5.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            2.25,
+            5.5,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            2.25,
+            5.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            2.25,
+            5.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            2.25,
+            5.5,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe37",
+      "from": [
+        3.5,
+        19,
+        8.5
+      ],
+      "to": [
+        4,
+        19.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            2.25,
+            5.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            2.5,
+            5.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            2.25,
+            5.5,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            2.25,
+            5.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            2.25,
+            5.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            2.25,
+            5.5,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe38",
+      "from": [
+        3.5,
+        19.5,
+        7
+      ],
+      "to": [
+        4,
+        20,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            2,
+            5.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            2.25,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            2,
+            5.5,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            2,
+            5.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            2,
+            5.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            2,
+            5.5,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe39",
+      "from": [
+        3.5,
+        19.5,
+        8.5
+      ],
+      "to": [
+        4,
+        20,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            2,
+            5.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            2.25,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            2,
+            5.5,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            2,
+            5.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            2,
+            5.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            2,
+            5.5,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe40",
+      "from": [
+        3.5,
+        20,
+        7
+      ],
+      "to": [
+        4,
+        20.5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            2,
+            5.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            1.75,
+            5.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            1.75,
+            5.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe41",
+      "from": [
+        3.5,
+        20,
+        8.5
+      ],
+      "to": [
+        4,
+        20.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            2,
+            5.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            1.75,
+            5.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            1.75,
+            5.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe42",
+      "from": [
+        3.5,
+        20.5,
+        7
+      ],
+      "to": [
+        4,
+        21,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            1.5,
+            5.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            1.75,
+            5.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            1.5,
+            5.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            1.5,
+            5.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            1.5,
+            5.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            1.5,
+            5.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe43",
+      "from": [
+        3.5,
+        20.5,
+        8.5
+      ],
+      "to": [
+        4,
+        21,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            1.5,
+            5.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            1.75,
+            5.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            1.5,
+            5.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            1.5,
+            5.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            1.5,
+            5.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            1.5,
+            5.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe44",
+      "from": [
+        3.5,
+        21,
+        7
+      ],
+      "to": [
+        4,
+        21.5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            1.25,
+            5.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            1.5,
+            5.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            1.25,
+            5.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            1.25,
+            5.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            1.25,
+            5.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            1.25,
+            5.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe45",
+      "from": [
+        3.5,
+        21,
+        8.5
+      ],
+      "to": [
+        4,
+        21.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            1.25,
+            5.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            1.5,
+            5.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            1.25,
+            5.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            1.25,
+            5.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            1.25,
+            5.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            1.25,
+            5.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe46",
+      "from": [
+        3.5,
+        21.5,
+        7
+      ],
+      "to": [
+        4,
+        22,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            1,
+            5.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            1.25,
+            5.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            1,
+            5.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            1,
+            5.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            1,
+            5.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            1,
+            5.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe47",
+      "from": [
+        3.5,
+        21.5,
+        8.5
+      ],
+      "to": [
+        4,
+        22,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            1,
+            5.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            1.25,
+            5.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            1,
+            5.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            1,
+            5.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            1,
+            5.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            1,
+            5.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe48",
+      "from": [
+        3.5,
+        22,
+        7
+      ],
+      "to": [
+        4,
+        22.5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            0.75,
+            5.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            1,
+            5.75,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            0.75,
+            5.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            0.75,
+            5.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            0.75,
+            5.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            0.75,
+            5.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe49",
+      "from": [
+        3.5,
+        22,
+        8.5
+      ],
+      "to": [
+        4,
+        22.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            0.75,
+            5.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            1,
+            5.75,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            0.75,
+            5.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            0.75,
+            5.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            0.75,
+            5.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            0.75,
+            5.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe50",
+      "from": [
+        4,
+        18.5,
+        7
+      ],
+      "to": [
+        4.5,
+        19,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            2.5,
+            6,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            2.75,
+            6,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            2.5,
+            5.75,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            2.5,
+            6,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            2.5,
+            6,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            2.5,
+            5.75,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe51",
+      "from": [
+        4,
+        18.5,
+        8.5
+      ],
+      "to": [
+        4.5,
+        19,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            2.5,
+            6,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            2.75,
+            6,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            2.5,
+            5.75,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            2.5,
+            6,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            2.5,
+            6,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            2.5,
+            5.75,
+            2.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe52",
+      "from": [
+        4,
+        19,
+        7
+      ],
+      "to": [
+        4.5,
+        19.5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            2.25,
+            6,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            2.5,
+            6,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            2.25,
+            5.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            2.25,
+            6,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            2.25,
+            6,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            2.25,
+            5.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe53",
+      "from": [
+        4,
+        19,
+        8.5
+      ],
+      "to": [
+        4.5,
+        19.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            2.25,
+            6,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            2.5,
+            6,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            2.25,
+            5.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            2.25,
+            6,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            2.25,
+            6,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            2.25,
+            5.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe54",
+      "from": [
+        4,
+        19.5,
+        7
+      ],
+      "to": [
+        4.5,
+        20,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            2,
+            6,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            2.25,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            2,
+            5.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            2,
+            6,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            2,
+            6,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            2,
+            5.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe55",
+      "from": [
+        4,
+        19.5,
+        8.5
+      ],
+      "to": [
+        4.5,
+        20,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            2,
+            6,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            2.25,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            2,
+            5.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            2,
+            6,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            2,
+            6,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            2,
+            5.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe56",
+      "from": [
+        4,
+        20,
+        6.5
+      ],
+      "to": [
+        4.5,
+        20.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            2,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe57",
+      "from": [
+        4,
+        20,
+        7
+      ],
+      "to": [
+        4.5,
+        20.5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            2,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe58",
+      "from": [
+        4,
+        20,
+        8.5
+      ],
+      "to": [
+        4.5,
+        20.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            2,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe59",
+      "from": [
+        4,
+        20,
+        9
+      ],
+      "to": [
+        4.5,
+        20.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            2,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            1.75,
+            5.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe60",
+      "from": [
+        4,
+        20.5,
+        7
+      ],
+      "to": [
+        4.5,
+        21,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            1.5,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            1.5,
+            5.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            1.5,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            1.5,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            1.5,
+            5.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe61",
+      "from": [
+        4,
+        20.5,
+        8.5
+      ],
+      "to": [
+        4.5,
+        21,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            1.5,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            1.75,
+            6,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            1.5,
+            5.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            1.5,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            1.5,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            1.5,
+            5.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe62",
+      "from": [
+        4,
+        21,
+        7
+      ],
+      "to": [
+        4.5,
+        21.5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            1.25,
+            6,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            1.5,
+            6,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            1.25,
+            5.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            1.25,
+            6,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            1.25,
+            6,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            1.25,
+            5.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe63",
+      "from": [
+        4,
+        21,
+        8.5
+      ],
+      "to": [
+        4.5,
+        21.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            1.25,
+            6,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            1.5,
+            6,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            1.25,
+            5.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            1.25,
+            6,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            1.25,
+            6,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            1.25,
+            5.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe64",
+      "from": [
+        4,
+        21.5,
+        7
+      ],
+      "to": [
+        4.5,
+        22,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            1,
+            6,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            1.25,
+            6,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            1,
+            5.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            1,
+            6,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            1,
+            6,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            1,
+            5.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe65",
+      "from": [
+        4,
+        21.5,
+        8.5
+      ],
+      "to": [
+        4.5,
+        22,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            1,
+            6,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            1.25,
+            6,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            1,
+            5.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            1,
+            6,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            1,
+            6,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            1,
+            5.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe66",
+      "from": [
+        4,
+        22,
+        7
+      ],
+      "to": [
+        4.5,
+        22.5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            0.75,
+            6,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            1,
+            6,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            0.75,
+            5.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            0.75,
+            6,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            0.75,
+            6,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            0.75,
+            5.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe67",
+      "from": [
+        4,
+        22,
+        8.5
+      ],
+      "to": [
+        4.5,
+        22.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            0.75,
+            6,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            1,
+            6,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            0.75,
+            5.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            0.75,
+            6,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            0.75,
+            6,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            0.75,
+            5.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe68",
+      "from": [
+        4,
+        22.5,
+        7
+      ],
+      "to": [
+        4.5,
+        23,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            0.5,
+            6,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            0.75,
+            6,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            0.5,
+            5.75,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            0.5,
+            6,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            0.5,
+            6,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            0.5,
+            5.75,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe69",
+      "from": [
+        4,
+        22.5,
+        8.5
+      ],
+      "to": [
+        4.5,
+        23,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            0.5,
+            6,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            0.75,
+            6,
+            0.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6,
+            0.5,
+            5.75,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            0.5,
+            6,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            0.5,
+            6,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6,
+            0.5,
+            5.75,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe70",
+      "from": [
+        4.5,
+        20,
+        6.5
+      ],
+      "to": [
+        5,
+        20.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            1.75,
+            6.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6,
+            2,
+            6.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.25,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6,
+            1.75,
+            6.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6,
+            1.75,
+            6.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.25,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe71",
+      "from": [
+        4.5,
+        20,
+        9
+      ],
+      "to": [
+        5,
+        20.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            1.75,
+            6.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6,
+            2,
+            6.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.25,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6,
+            1.75,
+            6.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6,
+            1.75,
+            6.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.25,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe72",
+      "from": [
+        4.5,
+        20.5,
+        6.5
+      ],
+      "to": [
+        5,
+        21,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            1.5,
+            6.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6,
+            1.75,
+            6.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.25,
+            1.5,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6,
+            1.5,
+            6.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6,
+            1.5,
+            6.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.25,
+            1.5,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe73",
+      "from": [
+        4.5,
+        20.5,
+        9
+      ],
+      "to": [
+        5,
+        21,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            1.5,
+            6.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6,
+            1.75,
+            6.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.25,
+            1.5,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6,
+            1.5,
+            6.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6,
+            1.5,
+            6.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.25,
+            1.5,
+            6,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe74",
+      "from": [
+        5,
+        20,
+        6.5
+      ],
+      "to": [
+        5.5,
+        20.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.25,
+            1.75,
+            6.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.25,
+            2,
+            6.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            1.75,
+            6.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.25,
+            1.75,
+            6.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.25,
+            1.75,
+            6.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            1.75,
+            6.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe75",
+      "from": [
+        5,
+        20,
+        9
+      ],
+      "to": [
+        5.5,
+        20.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.25,
+            1.75,
+            6.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.25,
+            2,
+            6.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            1.75,
+            6.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.25,
+            1.75,
+            6.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.25,
+            1.75,
+            6.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            1.75,
+            6.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe76",
+      "from": [
+        5,
+        20.5,
+        6.5
+      ],
+      "to": [
+        5.5,
+        21,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.25,
+            1.5,
+            6.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.25,
+            1.75,
+            6.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            1.5,
+            6.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.25,
+            1.5,
+            6.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.25,
+            1.5,
+            6.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            1.5,
+            6.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe77",
+      "from": [
+        5,
+        20.5,
+        9
+      ],
+      "to": [
+        5.5,
+        21,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.25,
+            1.5,
+            6.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.25,
+            1.75,
+            6.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            1.5,
+            6.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.25,
+            1.5,
+            6.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.25,
+            1.5,
+            6.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            1.5,
+            6.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe78",
+      "from": [
+        5,
+        21.5,
+        6.5
+      ],
+      "to": [
+        5.5,
+        22,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.25,
+            1,
+            6.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.25,
+            1.25,
+            6.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            1,
+            6.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.25,
+            1,
+            6.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.25,
+            1,
+            6.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            1,
+            6.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe79",
+      "from": [
+        5,
+        21.5,
+        9
+      ],
+      "to": [
+        5.5,
+        22,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.25,
+            1,
+            6.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.25,
+            1.25,
+            6.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            1,
+            6.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.25,
+            1,
+            6.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.25,
+            1,
+            6.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            1,
+            6.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe80",
+      "from": [
+        5.5,
+        19.5,
+        6.5
+      ],
+      "to": [
+        6,
+        20,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            2,
+            6.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            2.25,
+            6.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            2,
+            6.5,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            2,
+            6.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            2,
+            6.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            2,
+            6.5,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe81",
+      "from": [
+        5.5,
+        19.5,
+        9
+      ],
+      "to": [
+        6,
+        20,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            2,
+            6.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            2.25,
+            6.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            2,
+            6.5,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            2,
+            6.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            2,
+            6.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            2,
+            6.5,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe82",
+      "from": [
+        5.5,
+        20,
+        6.5
+      ],
+      "to": [
+        6,
+        20.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            1.75,
+            6.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            2,
+            6.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            1.75,
+            6.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            1.75,
+            6.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            1.75,
+            6.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            1.75,
+            6.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe83",
+      "from": [
+        5.5,
+        20,
+        9
+      ],
+      "to": [
+        6,
+        20.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            1.75,
+            6.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            2,
+            6.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            1.75,
+            6.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            1.75,
+            6.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            1.75,
+            6.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            1.75,
+            6.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe84",
+      "from": [
+        5.5,
+        20.5,
+        6.5
+      ],
+      "to": [
+        6,
+        21,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            1.5,
+            6.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            1.75,
+            6.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            1.5,
+            6.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            1.5,
+            6.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            1.5,
+            6.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            1.5,
+            6.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe85",
+      "from": [
+        5.5,
+        20.5,
+        9
+      ],
+      "to": [
+        6,
+        21,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            1.5,
+            6.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            1.75,
+            6.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            1.5,
+            6.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            1.5,
+            6.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            1.5,
+            6.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            1.5,
+            6.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe86",
+      "from": [
+        5.5,
+        21,
+        6.5
+      ],
+      "to": [
+        6,
+        21.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            1.25,
+            6.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            1.5,
+            6.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            1.25,
+            6.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            1.25,
+            6.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            1.25,
+            6.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            1.25,
+            6.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe87",
+      "from": [
+        5.5,
+        21,
+        9
+      ],
+      "to": [
+        6,
+        21.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            1.25,
+            6.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            1.5,
+            6.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            1.25,
+            6.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            1.25,
+            6.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            1.25,
+            6.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            1.25,
+            6.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe88",
+      "from": [
+        5.5,
+        21.5,
+        6.5
+      ],
+      "to": [
+        6,
+        22,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            1,
+            6.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            1.25,
+            6.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            1,
+            6.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            1,
+            6.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            1,
+            6.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            1,
+            6.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe89",
+      "from": [
+        5.5,
+        21.5,
+        9
+      ],
+      "to": [
+        6,
+        22,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            1,
+            6.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            1.25,
+            6.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            1,
+            6.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            1,
+            6.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            1,
+            6.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            1,
+            6.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe90",
+      "from": [
+        6,
+        19,
+        6.5
+      ],
+      "to": [
+        6.5,
+        19.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            2.25,
+            7,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            2.5,
+            7,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            2.25,
+            6.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            2.25,
+            7,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            2.25,
+            7,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            2.25,
+            6.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe91",
+      "from": [
+        6,
+        19,
+        9
+      ],
+      "to": [
+        6.5,
+        19.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            2.25,
+            7,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            2.5,
+            7,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            2.25,
+            6.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            2.25,
+            7,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            2.25,
+            7,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            2.25,
+            6.75,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe92",
+      "from": [
+        6,
+        19.5,
+        6.5
+      ],
+      "to": [
+        6.5,
+        20,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            2.25,
+            7,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            2,
+            6.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            2,
+            6.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe93",
+      "from": [
+        6,
+        19.5,
+        9
+      ],
+      "to": [
+        6.5,
+        20,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            2.25,
+            7,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            2,
+            6.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            2,
+            6.75,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe94",
+      "from": [
+        6,
+        20,
+        6.5
+      ],
+      "to": [
+        6.5,
+        20.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            1.75,
+            7,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            1.75,
+            6.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            1.75,
+            7,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            1.75,
+            7,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            1.75,
+            6.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe95",
+      "from": [
+        6,
+        20,
+        9
+      ],
+      "to": [
+        6.5,
+        20.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            1.75,
+            7,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            1.75,
+            6.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            1.75,
+            7,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            1.75,
+            7,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            1.75,
+            6.75,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe96",
+      "from": [
+        6,
+        20.5,
+        6.5
+      ],
+      "to": [
+        6.5,
+        21,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            1.5,
+            7,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            1.75,
+            7,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            1.5,
+            6.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            1.5,
+            7,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            1.5,
+            7,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            1.5,
+            6.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe97",
+      "from": [
+        6,
+        20.5,
+        9
+      ],
+      "to": [
+        6.5,
+        21,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            1.5,
+            7,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            1.75,
+            7,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            1.5,
+            6.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            1.5,
+            7,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            1.5,
+            7,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            1.5,
+            6.75,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe98",
+      "from": [
+        6,
+        21,
+        6.5
+      ],
+      "to": [
+        6.5,
+        21.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            1.25,
+            7,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            1.5,
+            7,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            1.25,
+            6.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            1.25,
+            7,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            1.25,
+            7,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            1.25,
+            6.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe99",
+      "from": [
+        6,
+        21,
+        9
+      ],
+      "to": [
+        6.5,
+        21.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            1.25,
+            7,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            1.5,
+            7,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            1.25,
+            6.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            1.25,
+            7,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            1.25,
+            7,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            1.25,
+            6.75,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe100",
+      "from": [
+        6,
+        21.5,
+        6.5
+      ],
+      "to": [
+        6.5,
+        22,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            1,
+            7,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            1.25,
+            7,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            1,
+            6.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            1,
+            7,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            1,
+            7,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            1,
+            6.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe101",
+      "from": [
+        6,
+        21.5,
+        9
+      ],
+      "to": [
+        6.5,
+        22,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            1,
+            7,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            1.25,
+            7,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            1,
+            6.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            1,
+            7,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            1,
+            7,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            1,
+            6.75,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe102",
+      "from": [
+        6,
+        22,
+        6.5
+      ],
+      "to": [
+        6.5,
+        22.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            0.75,
+            7,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            1,
+            7,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            0.75,
+            6.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            0.75,
+            7,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            0.75,
+            7,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            0.75,
+            6.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe103",
+      "from": [
+        6,
+        22,
+        9
+      ],
+      "to": [
+        6.5,
+        22.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            0.75,
+            7,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            1,
+            7,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            7,
+            0.75,
+            6.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            0.75,
+            7,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            0.75,
+            7,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            7,
+            0.75,
+            6.75,
+            1
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe104",
+      "from": [
+        10.5,
+        19,
+        6.5
+      ],
+      "to": [
+        11,
+        19.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            2.25,
+            9.25,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            2.5,
+            9.25,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            2.25,
+            9,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            2.25,
+            9.25,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            2.25,
+            9.25,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            2.25,
+            9,
+            2.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe105",
+      "from": [
+        10.5,
+        19.5,
+        6.5
+      ],
+      "to": [
+        11,
+        20,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            2,
+            9.25,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            2.25,
+            9.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            2,
+            9,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            2,
+            9.25,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            2,
+            9.25,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            2,
+            9,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe106",
+      "from": [
+        10.5,
+        19.5,
+        9
+      ],
+      "to": [
+        11,
+        20,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            2,
+            9.25,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            2.25,
+            9.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            2,
+            9,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            2,
+            9.25,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            2,
+            9.25,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            2,
+            9,
+            2.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe107",
+      "from": [
+        10.5,
+        20,
+        6.5
+      ],
+      "to": [
+        11,
+        20.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            2,
+            9.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            1.75,
+            9,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            1.75,
+            9,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe108",
+      "from": [
+        10.5,
+        20,
+        9
+      ],
+      "to": [
+        11,
+        20.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            2,
+            9.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            1.75,
+            9,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            1.75,
+            9,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe109",
+      "from": [
+        10.5,
+        20.5,
+        6.5
+      ],
+      "to": [
+        11,
+        21,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            1.75,
+            9.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            1.5,
+            9,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            1.5,
+            9,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe110",
+      "from": [
+        10.5,
+        20.5,
+        9
+      ],
+      "to": [
+        11,
+        21,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            1.75,
+            9.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            1.5,
+            9,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            1.5,
+            9,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe111",
+      "from": [
+        10.5,
+        21,
+        6.5
+      ],
+      "to": [
+        11,
+        21.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            1.25,
+            9.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            1.5,
+            9.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            1.25,
+            9,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            1.25,
+            9.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            1.25,
+            9.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            1.25,
+            9,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe112",
+      "from": [
+        10.5,
+        21,
+        9
+      ],
+      "to": [
+        11,
+        21.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            1.25,
+            9.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            1.5,
+            9.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            1.25,
+            9,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            1.25,
+            9.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            1.25,
+            9.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            1.25,
+            9,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe113",
+      "from": [
+        10.5,
+        21.5,
+        6.5
+      ],
+      "to": [
+        11,
+        22,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            1,
+            9.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            1.25,
+            9.25,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            1,
+            9,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            1,
+            9.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            1,
+            9.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            1,
+            9,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe114",
+      "from": [
+        10.5,
+        21.5,
+        9
+      ],
+      "to": [
+        11,
+        22,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            1,
+            9.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            1.25,
+            9.25,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            1,
+            9,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            1,
+            9.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            1,
+            9.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            1,
+            9,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe115",
+      "from": [
+        10.5,
+        22,
+        6.5
+      ],
+      "to": [
+        11,
+        22.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            0.75,
+            9.25,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            1,
+            9.25,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            0.75,
+            9,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            0.75,
+            9.25,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            0.75,
+            9.25,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            0.75,
+            9,
+            1
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe116",
+      "from": [
+        10.5,
+        22,
+        9
+      ],
+      "to": [
+        11,
+        22.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            0.75,
+            9.25,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9,
+            1,
+            9.25,
+            0.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            0.75,
+            9,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9,
+            0.75,
+            9.25,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9,
+            0.75,
+            9.25,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            0.75,
+            9,
+            1
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe117",
+      "from": [
+        11,
+        20,
+        6.5
+      ],
+      "to": [
+        11.5,
+        20.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            1.75,
+            9.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            2,
+            9.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            1.75,
+            9.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            1.75,
+            9.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe118",
+      "from": [
+        11,
+        20,
+        9
+      ],
+      "to": [
+        11.5,
+        20.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            1.75,
+            9.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            2,
+            9.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            1.75,
+            9.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            1.75,
+            9.5,
+            2
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            1.75,
+            9.25,
+            2
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe119",
+      "from": [
+        11,
+        20.5,
+        6.5
+      ],
+      "to": [
+        11.5,
+        21,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            1.5,
+            9.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            1.75,
+            9.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            1.5,
+            9.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            1.5,
+            9.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe120",
+      "from": [
+        11,
+        20.5,
+        9
+      ],
+      "to": [
+        11.5,
+        21,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            1.5,
+            9.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            1.75,
+            9.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            1.5,
+            9.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            1.5,
+            9.5,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            1.5,
+            9.25,
+            1.75
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe121",
+      "from": [
+        11,
+        21,
+        6.5
+      ],
+      "to": [
+        11.5,
+        21.5,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            1.25,
+            9.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            1.5,
+            9.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            1.25,
+            9.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            1.25,
+            9.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            1.25,
+            9.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            1.25,
+            9.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe122",
+      "from": [
+        11,
+        21,
+        9
+      ],
+      "to": [
+        11.5,
+        21.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            1.25,
+            9.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            1.5,
+            9.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            1.25,
+            9.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            1.25,
+            9.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            1.25,
+            9.5,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            1.25,
+            9.25,
+            1.5
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe123",
+      "from": [
+        11,
+        21.5,
+        6.5
+      ],
+      "to": [
+        11.5,
+        22,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            1,
+            9.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            1.25,
+            9.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            1,
+            9.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            1,
+            9.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            1,
+            9.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            1,
+            9.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    },
+    {
+      "__comment": "splitting_axe124",
+      "from": [
+        11,
+        21.5,
+        9
+      ],
+      "to": [
+        11.5,
+        22,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            1,
+            9.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            1.25,
+            9.5,
+            1
+          ],
+          "texture": "#splitting_axe"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            1,
+            9.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            1,
+            9.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            1,
+            9.5,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            1,
+            9.25,
+            1.25
+          ],
+          "texture": "#splitting_axe"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -90,
+        -180,
+        45
+      ],
+      "translation": [
+        -6,
+        -6,
+        9
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -90,
+        -60,
+        -90
+      ],
+      "translation": [
+        -3,
+        0,
+        -3
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        -45
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "head": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "ground": {
+      "rotation": [
+        90,
+        0,
+        90
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "fixed": {
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
+}

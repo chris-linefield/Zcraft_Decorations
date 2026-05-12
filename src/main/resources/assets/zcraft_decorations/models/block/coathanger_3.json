@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/yijia3",
+  "textures": {
+    "all": "zcraft_decorations:block/yijia",
+    "particle": "zcraft_decorations:block/yijia",
+    "0": "zcraft_decorations:block/yijia"
+  },
+  "render_type": "cutout"
+}

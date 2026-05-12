@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/safe2",
+  "textures": {
+    "all": "zcraft_decorations:block/safe1",
+    "particle": "zcraft_decorations:block/safe1",
+    "0": "zcraft_decorations:block/safe1"
+  },
+  "render_type": "solid"
+}

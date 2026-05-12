@@ -1,0 +1,12 @@
+{
+  "parent": "zcraft_decorations:custom/block103",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "0": "zcraft_decorations:block/xueye",
+    "1": "zcraft_decorations:block/gutou2",
+    "2": "zcraft_decorations:block/dachang",
+    "4": "zcraft_decorations:block/human18",
+    "5": "zcraft_decorations:block/blood21"
+  }
+}

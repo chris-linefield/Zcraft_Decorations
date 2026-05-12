@@ -1,0 +1,19 @@
+{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "zcraft_decorations:block/sfz_huojia"
+                                      },
+                     "facing=east":  {
+                                         "model":  "zcraft_decorations:block/sfz_huojia",
+                                         "y":  90
+                                     },
+                     "facing=south":  {
+                                          "model":  "zcraft_decorations:block/sfz_huojia",
+                                          "y":  180
+                                      },
+                     "facing=west":  {
+                                         "model":  "zcraft_decorations:block/sfz_huojia",
+                                         "y":  270
+                                     }
+                 }
+}

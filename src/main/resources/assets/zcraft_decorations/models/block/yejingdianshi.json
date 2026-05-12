@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/ye_jing_dian_shi_",
+  "textures": {
+    "all": "zcraft_decorations:block/wool_colored_gray",
+    "particle": "zcraft_decorations:block/wool_colored_gray",
+    "Gray": "zcraft_decorations:block/wool_colored_gray",
+    "DBlack": "zcraft_decorations:block/wool_colored_black",
+    "LBlack": "zcraft_decorations:block/wool_colored_dark_black"
+  }
+}

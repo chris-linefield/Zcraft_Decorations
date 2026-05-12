@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/zaotai",
+  "textures": {
+    "all": "zcraft_decorations:block/zaotai",
+    "particle": "zcraft_decorations:block/zaotai",
+    "0": "zcraft_decorations:block/zaotai"
+  }
+}

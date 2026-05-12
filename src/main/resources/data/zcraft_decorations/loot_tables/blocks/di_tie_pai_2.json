@@ -1,0 +1,19 @@
+{
+    "type":  "minecraft:block",
+    "pools":  [
+                  {
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "zcraft_decorations:di_tie_pai_2"
+                                      }
+                                  ],
+                      "conditions":  [
+                                         {
+                                             "condition":  "minecraft:survives_explosion"
+                                         }
+                                     ]
+                  }
+              ]
+}

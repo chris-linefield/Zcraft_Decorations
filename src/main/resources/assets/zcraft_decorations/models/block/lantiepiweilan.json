@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/tiepiweilan",
+  "textures": {
+    "all": "zcraft_decorations:block/z3obstruction",
+    "particle": "zcraft_decorations:block/z3obstruction",
+    "0": "zcraft_decorations:block/z3obstruction",
+    "1": "zcraft_decorations:block/z3obstruction2"
+  }
+}

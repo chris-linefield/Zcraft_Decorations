@@ -1,0 +1,1828 @@
+{
+  "__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+  "elements": [
+    {
+      "__comment": "hatchet",
+      "from": [
+        7,
+        0,
+        7
+      ],
+      "to": [
+        8.5,
+        0.5,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            16,
+            8,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            8,
+            15.5,
+            6.5,
+            16
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            15.5,
+            7,
+            16
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            8,
+            15.5,
+            7.5,
+            16
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet1",
+      "from": [
+        6.5,
+        0.5,
+        7
+      ],
+      "to": [
+        7,
+        2,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            15,
+            6.5,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            6,
+            14.5,
+            6.5,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            14,
+            6,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            6,
+            14,
+            6.5,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            6,
+            14,
+            6.5,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            14,
+            6,
+            15.5
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet2",
+      "from": [
+        8.5,
+        0.5,
+        7
+      ],
+      "to": [
+        9,
+        2,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            15,
+            8.5,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            8,
+            14.5,
+            8.5,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            14,
+            8,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            8,
+            14,
+            8.5,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            8,
+            14,
+            8.5,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            14,
+            8,
+            15.5
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet3",
+      "from": [
+        7,
+        2,
+        7
+      ],
+      "to": [
+        7.5,
+        4,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            13.5,
+            7,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            12.5,
+            7,
+            12
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            7,
+            12,
+            6.5,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            12,
+            7,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            12,
+            7,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            7,
+            12,
+            6.5,
+            14
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet4",
+      "from": [
+        7.5,
+        4,
+        7
+      ],
+      "to": [
+        8,
+        6,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            11.5,
+            7.5,
+            12
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            7,
+            10.5,
+            7.5,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            7,
+            12
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            7,
+            10,
+            7.5,
+            12
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            7,
+            10,
+            7.5,
+            12
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            10,
+            7,
+            12
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet5",
+      "from": [
+        9,
+        2,
+        7
+      ],
+      "to": [
+        9.5,
+        6,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            13.5,
+            9,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            10.5,
+            9,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            9,
+            10,
+            8.5,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            10,
+            9,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            10,
+            9,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            9,
+            10,
+            8.5,
+            14
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet6",
+      "from": [
+        8.5,
+        6,
+        7
+      ],
+      "to": [
+        9,
+        10,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            9.5,
+            8.5,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            8,
+            6.5,
+            8.5,
+            6
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            6,
+            8,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            8,
+            6,
+            8.5,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            8,
+            6,
+            8.5,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            6,
+            8,
+            10
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet7",
+      "from": [
+        7,
+        6,
+        7
+      ],
+      "to": [
+        7.5,
+        12,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            9.5,
+            7,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            4.5,
+            7,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            7,
+            4,
+            6.5,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            4,
+            7,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            4,
+            7,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            7,
+            4,
+            6.5,
+            10
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet8",
+      "from": [
+        9,
+        10,
+        7
+      ],
+      "to": [
+        9.5,
+        12,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            5.5,
+            9,
+            6
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            4.5,
+            9,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            9,
+            4,
+            8.5,
+            6
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            4,
+            9,
+            6
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            4,
+            9,
+            6
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            9,
+            4,
+            8.5,
+            6
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet9",
+      "from": [
+        7,
+        0.5,
+        6.5
+      ],
+      "to": [
+        8.5,
+        1,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            15,
+            8,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            15.5,
+            8,
+            15
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            8,
+            15,
+            6.5,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            15,
+            8,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            15,
+            7,
+            15.5
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            8,
+            15,
+            7.5,
+            15.5
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet10",
+      "from": [
+        7.5,
+        2,
+        6.5
+      ],
+      "to": [
+        9,
+        4,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            13.5,
+            8.5,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            7,
+            12.5,
+            8.5,
+            12
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            12,
+            7,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            7,
+            12,
+            8.5,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            7,
+            12,
+            7.5,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            12,
+            8,
+            14
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet11",
+      "from": [
+        8,
+        4,
+        6.5
+      ],
+      "to": [
+        9,
+        6,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            11.5,
+            8.5,
+            12
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10.5,
+            8.5,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            10,
+            7.5,
+            12
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            12
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            12
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            10,
+            8,
+            12
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet12",
+      "from": [
+        7.5,
+        6,
+        6.5
+      ],
+      "to": [
+        8.5,
+        10,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            9.5,
+            8,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            7,
+            6.5,
+            8,
+            6
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            8,
+            6,
+            7,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            7,
+            6,
+            8,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            7,
+            6,
+            7.5,
+            10
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            8,
+            6,
+            7.5,
+            10
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet13",
+      "from": [
+        7.5,
+        10,
+        6.5
+      ],
+      "to": [
+        9,
+        12,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            5.5,
+            8.5,
+            6
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            7,
+            4.5,
+            8.5,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            4,
+            7,
+            6
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            7,
+            4,
+            8.5,
+            6
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            7,
+            4,
+            7.5,
+            6
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            4,
+            8,
+            6
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet14",
+      "from": [
+        7,
+        1.5,
+        6.5
+      ],
+      "to": [
+        8.5,
+        2,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            14,
+            8,
+            14.5
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            14.5,
+            8,
+            14
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            8,
+            14,
+            6.5,
+            14.5
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            14,
+            8,
+            14.5
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            14,
+            7,
+            14.5
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            8,
+            14,
+            7.5,
+            14.5
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet15",
+      "from": [
+        7,
+        1,
+        6.5
+      ],
+      "to": [
+        7.5,
+        1.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            14.5,
+            7,
+            15
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            15,
+            7,
+            14.5
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            7,
+            14.5,
+            6.5,
+            15
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            14.5,
+            7,
+            15
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            14.5,
+            7,
+            15
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            7,
+            14.5,
+            6.5,
+            15
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet16",
+      "from": [
+        8,
+        1,
+        6.5
+      ],
+      "to": [
+        8.5,
+        1.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            14.5,
+            8,
+            15
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            15,
+            8,
+            14.5
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            8,
+            14.5,
+            7.5,
+            15
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            14.5,
+            8,
+            15
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            14.5,
+            8,
+            15
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            8,
+            14.5,
+            7.5,
+            15
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet17",
+      "from": [
+        7.5,
+        15.5,
+        6.5
+      ],
+      "to": [
+        9,
+        16,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            0,
+            8.5,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            7,
+            0.5,
+            8.5,
+            0
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            0,
+            7,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            7,
+            0,
+            8.5,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            7,
+            0,
+            7.5,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            0,
+            8,
+            0.5
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet18",
+      "from": [
+        7,
+        15.5,
+        7
+      ],
+      "to": [
+        7.5,
+        16,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            0,
+            7,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            0.5,
+            7,
+            0
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            7,
+            0,
+            6.5,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            0,
+            7,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            0,
+            7,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            7,
+            0,
+            6.5,
+            0.5
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet19",
+      "from": [
+        9,
+        15.5,
+        7
+      ],
+      "to": [
+        9.5,
+        16,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            0,
+            9,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            0.5,
+            9,
+            0
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            9,
+            0,
+            8.5,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            0,
+            9,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            0,
+            9,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            9,
+            0,
+            8.5,
+            0.5
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet20",
+      "from": [
+        7,
+        12,
+        6.5
+      ],
+      "to": [
+        9.5,
+        15.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            3.5,
+            9,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            1,
+            9,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            9,
+            0.5,
+            6.5,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            0.5,
+            9,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            0.5,
+            7,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            9,
+            0.5,
+            8.5,
+            4
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet21",
+      "from": [
+        10,
+        12,
+        7
+      ],
+      "to": [
+        10.5,
+        15.5,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.5,
+            3.5,
+            10,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            9.5,
+            1,
+            10,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            10,
+            0.5,
+            9.5,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            9.5,
+            0.5,
+            10,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            9.5,
+            0.5,
+            10,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            10,
+            0.5,
+            9.5,
+            4
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet22",
+      "from": [
+        3,
+        12,
+        7
+      ],
+      "to": [
+        7,
+        15.5,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.5,
+            3.5,
+            6.5,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            2.5,
+            1,
+            6.5,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            0.5,
+            2.5,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            2.5,
+            0.5,
+            6.5,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            2.5,
+            0.5,
+            3,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            0.5,
+            6,
+            4
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet20",
+      "from": [
+        9.5,
+        12,
+        6.5
+      ],
+      "to": [
+        10,
+        13,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            3.5,
+            9.5,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            9,
+            3.5,
+            9.5,
+            3
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            3,
+            9,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            9,
+            3,
+            9.5,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            9,
+            3,
+            9.5,
+            4
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            3,
+            9,
+            4
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    },
+    {
+      "__comment": "hatchet21",
+      "from": [
+        9.5,
+        13,
+        7
+      ],
+      "to": [
+        10,
+        15.5,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            2.5,
+            9.5,
+            3
+          ],
+          "texture": "#hatchet"
+        },
+        "up": {
+          "uv": [
+            9,
+            1,
+            9.5,
+            0.5
+          ],
+          "texture": "#hatchet"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            0.5,
+            9,
+            3
+          ],
+          "texture": "#hatchet"
+        },
+        "south": {
+          "uv": [
+            9,
+            0.5,
+            9.5,
+            3
+          ],
+          "texture": "#hatchet"
+        },
+        "west": {
+          "uv": [
+            9,
+            0.5,
+            9.5,
+            3
+          ],
+          "texture": "#hatchet"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            0.5,
+            9,
+            3
+          ],
+          "texture": "#hatchet"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        0,
+        -0.25,
+        1.5
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -90,
+        -90,
+        45
+      ],
+      "translation": [
+        -10.5,
+        -1.5,
+        0
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        -15
+      ],
+      "translation": [
+        0,
+        0,
+        -6
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        -45
+      ],
+      "translation": [
+        -1,
+        -0.75,
+        0
+      ]
+    },
+    "head": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "ground": {
+      "rotation": [
+        -90,
+        0,
+        90
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
+}

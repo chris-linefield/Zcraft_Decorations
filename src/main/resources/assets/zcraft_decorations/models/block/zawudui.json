@@ -1,0 +1,13 @@
+{
+  "parent": "zcraft_decorations:custom/za_wu_dui_",
+  "textures": {
+    "all": "zcraft_decorations:block/mutouxiangzi11",
+    "particle": "zcraft_decorations:block/mutouxiangzi11",
+    "1": "zcraft_decorations:block/mu_zhi_dang_ban_",
+    "2": "zcraft_decorations:block/mu_zhi_hu_ban_",
+    "3": "zcraft_decorations:block/mutouxiangzi11",
+    "4": "zcraft_decorations:block/shi_tou_dui_3",
+    "5": "zcraft_decorations:block/shi_tou_dui_",
+    "cardboard": "zcraft_decorations:block/block17"
+  }
+}

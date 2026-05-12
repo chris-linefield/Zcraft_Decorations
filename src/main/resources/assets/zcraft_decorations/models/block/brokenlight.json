@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/lit",
+  "textures": {
+    "all": "zcraft_decorations:block/lit",
+    "particle": "zcraft_decorations:block/lit",
+    "0": "zcraft_decorations:block/lit",
+    "missing": "zcraft_decorations:block/lit"
+  },
+  "render_type": "cutout"
+}

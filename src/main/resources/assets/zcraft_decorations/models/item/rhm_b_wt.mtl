@@ -1,0 +1,13 @@
+newmtl m_77ac54df-b84a-5907-566f-a40e0ce18a0b
+Ns 100.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd zcraft_decorations:block/
+newmtl none
+Ns 100.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0

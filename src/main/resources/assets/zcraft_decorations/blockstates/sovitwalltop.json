@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zcraft_decorations:block/sovitwalltop"
+    },
+    "facing=east": {
+      "model": "zcraft_decorations:block/sovitwalltop",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zcraft_decorations:block/sovitwalltop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zcraft_decorations:block/sovitwalltop",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/card_reader_closed",
+  "textures": {
+    "all": "zcraft_decorations:block/card_reader_body",
+    "particle": "zcraft_decorations:block/card_reader_body",
+    "0": "zcraft_decorations:block/card_reader_body",
+    "1": "zcraft_decorations:block/g4"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/zmla_ji_1",
+  "textures": {
+    "all": "zcraft_decorations:block/bb_floorbox02",
+    "particle": "zcraft_decorations:block/bb_floorbox02",
+    "0": "zcraft_decorations:block/bb_floorbox02"
+  }
+}

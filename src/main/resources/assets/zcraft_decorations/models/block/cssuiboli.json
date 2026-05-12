@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/cssui_bo_li_",
+  "textures": {
+    "all": "zcraft_decorations:block/sui_bo_li_1",
+    "particle": "zcraft_decorations:block/sui_bo_li_1",
+    "0": "zcraft_decorations:block/sui_bo_li_1fan_zhuan_",
+    "1": "zcraft_decorations:block/sui_bo_li_1"
+  }
+}

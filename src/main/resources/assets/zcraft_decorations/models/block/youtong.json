@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/you_tong_",
+  "textures": {
+    "all": "zcraft_decorations:block/you_tong_",
+    "particle": "zcraft_decorations:block/you_tong_",
+    "texture": "zcraft_decorations:block/you_tong_"
+  }
+}

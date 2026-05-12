@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/dian_ping_",
+  "textures": {
+    "all": "zcraft_decorations:block/hopper_outside",
+    "particle": "zcraft_decorations:block/hopper_outside",
+    "texture": "zcraft_decorations:block/wool_colored_light_black",
+    "bottom": "zcraft_decorations:block/wool_colored_darkish_black",
+    "metal": "zcraft_decorations:block/hopper_outside",
+    "wool_colored_red": "zcraft_decorations:block/redstone_block"
+  }
+}

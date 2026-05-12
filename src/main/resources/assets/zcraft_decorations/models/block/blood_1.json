@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/blood1",
+  "textures": {
+    "all": "zcraft_decorations:block/blood2",
+    "particle": "zcraft_decorations:block/blood2",
+    "0": "zcraft_decorations:block/blood2",
+    "missing": "zcraft_decorations:block/blood2"
+  },
+  "render_type": "cutout"
+}

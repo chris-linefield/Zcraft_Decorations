@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/yiduizhuankuai",
+  "textures": {
+    "all": "zcraft_decorations:block/zhuantou",
+    "particle": "zcraft_decorations:block/zhuantou",
+    "0": "zcraft_decorations:block/zhuantou"
+  }
+}

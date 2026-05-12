@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/chang_sha_fa_",
+  "textures": {
+    "all": "zcraft_decorations:block/chang_sha_fa_",
+    "particle": "zcraft_decorations:block/chang_sha_fa_",
+    "texture": "zcraft_decorations:block/chang_sha_fa_"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/bagofcement1",
+  "textures": {
+    "all": "zcraft_decorations:block/bagofcement",
+    "particle": "zcraft_decorations:block/bagofcement",
+    "0": "zcraft_decorations:block/bagofcement",
+    "missing": "zcraft_decorations:block/bagofcement"
+  },
+  "render_type": "solid"
+}

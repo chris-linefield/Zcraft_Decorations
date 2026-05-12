@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/ncm",
+  "textures": {
+    "all": "zcraft_decorations:block/ncm",
+    "particle": "zcraft_decorations:block/ncm",
+    "0": "zcraft_decorations:block/ncm",
+    "missing": "zcraft_decorations:block/ncm"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/blood",
+  "textures": {
+    "all": "zcraft_decorations:block/blood13",
+    "particle": "zcraft_decorations:block/blood13",
+    "0": "zcraft_decorations:block/blood13",
+    "missing": "zcraft_decorations:block/texture"
+  }
+}

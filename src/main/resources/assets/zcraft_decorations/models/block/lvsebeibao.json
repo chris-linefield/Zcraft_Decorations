@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/lu_se_bei_bao_",
+  "textures": {
+    "all": "zcraft_decorations:block/lu_se_bei_bao_",
+    "particle": "zcraft_decorations:block/lu_se_bei_bao_",
+    "0": "zcraft_decorations:block/hei_se_bei_bao_",
+    "1": "zcraft_decorations:block/lu_se_bei_bao_"
+  }
+}

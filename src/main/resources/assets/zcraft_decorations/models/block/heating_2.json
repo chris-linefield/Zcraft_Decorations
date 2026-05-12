@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/heating2",
+  "textures": {
+    "all": "zcraft_decorations:block/heating",
+    "particle": "zcraft_decorations:block/heating",
+    "0": "zcraft_decorations:block/heating"
+  },
+  "render_type": "solid"
+}

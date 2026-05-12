@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/luntaigarbage2",
+  "textures": {
+    "all": "zcraft_decorations:block/luntai",
+    "particle": "zcraft_decorations:block/luntai",
+    "0": "zcraft_decorations:block/luntai"
+  },
+  "render_type": "cutout"
+}

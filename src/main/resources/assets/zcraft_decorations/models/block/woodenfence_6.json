@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/woodenfence",
+  "textures": {
+    "all": "zcraft_decorations:block/planksacacia",
+    "particle": "zcraft_decorations:block/planksacacia",
+    "0": "zcraft_decorations:block/planksbirch"
+  },
+  "render_type": "solid"
+}

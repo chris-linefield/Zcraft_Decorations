@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/dropper",
+  "textures": {
+    "all": "zcraft_decorations:block/dropper",
+    "particle": "zcraft_decorations:block/dropper",
+    "0": "zcraft_decorations:block/dropper"
+  }
+}

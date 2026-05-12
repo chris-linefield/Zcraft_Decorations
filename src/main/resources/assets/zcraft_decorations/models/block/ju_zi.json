@@ -1,0 +1,12 @@
+{
+  "parent": "zcraft_decorations:custom/ju_zi_",
+  "textures": {
+    "all": "zcraft_decorations:block/wen_jian_ju_",
+    "particle": "zcraft_decorations:block/wen_jian_ju_",
+    "0": "zcraft_decorations:block/wen_jian_ju_",
+    "1": "zcraft_decorations:block/mu_ban_",
+    "2": "zcraft_decorations:block/foodsmodel",
+    "3": "zcraft_decorations:block/su_liao_shui_ping_",
+    "4": "zcraft_decorations:block/san_luo_de_yao_pin_2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/coathanger",
+  "textures": {
+    "all": "zcraft_decorations:block/yijia",
+    "particle": "zcraft_decorations:block/yijia",
+    "0": "zcraft_decorations:block/furnace_top"
+  },
+  "render_type": "cutout"
+}

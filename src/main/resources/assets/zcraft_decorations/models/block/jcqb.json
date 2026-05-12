@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/jing_cha_qiang_bao_",
+  "textures": {
+    "all": "zcraft_decorations:block/duffle_bag_navy_blue2",
+    "particle": "zcraft_decorations:block/duffle_bag_navy_blue2",
+    "texture": "zcraft_decorations:block/duffle_bag_navy_blue2",
+    "texture1": "zcraft_decorations:block/duffle_bag_black"
+  }
+}

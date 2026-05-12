@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/qiang_bi_4",
+  "textures": {
+    "all": "zcraft_decorations:block/abyss_wall02",
+    "particle": "zcraft_decorations:block/abyss_wall02",
+    "0": "zcraft_decorations:block/abyss_wall02"
+  }
+}

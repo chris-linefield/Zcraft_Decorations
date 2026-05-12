@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zcraft_decorations:block/mopbucked"
+    },
+    "facing=east": {
+      "model": "zcraft_decorations:block/mopbucked",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zcraft_decorations:block/mopbucked",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zcraft_decorations:block/mopbucked",
+      "y": 270
+    }
+  }
+}

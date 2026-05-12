@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/deng_shan_bao_2",
+  "textures": {
+    "all": "zcraft_decorations:block/deng_shan_bao_",
+    "particle": "zcraft_decorations:block/deng_shan_bao_",
+    "mountain_backpack": "zcraft_decorations:block/deng_shan_bao_"
+  }
+}

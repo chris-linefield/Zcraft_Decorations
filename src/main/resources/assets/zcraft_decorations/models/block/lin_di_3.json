@@ -1,0 +1,14 @@
+{
+  "parent": "zcraft_decorations:custom/block605",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "0": "zcraft_decorations:block/canape",
+    "1": "zcraft_decorations:block/gaoshi1",
+    "2": "zcraft_decorations:block/gaoshi2",
+    "3": "zcraft_decorations:block/gaoshi3",
+    "4": "zcraft_decorations:block/gaoshi4",
+    "5": "zcraft_decorations:block/gaoshi5",
+    "6": "zcraft_decorations:block/xinlixiang1"
+  }
+}

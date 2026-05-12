@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/wallbreak2",
+  "textures": {
+    "all": "zcraft_decorations:block/wallbrick",
+    "particle": "zcraft_decorations:block/wallbrick",
+    "0": "zcraft_decorations:block/wallbrick",
+    "missing": "zcraft_decorations:block/wallbrick"
+  },
+  "render_type": "solid"
+}

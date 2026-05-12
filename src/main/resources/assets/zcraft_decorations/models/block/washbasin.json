@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/washbasin",
+  "textures": {
+    "all": "zcraft_decorations:block/washbasin",
+    "particle": "zcraft_decorations:block/washbasin",
+    "0": "zcraft_decorations:block/washbasin"
+  },
+  "render_type": "solid"
+}

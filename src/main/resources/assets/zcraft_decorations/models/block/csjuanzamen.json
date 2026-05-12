@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/csjuan_zha_men_",
+  "textures": {
+    "all": "zcraft_decorations:block/anni_door03",
+    "particle": "zcraft_decorations:block/anni_door03",
+    "1": "zcraft_decorations:block/anni_door03"
+  }
+}

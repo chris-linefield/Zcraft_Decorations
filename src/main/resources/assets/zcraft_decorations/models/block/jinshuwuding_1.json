@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/jin_shu_wu_ding_1",
+  "textures": {
+    "all": "zcraft_decorations:block/jin_shu_qiang_1",
+    "particle": "zcraft_decorations:block/jin_shu_qiang_1",
+    "0": "zcraft_decorations:block/jin_shu_qiang_1",
+    "missing": "zcraft_decorations:block/jin_shu_qiang_1"
+  }
+}

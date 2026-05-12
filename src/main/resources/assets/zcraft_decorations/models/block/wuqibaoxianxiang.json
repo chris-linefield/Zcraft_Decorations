@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/wu_qi_bao_xian_xiang_",
+  "textures": {
+    "all": "zcraft_decorations:block/hardened_clay_stained_red",
+    "particle": "zcraft_decorations:block/hardened_clay_stained_red",
+    "1": "zcraft_decorations:block/hardened_clay_stained_red",
+    "2": "zcraft_decorations:block/hardened_clay_stained_silver",
+    "3": "zcraft_decorations:block/cauldron_inner",
+    "4": "zcraft_decorations:block/wool_colored_red"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/cstie_si_wang_",
+  "textures": {
+    "all": "zcraft_decorations:block/trace_fance01",
+    "particle": "zcraft_decorations:block/trace_fance01",
+    "0": "zcraft_decorations:block/trace_fance01"
+  }
+}

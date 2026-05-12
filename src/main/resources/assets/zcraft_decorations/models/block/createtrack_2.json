@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/createtrack1",
+  "textures": {
+    "all": "zcraft_decorations:block/create_track",
+    "particle": "zcraft_decorations:block/create_track",
+    "0": "zcraft_decorations:block/create_track",
+    "1": "zcraft_decorations:block/modern_frame",
+    "missing": "zcraft_decorations:block/"
+  },
+  "render_type": "solid"
+}

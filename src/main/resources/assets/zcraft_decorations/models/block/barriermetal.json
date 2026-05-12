@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/barrier",
+  "textures": {
+    "all": "zcraft_decorations:block/barrier_blank",
+    "particle": "zcraft_decorations:block/barrier_blank"
+  },
+  "render_type": "solid"
+}

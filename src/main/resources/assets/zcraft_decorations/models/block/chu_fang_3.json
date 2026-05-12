@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/blockbench168",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "0": "zcraft_decorations:block/buxiugang",
+    "1": "zcraft_decorations:block/dianshi",
+    "2": "zcraft_decorations:block/bingxiang",
+    "3": "zcraft_decorations:block/lajidui"
+  }
+}

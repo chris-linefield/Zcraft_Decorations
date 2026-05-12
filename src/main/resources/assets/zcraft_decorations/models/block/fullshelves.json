@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/hjfull",
+  "textures": {
+    "all": "zcraft_decorations:block/hj",
+    "particle": "zcraft_decorations:block/hj",
+    "0": "zcraft_decorations:block/hj",
+    "1": "zcraft_decorations:block/foodsmodel",
+    "missing": "zcraft_decorations:block/hj"
+  },
+  "render_type": "solid"
+}

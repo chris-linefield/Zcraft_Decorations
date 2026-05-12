@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/di_shang_guan_tou_3",
+  "textures": {
+    "all": "zcraft_decorations:block/bai_shi_ke_le_",
+    "particle": "zcraft_decorations:block/bai_shi_ke_le_",
+    "1": "zcraft_decorations:block/sodacan_pipsi_co",
+    "2": "zcraft_decorations:block/tactical_bacon_co",
+    "2_2": "zcraft_decorations:block/canned_peaches_co"
+  }
+}

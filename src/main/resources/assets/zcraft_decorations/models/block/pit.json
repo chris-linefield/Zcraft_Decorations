@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/pit",
+  "textures": {
+    "all": "zcraft_decorations:block/rusty_ralling",
+    "particle": "zcraft_decorations:block/rusty_ralling",
+    "0": "zcraft_decorations:block/rusty_ralling"
+  },
+  "render_type": "solid"
+}

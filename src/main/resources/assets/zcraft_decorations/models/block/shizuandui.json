@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/shi_zhuan_dui_",
+  "textures": {
+    "all": "zcraft_decorations:block/stone",
+    "particle": "zcraft_decorations:block/stone",
+    "0": "zcraft_decorations:block/stone"
+  }
+}

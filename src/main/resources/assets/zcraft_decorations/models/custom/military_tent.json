@@ -1,0 +1,7915 @@
+{
+  "__comment": "Designed by Optimus0812 with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
+  "elements": [
+    {
+      "__comment": "military_tent",
+      "from": [
+        -8,
+        0,
+        -8
+      ],
+      "to": [
+        24,
+        2.25,
+        24
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            5.875,
+            0.125,
+            6
+          ],
+          "texture": "#military_tent",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            0,
+            5.625,
+            0.125,
+            5.75
+          ],
+          "texture": "#military_tent",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            0,
+            15.5,
+            8.125,
+            16
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0,
+            15.5,
+            8.125,
+            16
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0,
+            5.625,
+            8,
+            6.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            8,
+            5.625,
+            0,
+            6.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent1",
+      "from": [
+        7.75,
+        2.25,
+        -7.9995
+      ],
+      "to": [
+        8.25,
+        19.5,
+        -7.4995
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4,
+            15.375,
+            4.125,
+            15.5
+          ],
+          "texture": "#military_tent",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            4,
+            11.125,
+            4.125,
+            11
+          ],
+          "texture": "#military_tent",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            4,
+            11,
+            4.125,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            11,
+            4,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4,
+            11,
+            4.125,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4.125,
+            11,
+            4,
+            15.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent2",
+      "from": [
+        7.75,
+        2.25,
+        23.4995
+      ],
+      "to": [
+        8.25,
+        19.5,
+        23.9995
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4,
+            15.375,
+            4.125,
+            15.5
+          ],
+          "texture": "#military_tent",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            4,
+            11.125,
+            4.125,
+            11
+          ],
+          "texture": "#military_tent",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            4,
+            11,
+            4.125,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            11,
+            4,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4,
+            11,
+            4.125,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4.125,
+            11,
+            4,
+            15.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent3",
+      "from": [
+        8,
+        -4.25,
+        -8
+      ],
+      "to": [
+        8.5,
+        18.25,
+        24
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          18.25,
+          -8
+        ],
+        "axis": "z",
+        "angle": -45
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            5.5,
+            0,
+            5.625
+          ],
+          "texture": "#military_tent",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            8,
+            0.125,
+            0,
+            0
+          ],
+          "texture": "#military_tent",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            7.875,
+            0,
+            8,
+            5.625
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            0.125,
+            5.625
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            0,
+            5.625
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            8,
+            5.625
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent4",
+      "from": [
+        7.5,
+        -4.25,
+        -8
+      ],
+      "to": [
+        8,
+        18.25,
+        24
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          18.25,
+          -8
+        ],
+        "axis": "z",
+        "angle": 45
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            5.5,
+            0,
+            5.625
+          ],
+          "texture": "#military_tent",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            8,
+            0.125,
+            0,
+            0
+          ],
+          "texture": "#military_tent",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            7.875,
+            0,
+            8,
+            5.625
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            0.125,
+            5.625
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            0,
+            5.625
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            8,
+            5.625
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent5",
+      "from": [
+        -7.5,
+        2.25,
+        23
+      ],
+      "to": [
+        7.75,
+        2.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.125,
+            15.375,
+            4,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.125,
+            15.5,
+            4,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            15.375,
+            0.125,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.125,
+            15.375,
+            4,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.125,
+            15.375,
+            0.25,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            15.375,
+            3.875,
+            15.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent6",
+      "from": [
+        -7,
+        2.75,
+        23
+      ],
+      "to": [
+        7.75,
+        3.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            15.25,
+            4,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.25,
+            15.375,
+            4,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            15.25,
+            0.25,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.25,
+            15.25,
+            4,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.25,
+            15.25,
+            0.375,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            15.25,
+            3.875,
+            15.375
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent7",
+      "from": [
+        -6.5,
+        3.25,
+        23
+      ],
+      "to": [
+        7.75,
+        3.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.375,
+            15.125,
+            4,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.375,
+            15.25,
+            4,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            15.125,
+            0.375,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.375,
+            15.125,
+            4,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.375,
+            15.125,
+            0.5,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            15.125,
+            3.875,
+            15.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent8",
+      "from": [
+        -6,
+        3.75,
+        23
+      ],
+      "to": [
+        7.75,
+        4.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.5,
+            15,
+            4,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.5,
+            15.125,
+            4,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            15,
+            0.5,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            15,
+            4,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            15,
+            0.625,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            15,
+            3.875,
+            15.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent9",
+      "from": [
+        -5.5,
+        4.25,
+        23
+      ],
+      "to": [
+        7.75,
+        4.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.625,
+            14.875,
+            4,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.625,
+            15,
+            4,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.875,
+            0.625,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.625,
+            14.875,
+            4,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.625,
+            14.875,
+            0.75,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.875,
+            3.875,
+            15
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent10",
+      "from": [
+        -4.75,
+        4.75,
+        23
+      ],
+      "to": [
+        7.75,
+        5.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.75,
+            14.75,
+            4,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.75,
+            14.875,
+            4,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.75,
+            0.75,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.75,
+            14.75,
+            4,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.75,
+            14.75,
+            0.875,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.75,
+            3.875,
+            14.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent11",
+      "from": [
+        -4.5,
+        5.25,
+        23
+      ],
+      "to": [
+        7.75,
+        5.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.875,
+            14.625,
+            4,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.875,
+            14.75,
+            4,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.625,
+            0.875,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.875,
+            14.625,
+            4,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.875,
+            14.625,
+            1,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.625,
+            3.875,
+            14.75
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent12",
+      "from": [
+        -4,
+        5.75,
+        23
+      ],
+      "to": [
+        7.75,
+        6.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            14.5,
+            4,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1,
+            14.625,
+            4,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.5,
+            1,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1,
+            14.5,
+            4,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1,
+            14.5,
+            1.125,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.5,
+            3.875,
+            14.625
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent13",
+      "from": [
+        -3.5,
+        6.25,
+        23
+      ],
+      "to": [
+        7.75,
+        6.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.125,
+            14.375,
+            4,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.125,
+            14.5,
+            4,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.375,
+            1.125,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.125,
+            14.375,
+            4,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.125,
+            14.375,
+            1.25,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.375,
+            3.875,
+            14.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent14",
+      "from": [
+        -3,
+        6.75,
+        23
+      ],
+      "to": [
+        7.75,
+        7.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.25,
+            14.25,
+            4,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.25,
+            14.375,
+            4,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.25,
+            1.25,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.25,
+            14.25,
+            4,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.25,
+            14.25,
+            1.375,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.25,
+            3.875,
+            14.375
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent15",
+      "from": [
+        -2,
+        7.75,
+        23
+      ],
+      "to": [
+        7.75,
+        8.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.5,
+            14,
+            4,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.5,
+            14.125,
+            4,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14,
+            1.5,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            14,
+            4,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            14,
+            1.625,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14,
+            3.875,
+            14.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent16",
+      "from": [
+        -2.5,
+        7.25,
+        23
+      ],
+      "to": [
+        7.75,
+        7.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.375,
+            14.125,
+            4,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.375,
+            14.25,
+            4,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.125,
+            1.375,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.375,
+            14.125,
+            4,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.375,
+            14.125,
+            1.5,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.125,
+            3.875,
+            14.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent17",
+      "from": [
+        -1.5,
+        8.25,
+        23
+      ],
+      "to": [
+        7.75,
+        8.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.625,
+            13.875,
+            4,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.625,
+            14,
+            4,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.875,
+            1.625,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.625,
+            13.875,
+            4,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.625,
+            13.875,
+            1.75,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.875,
+            3.875,
+            14
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent18",
+      "from": [
+        -1,
+        8.75,
+        23
+      ],
+      "to": [
+        7.75,
+        9.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.75,
+            13.75,
+            4,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.75,
+            13.875,
+            4,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.75,
+            1.75,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.75,
+            13.75,
+            4,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.75,
+            13.75,
+            1.875,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.75,
+            3.875,
+            13.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent19",
+      "from": [
+        -0.5,
+        9.25,
+        23
+      ],
+      "to": [
+        7.75,
+        9.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.875,
+            13.625,
+            4,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.875,
+            13.75,
+            4,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.625,
+            1.875,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.875,
+            13.625,
+            4,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.875,
+            13.625,
+            2,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.625,
+            3.875,
+            13.75
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent20",
+      "from": [
+        0,
+        9.75,
+        23
+      ],
+      "to": [
+        7.75,
+        10.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            13.5,
+            4,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2,
+            13.625,
+            4,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.5,
+            2,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2,
+            13.5,
+            4,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2,
+            13.5,
+            2.125,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.5,
+            3.875,
+            13.625
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent21",
+      "from": [
+        0.5,
+        10.25,
+        23
+      ],
+      "to": [
+        7.75,
+        10.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.125,
+            13.375,
+            4,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.125,
+            13.5,
+            4,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.375,
+            2.125,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.125,
+            13.375,
+            4,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.125,
+            13.375,
+            2.25,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.375,
+            3.875,
+            13.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent22",
+      "from": [
+        1,
+        10.75,
+        23
+      ],
+      "to": [
+        7.75,
+        11.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.25,
+            13.25,
+            4,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.25,
+            13.375,
+            4,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.25,
+            2.25,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.25,
+            13.25,
+            4,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.25,
+            13.25,
+            2.375,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.25,
+            3.875,
+            13.375
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent23",
+      "from": [
+        1.5,
+        11.25,
+        23
+      ],
+      "to": [
+        7.75,
+        11.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.375,
+            13.125,
+            4,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.375,
+            13.25,
+            4,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.125,
+            2.375,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.375,
+            13.125,
+            4,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.375,
+            13.125,
+            2.5,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.125,
+            3.875,
+            13.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent24",
+      "from": [
+        2,
+        11.75,
+        23
+      ],
+      "to": [
+        7.75,
+        12.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.5,
+            13,
+            4,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.5,
+            13.125,
+            4,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13,
+            2.5,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.5,
+            13,
+            4,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.5,
+            13,
+            2.625,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13,
+            3.875,
+            13.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent25",
+      "from": [
+        2.5,
+        12.25,
+        23
+      ],
+      "to": [
+        7.75,
+        12.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.625,
+            12.875,
+            4,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.625,
+            13,
+            4,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.875,
+            2.625,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.625,
+            12.875,
+            4,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.625,
+            12.875,
+            2.75,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.875,
+            3.875,
+            13
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent26",
+      "from": [
+        3,
+        12.75,
+        23
+      ],
+      "to": [
+        7.75,
+        13.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.75,
+            12.75,
+            4,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.75,
+            12.875,
+            4,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.75,
+            2.75,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.75,
+            12.75,
+            4,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.75,
+            12.75,
+            2.875,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.75,
+            3.875,
+            12.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent27",
+      "from": [
+        3.5,
+        13.25,
+        23
+      ],
+      "to": [
+        7.75,
+        13.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.875,
+            12.625,
+            4,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.875,
+            12.75,
+            4,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.625,
+            2.875,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.875,
+            12.625,
+            4,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.875,
+            12.625,
+            3,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.625,
+            3.875,
+            12.75
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent28",
+      "from": [
+        4,
+        13.75,
+        23
+      ],
+      "to": [
+        7.75,
+        14.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3,
+            12.5,
+            4,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3,
+            12.625,
+            4,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.5,
+            3,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3,
+            12.5,
+            4,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3,
+            12.5,
+            3.125,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.5,
+            3.875,
+            12.625
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent29",
+      "from": [
+        4.5,
+        14.25,
+        23
+      ],
+      "to": [
+        7.75,
+        14.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.125,
+            12.375,
+            4,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.125,
+            12.5,
+            4,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.375,
+            3.125,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.125,
+            12.375,
+            4,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.125,
+            12.375,
+            3.25,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.375,
+            3.875,
+            12.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent30",
+      "from": [
+        5,
+        14.75,
+        23
+      ],
+      "to": [
+        7.75,
+        15.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.25,
+            12.25,
+            4,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.25,
+            12.375,
+            4,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.25,
+            3.25,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.25,
+            12.25,
+            4,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.25,
+            12.25,
+            3.375,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.25,
+            3.875,
+            12.375
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent31",
+      "from": [
+        5.5,
+        15.25,
+        23
+      ],
+      "to": [
+        7.75,
+        15.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.375,
+            12.125,
+            4,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.375,
+            12.25,
+            4,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.125,
+            3.375,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.375,
+            12.125,
+            4,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.375,
+            12.125,
+            3.5,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.125,
+            3.875,
+            12.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent32",
+      "from": [
+        6,
+        15.75,
+        23
+      ],
+      "to": [
+        7.75,
+        16.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.5,
+            12,
+            4,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            12.125,
+            4,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12,
+            3.5,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            12,
+            4,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            12,
+            3.625,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12,
+            3.875,
+            12.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent33",
+      "from": [
+        6.5,
+        16.25,
+        23
+      ],
+      "to": [
+        7.75,
+        16.75,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.625,
+            11.875,
+            4,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.625,
+            12,
+            4,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            11.875,
+            3.625,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.625,
+            11.875,
+            4,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.625,
+            11.875,
+            3.75,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            11.875,
+            3.875,
+            12
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent34",
+      "from": [
+        7,
+        16.75,
+        23
+      ],
+      "to": [
+        7.75,
+        17.25,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.75,
+            11.75,
+            4,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.75,
+            11.875,
+            4,
+            11.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            11.75,
+            3.75,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.75,
+            11.75,
+            4,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.75,
+            11.75,
+            3.875,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            11.75,
+            3.875,
+            11.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent35",
+      "from": [
+        7.25,
+        17.25,
+        23
+      ],
+      "to": [
+        7.75,
+        17.5,
+        23.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.75,
+            11.75,
+            4,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.75,
+            11.875,
+            4,
+            11.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            11.75,
+            3.75,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.75,
+            11.75,
+            4,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.75,
+            11.75,
+            3.875,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            11.75,
+            3.875,
+            11.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent36",
+      "from": [
+        7.25,
+        17,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        17.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.75,
+            11.75,
+            4,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.75,
+            11.875,
+            4,
+            11.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            11.75,
+            3.75,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.75,
+            11.75,
+            4,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.75,
+            11.75,
+            3.875,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            11.75,
+            3.875,
+            11.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent37",
+      "from": [
+        -3,
+        6.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        7.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.25,
+            14.25,
+            4,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.25,
+            14.375,
+            4,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.25,
+            1.25,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.25,
+            14.25,
+            4,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.25,
+            14.25,
+            1.375,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.25,
+            3.875,
+            14.375
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent38",
+      "from": [
+        -2,
+        7.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        8.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.5,
+            14,
+            4,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.5,
+            14.125,
+            4,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14,
+            1.5,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            14,
+            4,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            14,
+            1.625,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14,
+            3.875,
+            14.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent39",
+      "from": [
+        -2.5,
+        7.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        7.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.375,
+            14.125,
+            4,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.375,
+            14.25,
+            4,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.125,
+            1.375,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.375,
+            14.125,
+            4,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.375,
+            14.125,
+            1.5,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.125,
+            3.875,
+            14.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent40",
+      "from": [
+        -1.5,
+        8.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        8.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.625,
+            13.875,
+            4,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.625,
+            14,
+            4,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.875,
+            1.625,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.625,
+            13.875,
+            4,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.625,
+            13.875,
+            1.75,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.875,
+            3.875,
+            14
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent41",
+      "from": [
+        -1,
+        8.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        9.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.75,
+            13.75,
+            4,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.75,
+            13.875,
+            4,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.75,
+            1.75,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.75,
+            13.75,
+            4,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.75,
+            13.75,
+            1.875,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.75,
+            3.875,
+            13.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent42",
+      "from": [
+        -0.5,
+        9.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        9.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.875,
+            13.625,
+            4,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.875,
+            13.75,
+            4,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.625,
+            1.875,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.875,
+            13.625,
+            4,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.875,
+            13.625,
+            2,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.625,
+            3.875,
+            13.75
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent43",
+      "from": [
+        0,
+        9.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        10.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            13.5,
+            4,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2,
+            13.625,
+            4,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.5,
+            2,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2,
+            13.5,
+            4,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2,
+            13.5,
+            2.125,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.5,
+            3.875,
+            13.625
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent44",
+      "from": [
+        0.5,
+        10.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        10.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.125,
+            13.375,
+            4,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.125,
+            13.5,
+            4,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.375,
+            2.125,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.125,
+            13.375,
+            4,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.125,
+            13.375,
+            2.25,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.375,
+            3.875,
+            13.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent45",
+      "from": [
+        1,
+        10.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        11.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.25,
+            13.25,
+            4,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.25,
+            13.375,
+            4,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.25,
+            2.25,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.25,
+            13.25,
+            4,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.25,
+            13.25,
+            2.375,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.25,
+            3.875,
+            13.375
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent46",
+      "from": [
+        1.5,
+        11.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        11.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.375,
+            13.125,
+            4,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.375,
+            13.25,
+            4,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13.125,
+            2.375,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.375,
+            13.125,
+            4,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.375,
+            13.125,
+            2.5,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13.125,
+            3.875,
+            13.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent47",
+      "from": [
+        2,
+        11.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        12.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.5,
+            13,
+            4,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.5,
+            13.125,
+            4,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            13,
+            2.5,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.5,
+            13,
+            4,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.5,
+            13,
+            2.625,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            13,
+            3.875,
+            13.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent48",
+      "from": [
+        2.5,
+        12.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        12.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.625,
+            12.875,
+            4,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.625,
+            13,
+            4,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.875,
+            2.625,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.625,
+            12.875,
+            4,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.625,
+            12.875,
+            2.75,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.875,
+            3.875,
+            13
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent49",
+      "from": [
+        3,
+        12.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        13.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.75,
+            12.75,
+            4,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.75,
+            12.875,
+            4,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.75,
+            2.75,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.75,
+            12.75,
+            4,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.75,
+            12.75,
+            2.875,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.75,
+            3.875,
+            12.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent50",
+      "from": [
+        3.5,
+        13.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        13.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.875,
+            12.625,
+            4,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            2.875,
+            12.75,
+            4,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.625,
+            2.875,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            2.875,
+            12.625,
+            4,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            2.875,
+            12.625,
+            3,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.625,
+            3.875,
+            12.75
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent51",
+      "from": [
+        4,
+        13.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        14.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3,
+            12.5,
+            4,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3,
+            12.625,
+            4,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.5,
+            3,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3,
+            12.5,
+            4,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3,
+            12.5,
+            3.125,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.5,
+            3.875,
+            12.625
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent52",
+      "from": [
+        4.5,
+        14.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        14.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.125,
+            12.375,
+            4,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.125,
+            12.5,
+            4,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.375,
+            3.125,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.125,
+            12.375,
+            4,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.125,
+            12.375,
+            3.25,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.375,
+            3.875,
+            12.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent53",
+      "from": [
+        5,
+        14.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        15.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.25,
+            12.25,
+            4,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.25,
+            12.375,
+            4,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.25,
+            3.25,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.25,
+            12.25,
+            4,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.25,
+            12.25,
+            3.375,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.25,
+            3.875,
+            12.375
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent54",
+      "from": [
+        5.5,
+        15.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        15.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.375,
+            12.125,
+            4,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.375,
+            12.25,
+            4,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.125,
+            3.375,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.375,
+            12.125,
+            4,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.375,
+            12.125,
+            3.5,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.125,
+            3.875,
+            12.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent55",
+      "from": [
+        6,
+        15.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        16.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.5,
+            12,
+            4,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            12.125,
+            4,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            12,
+            3.5,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            12,
+            4,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            12,
+            3.625,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            12,
+            3.875,
+            12.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent56",
+      "from": [
+        6.5,
+        16.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        16.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.625,
+            11.875,
+            4,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.625,
+            12,
+            4,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            11.875,
+            3.625,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.625,
+            11.875,
+            4,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.625,
+            11.875,
+            3.75,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            11.875,
+            3.875,
+            12
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent57",
+      "from": [
+        7,
+        16.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        17.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.75,
+            11.75,
+            4,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.75,
+            11.875,
+            4,
+            11.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            11.75,
+            3.75,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.75,
+            11.75,
+            4,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.75,
+            11.75,
+            3.875,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            11.75,
+            3.875,
+            11.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent58",
+      "from": [
+        -4.5,
+        5.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        5.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.875,
+            14.625,
+            4,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.875,
+            14.75,
+            4,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.625,
+            0.875,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.875,
+            14.625,
+            4,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.875,
+            14.625,
+            1,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.625,
+            3.875,
+            14.75
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent59",
+      "from": [
+        -4,
+        5.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        6.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            14.5,
+            4,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1,
+            14.625,
+            4,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.5,
+            1,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1,
+            14.5,
+            4,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1,
+            14.5,
+            1.125,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.5,
+            3.875,
+            14.625
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent60",
+      "from": [
+        -3.5,
+        6.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        6.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.125,
+            14.375,
+            4,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            1.125,
+            14.5,
+            4,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.375,
+            1.125,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            1.125,
+            14.375,
+            4,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            1.125,
+            14.375,
+            1.25,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.375,
+            3.875,
+            14.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent61",
+      "from": [
+        -6.5,
+        3.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        3.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.375,
+            15.125,
+            4,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.375,
+            15.25,
+            4,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            15.125,
+            0.375,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.375,
+            15.125,
+            4,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.375,
+            15.125,
+            0.5,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            15.125,
+            3.875,
+            15.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent62",
+      "from": [
+        -6,
+        3.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        4.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.5,
+            15,
+            4,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.5,
+            15.125,
+            4,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            15,
+            0.5,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            15,
+            4,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            15,
+            0.625,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            15,
+            3.875,
+            15.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent63",
+      "from": [
+        -5.5,
+        4.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        4.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.625,
+            14.875,
+            4,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.625,
+            15,
+            4,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.875,
+            0.625,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.625,
+            14.875,
+            4,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.625,
+            14.875,
+            0.75,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.875,
+            3.875,
+            15
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent64",
+      "from": [
+        -4.75,
+        4.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        5.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.75,
+            14.75,
+            4,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.75,
+            14.875,
+            4,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            14.75,
+            0.75,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.75,
+            14.75,
+            4,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.75,
+            14.75,
+            0.875,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            14.75,
+            3.875,
+            14.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent65",
+      "from": [
+        -7,
+        2.75,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        3.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            15.25,
+            4,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.25,
+            15.375,
+            4,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            15.25,
+            0.25,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.25,
+            15.25,
+            4,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.25,
+            15.25,
+            0.375,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            15.25,
+            3.875,
+            15.375
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent66",
+      "from": [
+        -7.5,
+        2.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        2.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.125,
+            15.375,
+            4,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            0.125,
+            15.5,
+            4,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            15.375,
+            0.125,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            0.125,
+            15.375,
+            4,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            0.125,
+            15.375,
+            0.25,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            15.375,
+            3.875,
+            15.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent67",
+      "from": [
+        8.25,
+        2.25,
+        -7.5
+      ],
+      "to": [
+        23.5,
+        2.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            15.375,
+            8,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            15.5,
+            8,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            8,
+            15.375,
+            4.125,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            15.375,
+            8,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            15.375,
+            4.25,
+            15.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            8,
+            15.375,
+            7.875,
+            15.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent68",
+      "from": [
+        8.25,
+        14.25,
+        -7.5
+      ],
+      "to": [
+        11.5,
+        14.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            12.375,
+            5,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            12.5,
+            5,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            5,
+            12.375,
+            4.125,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            12.375,
+            5,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            12.375,
+            4.25,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            5,
+            12.375,
+            4.875,
+            12.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent69",
+      "from": [
+        8.25,
+        14.75,
+        -7.5
+      ],
+      "to": [
+        11,
+        15.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            12.25,
+            4.875,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            12.375,
+            4.875,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4.875,
+            12.25,
+            4.125,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            12.25,
+            4.875,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            12.25,
+            4.25,
+            12.375
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4.875,
+            12.25,
+            4.75,
+            12.375
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent70",
+      "from": [
+        8.25,
+        15.25,
+        -7.5
+      ],
+      "to": [
+        10.5,
+        15.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            12.125,
+            4.75,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            12.25,
+            4.75,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4.75,
+            12.125,
+            4.125,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            12.125,
+            4.75,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            12.125,
+            4.25,
+            12.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4.75,
+            12.125,
+            4.625,
+            12.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent71",
+      "from": [
+        8.25,
+        15.75,
+        -7.5
+      ],
+      "to": [
+        10,
+        16.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            12,
+            4.625,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            12.125,
+            4.625,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4.625,
+            12,
+            4.125,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            12,
+            4.625,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            12,
+            4.25,
+            12.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4.625,
+            12,
+            4.5,
+            12.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent72",
+      "from": [
+        8.25,
+        16.25,
+        -7.5
+      ],
+      "to": [
+        9.5,
+        16.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            11.875,
+            4.5,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            12,
+            4.5,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4.5,
+            11.875,
+            4.125,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            11.875,
+            4.5,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            11.875,
+            4.25,
+            12
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            11.875,
+            4.375,
+            12
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent73",
+      "from": [
+        8.25,
+        16.75,
+        -7.5
+      ],
+      "to": [
+        9,
+        17.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            11.75,
+            4.375,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            11.875,
+            4.375,
+            11.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4.375,
+            11.75,
+            4.125,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            11.75,
+            4.375,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            11.75,
+            4.25,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4.375,
+            11.75,
+            4.25,
+            11.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent74",
+      "from": [
+        8.25,
+        5.25,
+        -7.5
+      ],
+      "to": [
+        20.5,
+        5.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            14.625,
+            7.25,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            14.75,
+            7.25,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            7.25,
+            14.625,
+            4.125,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            14.625,
+            7.25,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            14.625,
+            4.25,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            7.25,
+            14.625,
+            7.125,
+            14.75
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent75",
+      "from": [
+        8.25,
+        5.75,
+        -7.5
+      ],
+      "to": [
+        20,
+        6.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            14.5,
+            7.125,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            14.625,
+            7.125,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            7.125,
+            14.5,
+            4.125,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            14.5,
+            7.125,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            14.5,
+            4.25,
+            14.625
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            7.125,
+            14.5,
+            7,
+            14.625
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent76",
+      "from": [
+        8.25,
+        6.25,
+        -7.5
+      ],
+      "to": [
+        19.5,
+        6.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            14.375,
+            7,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            14.5,
+            7,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            7,
+            14.375,
+            4.125,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            14.375,
+            7,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            14.375,
+            4.25,
+            14.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            7,
+            14.375,
+            6.875,
+            14.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent77",
+      "from": [
+        8.25,
+        3.25,
+        -7.5
+      ],
+      "to": [
+        22.5,
+        3.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            15.125,
+            7.75,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            15.25,
+            7.75,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            7.75,
+            15.125,
+            4.125,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            15.125,
+            7.75,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            15.125,
+            4.25,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            7.75,
+            15.125,
+            7.625,
+            15.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent78",
+      "from": [
+        8.25,
+        3.75,
+        -7.5
+      ],
+      "to": [
+        22,
+        4.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            15,
+            7.625,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            15.125,
+            7.625,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            7.625,
+            15,
+            4.125,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            15,
+            7.625,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            15,
+            4.25,
+            15.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            7.625,
+            15,
+            7.5,
+            15.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent79",
+      "from": [
+        8.25,
+        4.25,
+        -7.5
+      ],
+      "to": [
+        21.5,
+        4.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            14.875,
+            7.5,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            15,
+            7.5,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            14.875,
+            4.125,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            14.875,
+            7.5,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            14.875,
+            4.25,
+            15
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            14.875,
+            7.375,
+            15
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent80",
+      "from": [
+        8.25,
+        4.75,
+        -7.5
+      ],
+      "to": [
+        20.75,
+        5.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            14.75,
+            7.375,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            14.875,
+            7.375,
+            14.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            7.375,
+            14.75,
+            4.125,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            14.75,
+            7.375,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            14.75,
+            4.25,
+            14.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            7.375,
+            14.75,
+            7.25,
+            14.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent81",
+      "from": [
+        8.25,
+        2.75,
+        -7.5
+      ],
+      "to": [
+        23,
+        3.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            15.25,
+            7.875,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            15.375,
+            7.875,
+            15.25
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            7.875,
+            15.25,
+            4.125,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            15.25,
+            7.875,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            15.25,
+            4.25,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            7.875,
+            15.25,
+            7.75,
+            15.375
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent82",
+      "from": [
+        8.25,
+        13.25,
+        -7.5
+      ],
+      "to": [
+        12.5,
+        13.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            12.625,
+            5.25,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            12.75,
+            5.25,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            5.25,
+            12.625,
+            4.125,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            12.625,
+            5.25,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            12.625,
+            4.25,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            12.625,
+            5.125,
+            12.75
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent83",
+      "from": [
+        8.25,
+        13.75,
+        -7.5
+      ],
+      "to": [
+        12,
+        14.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            12.5,
+            5.125,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            12.625,
+            5.125,
+            12.5
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            5.125,
+            12.5,
+            4.125,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            12.5,
+            5.125,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            12.5,
+            4.25,
+            12.625
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            5.125,
+            12.5,
+            5,
+            12.625
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent84",
+      "from": [
+        8.25,
+        12.75,
+        -7.5
+      ],
+      "to": [
+        13,
+        13.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            12.75,
+            5.375,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            12.875,
+            5.375,
+            12.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            5.375,
+            12.75,
+            4.125,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            12.75,
+            5.375,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            12.75,
+            4.25,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            5.375,
+            12.75,
+            5.25,
+            12.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent85",
+      "from": [
+        8.25,
+        9.25,
+        -7.5
+      ],
+      "to": [
+        16.5,
+        9.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            13.625,
+            6.25,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            13.75,
+            6.25,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            6.25,
+            13.625,
+            4.125,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            13.625,
+            6.25,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            13.625,
+            4.25,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            6.25,
+            13.625,
+            6.125,
+            13.75
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent86",
+      "from": [
+        8.25,
+        9.75,
+        -7.5
+      ],
+      "to": [
+        16,
+        10.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            13.5,
+            6.125,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            13.625,
+            6.125,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            6.125,
+            13.5,
+            4.125,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            13.5,
+            6.125,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            13.5,
+            4.25,
+            13.625
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            6.125,
+            13.5,
+            6,
+            13.625
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent87",
+      "from": [
+        8.25,
+        10.25,
+        -7.5
+      ],
+      "to": [
+        15.5,
+        10.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            13.375,
+            6,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            13.5,
+            6,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            6,
+            13.375,
+            4.125,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            13.375,
+            6,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            13.375,
+            4.25,
+            13.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            6,
+            13.375,
+            5.875,
+            13.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent88",
+      "from": [
+        8.25,
+        10.75,
+        -7.5
+      ],
+      "to": [
+        15,
+        11.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            13.25,
+            5.875,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            13.375,
+            5.875,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            5.875,
+            13.25,
+            4.125,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            13.25,
+            5.875,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            13.25,
+            4.25,
+            13.375
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            5.875,
+            13.25,
+            5.75,
+            13.375
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent89",
+      "from": [
+        8.25,
+        11.25,
+        -7.5
+      ],
+      "to": [
+        14.5,
+        11.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            13.125,
+            5.75,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            13.25,
+            5.75,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            5.75,
+            13.125,
+            4.125,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            13.125,
+            5.75,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            13.125,
+            4.25,
+            13.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            13.125,
+            5.625,
+            13.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent90",
+      "from": [
+        8.25,
+        11.75,
+        -7.5
+      ],
+      "to": [
+        14,
+        12.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            13,
+            5.625,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            13.125,
+            5.625,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            5.625,
+            13,
+            4.125,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            13,
+            5.625,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            13,
+            4.25,
+            13.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            5.625,
+            13,
+            5.5,
+            13.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent91",
+      "from": [
+        8.25,
+        12.25,
+        -7.5
+      ],
+      "to": [
+        13.5,
+        12.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            12.875,
+            5.5,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            13,
+            5.5,
+            12.875
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            5.5,
+            12.875,
+            4.125,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            12.875,
+            5.5,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            12.875,
+            4.25,
+            13
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            12.875,
+            5.375,
+            13
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent92",
+      "from": [
+        8.25,
+        8.75,
+        -7.5
+      ],
+      "to": [
+        17,
+        9.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            13.75,
+            6.375,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            13.875,
+            6.375,
+            13.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            6.375,
+            13.75,
+            4.125,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            13.75,
+            6.375,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            13.75,
+            4.25,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            6.375,
+            13.75,
+            6.25,
+            13.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent93",
+      "from": [
+        8.25,
+        8.25,
+        -7.5
+      ],
+      "to": [
+        17.5,
+        8.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            13.875,
+            6.5,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            14,
+            6.5,
+            13.875
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            13.875,
+            4.125,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            13.875,
+            6.5,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            13.875,
+            4.25,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            13.875,
+            6.375,
+            14
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent94",
+      "from": [
+        8.25,
+        7.25,
+        -7.5
+      ],
+      "to": [
+        18.5,
+        7.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            14.125,
+            6.75,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            14.25,
+            6.75,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            14.125,
+            4.125,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            14.125,
+            6.75,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            14.125,
+            4.25,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            14.125,
+            6.625,
+            14.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent95",
+      "from": [
+        8.25,
+        7.75,
+        -7.5
+      ],
+      "to": [
+        18,
+        8.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            14,
+            6.625,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            14.125,
+            6.625,
+            14
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            6.625,
+            14,
+            4.125,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            14,
+            6.625,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            14,
+            4.25,
+            14.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            6.625,
+            14,
+            6.5,
+            14.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent96",
+      "from": [
+        8.25,
+        6.75,
+        -7.5
+      ],
+      "to": [
+        19,
+        7.25,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            14.25,
+            6.875,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            14.375,
+            6.875,
+            14.25
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            6.875,
+            14.25,
+            4.125,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            14.25,
+            6.875,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            14.25,
+            4.25,
+            14.375
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            6.875,
+            14.25,
+            6.75,
+            14.375
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent97",
+      "from": [
+        8.25,
+        17.25,
+        -7.5
+      ],
+      "to": [
+        8.75,
+        17.5,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.75,
+            11.75,
+            4,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.75,
+            11.875,
+            4,
+            11.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            11.75,
+            3.75,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.75,
+            11.75,
+            4,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.75,
+            11.75,
+            3.875,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            11.75,
+            3.875,
+            11.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent98",
+      "from": [
+        7.25,
+        17.25,
+        -7.5
+      ],
+      "to": [
+        7.75,
+        17.5,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.125,
+            11.75,
+            4.375,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            4.125,
+            11.875,
+            4.375,
+            11.75
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4.375,
+            11.75,
+            4.125,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            4.125,
+            11.75,
+            4.375,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            4.125,
+            11.75,
+            4.25,
+            11.875
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4.375,
+            11.75,
+            4.25,
+            11.875
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent99",
+      "from": [
+        -12,
+        1.75,
+        23.5
+      ],
+      "to": [
+        -8,
+        2.25,
+        24
+      ],
+      "rotation": {
+        "origin": [
+          -8,
+          2.25,
+          23.5
+        ],
+        "axis": "z",
+        "angle": 45
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            14.75,
+            0,
+            15.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            14.75,
+            0.125,
+            15.75,
+            0
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            15.75,
+            0,
+            14.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            14.75,
+            0,
+            15.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            14.75,
+            0,
+            14.875,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            15.75,
+            0,
+            15.625,
+            0.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent100",
+      "from": [
+        -12,
+        1.75,
+        -8
+      ],
+      "to": [
+        -8,
+        2.25,
+        -7.5
+      ],
+      "rotation": {
+        "origin": [
+          -8,
+          2.25,
+          23.5
+        ],
+        "axis": "z",
+        "angle": 45
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            14.75,
+            0,
+            15.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            14.75,
+            0.125,
+            15.75,
+            0
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            15.75,
+            0,
+            14.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            14.75,
+            0,
+            15.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            14.75,
+            0,
+            14.875,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            15.75,
+            0,
+            15.625,
+            0.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent101",
+      "from": [
+        24,
+        1.75,
+        23.5
+      ],
+      "to": [
+        28,
+        2.25,
+        24
+      ],
+      "rotation": {
+        "origin": [
+          24,
+          2.25,
+          23.5
+        ],
+        "axis": "z",
+        "angle": -45
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            14.75,
+            0.125,
+            15.75,
+            0.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            14.75,
+            0.25,
+            15.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            15.75,
+            0.125,
+            14.75,
+            0.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            14.75,
+            0.125,
+            15.75,
+            0.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            14.75,
+            0.125,
+            14.875,
+            0.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            15.75,
+            0.125,
+            15.625,
+            0.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent102",
+      "from": [
+        24,
+        1.75,
+        -8
+      ],
+      "to": [
+        28,
+        2.25,
+        -7.5
+      ],
+      "rotation": {
+        "origin": [
+          24,
+          2.25,
+          23.5
+        ],
+        "axis": "z",
+        "angle": -45
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            14.75,
+            0.125,
+            15.75,
+            0.25
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            14.75,
+            0.25,
+            15.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            15.75,
+            0.125,
+            14.75,
+            0.25
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            14.75,
+            0.125,
+            15.75,
+            0.25
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            14.75,
+            0.125,
+            14.875,
+            0.25
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            15.75,
+            0.125,
+            15.625,
+            0.25
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent103",
+      "from": [
+        -10.5,
+        -1,
+        23.5
+      ],
+      "to": [
+        -10,
+        0.5,
+        24
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15.875,
+            0.375,
+            16,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            15.875,
+            0.25,
+            16,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            16,
+            0.125,
+            15.875,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            15.875,
+            0.125,
+            16,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            15.875,
+            0.125,
+            16,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            16,
+            0.125,
+            15.875,
+            0.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent104",
+      "from": [
+        -11,
+        0.5,
+        23.5
+      ],
+      "to": [
+        -10,
+        1,
+        24
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15.75,
+            0,
+            16,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            15.75,
+            0.125,
+            16,
+            0
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            16,
+            0,
+            15.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            15.75,
+            0,
+            16,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            15.75,
+            0,
+            15.875,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            16,
+            0,
+            15.875,
+            0.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent105",
+      "from": [
+        26,
+        -1,
+        23.5
+      ],
+      "to": [
+        26.5,
+        0.5,
+        24
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14.5,
+            0.375,
+            14.625,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            14.5,
+            0.25,
+            14.625,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            14.625,
+            0.125,
+            14.5,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            14.5,
+            0.125,
+            14.625,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            14.5,
+            0.125,
+            14.625,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            14.625,
+            0.125,
+            14.5,
+            0.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent106",
+      "from": [
+        26,
+        0.5,
+        23.5
+      ],
+      "to": [
+        27,
+        1,
+        24
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14.5,
+            0,
+            14.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            14.5,
+            0.125,
+            14.75,
+            0
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            14.75,
+            0,
+            14.5,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            14.5,
+            0,
+            14.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            14.5,
+            0,
+            14.625,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            14.75,
+            0,
+            14.625,
+            0.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent107",
+      "from": [
+        -10.5,
+        -1,
+        -8
+      ],
+      "to": [
+        -10,
+        0.5,
+        -7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15.875,
+            0.375,
+            16,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            15.875,
+            0.25,
+            16,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            16,
+            0.125,
+            15.875,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            15.875,
+            0.125,
+            16,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            15.875,
+            0.125,
+            16,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            16,
+            0.125,
+            15.875,
+            0.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent108",
+      "from": [
+        -11,
+        0.5,
+        -8
+      ],
+      "to": [
+        -10,
+        1,
+        -7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15.75,
+            0,
+            16,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            15.75,
+            0.125,
+            16,
+            0
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            16,
+            0,
+            15.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            15.75,
+            0,
+            16,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            15.75,
+            0,
+            15.875,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            16,
+            0,
+            15.875,
+            0.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent109",
+      "from": [
+        26,
+        -1,
+        -8
+      ],
+      "to": [
+        26.5,
+        0.5,
+        -7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14.5,
+            0.375,
+            14.625,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            14.5,
+            0.25,
+            14.625,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            14.625,
+            0.125,
+            14.5,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            14.5,
+            0.125,
+            14.625,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            14.5,
+            0.125,
+            14.625,
+            0.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            14.625,
+            0.125,
+            14.5,
+            0.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent110",
+      "from": [
+        26,
+        0.5,
+        -8
+      ],
+      "to": [
+        27,
+        1,
+        -7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14.5,
+            0,
+            14.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            14.5,
+            0.125,
+            14.75,
+            0
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            14.75,
+            0,
+            14.5,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            14.5,
+            0,
+            14.75,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            14.5,
+            0,
+            14.625,
+            0.125
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            14.75,
+            0,
+            14.625,
+            0.125
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    },
+    {
+      "__comment": "military_tent47",
+      "from": [
+        7.75,
+        2.25,
+        -7.5
+      ],
+      "to": [
+        8.25,
+        17.75,
+        -7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.875,
+            11.375,
+            4,
+            11.5
+          ],
+          "texture": "#military_tent"
+        },
+        "up": {
+          "uv": [
+            3.875,
+            15.5,
+            4,
+            15.375
+          ],
+          "texture": "#military_tent"
+        },
+        "north": {
+          "uv": [
+            4,
+            15.375,
+            3.875,
+            11.5
+          ],
+          "texture": "#military_tent"
+        },
+        "south": {
+          "uv": [
+            3.875,
+            15.375,
+            4,
+            11.5
+          ],
+          "texture": "#military_tent"
+        },
+        "west": {
+          "uv": [
+            3.875,
+            15.375,
+            4,
+            11.5
+          ],
+          "texture": "#military_tent"
+        },
+        "east": {
+          "uv": [
+            4,
+            15.375,
+            3.875,
+            11.5
+          ],
+          "texture": "#military_tent"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        225,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        135,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        25.333,
+        0
+      ],
+      "scale": [
+        4,
+        4,
+        4
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        -90,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -3
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  }
+}

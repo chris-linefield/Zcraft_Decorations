@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/medicine",
+  "textures": {
+    "all": "zcraft_decorations:block/medicine",
+    "particle": "zcraft_decorations:block/medicine",
+    "0": "zcraft_decorations:block/medicine"
+  },
+  "render_type": "solid"
+}

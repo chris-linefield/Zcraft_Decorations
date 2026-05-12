@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/xi_shou_chi_",
+  "textures": {
+    "all": "zcraft_decorations:block/xi_shou_chi_",
+    "particle": "zcraft_decorations:block/xi_shou_chi_",
+    "0": "zcraft_decorations:block/xi_shou_chi_",
+    "missing": "zcraft_decorations:block/xi_shou_chi_"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/zi_dong_fan_mai_ji_2",
+  "textures": {
+    "all": "zcraft_decorations:block/zi_dong_fan_mai_ji_",
+    "particle": "zcraft_decorations:block/zi_dong_fan_mai_ji_",
+    "0": "zcraft_decorations:block/zi_dong_fan_mai_ji_2"
+  }
+}

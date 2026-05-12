@@ -1,0 +1,19 @@
+{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "zcraft_decorations:block/sfz_liwuhe"
+                                      },
+                     "facing=east":  {
+                                         "model":  "zcraft_decorations:block/sfz_liwuhe",
+                                         "y":  90
+                                     },
+                     "facing=south":  {
+                                          "model":  "zcraft_decorations:block/sfz_liwuhe",
+                                          "y":  180
+                                      },
+                     "facing=west":  {
+                                         "model":  "zcraft_decorations:block/sfz_liwuhe",
+                                         "y":  270
+                                     }
+                 }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "zcraft_decorations:block/yu_mi_",
+    "particle": "zcraft_decorations:block/yu_mi_"
+  }
+}

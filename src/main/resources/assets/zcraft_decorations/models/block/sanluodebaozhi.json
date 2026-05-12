@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/san_luo_de_bao_zhi_",
+  "textures": {
+    "all": "zcraft_decorations:block/san_luo_de_bao_zhi_",
+    "particle": "zcraft_decorations:block/san_luo_de_bao_zhi_",
+    "0": "zcraft_decorations:block/san_luo_de_bao_zhi_"
+  }
+}

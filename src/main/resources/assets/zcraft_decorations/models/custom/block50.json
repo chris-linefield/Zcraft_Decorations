@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"elements": [
+		{
+			"name": "自动贩卖�?",
+			"from": [0, 0, 0],
+			"to": [16, 32, 16],
+			"faces": {
+				"north": {"uv": [3, 1.75, 13.75, 13.75], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [4.5, 11.5, 6.25, 14], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [4.5, 11.5, 6.25, 14], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [4.5, 11.5, 6.25, 14], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [11.25, 11.5, 13, 13.25], "texture": "#0", "cullface": "up"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"scale": [0.21094, 0.21094, 0.21094]
+		},
+		"gui": {
+			"rotation": [11.5, -157.75, 0],
+			"translation": [0, -4, 0],
+			"scale": [0.47461, 0.47461, 0.47461]
+		}
+	}
+}

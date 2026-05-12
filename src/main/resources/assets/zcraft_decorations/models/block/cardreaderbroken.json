@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/bcard_reader",
+  "textures": {
+    "all": "zcraft_decorations:block/phone",
+    "particle": "zcraft_decorations:block/phone",
+    "0": "zcraft_decorations:block/phone",
+    "missing": "zcraft_decorations:block/phone"
+  },
+  "render_type": "solid"
+}

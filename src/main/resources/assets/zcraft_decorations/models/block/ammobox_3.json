@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/ammo12gauge",
+  "textures": {
+    "all": "zcraft_decorations:block/12gammobox",
+    "particle": "zcraft_decorations:block/12gammobox",
+    "0": "zcraft_decorations:block/ammo12gauge"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/atm1",
+  "textures": {
+    "all": "zcraft_decorations:block/atm1",
+    "particle": "zcraft_decorations:block/atm1",
+    "0": "zcraft_decorations:block/atm1",
+    "missing": "zcraft_decorations:block/atm1"
+  },
+  "render_type": "solid"
+}

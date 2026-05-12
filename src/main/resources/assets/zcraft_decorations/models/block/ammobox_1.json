@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/12gammobox",
+  "textures": {
+    "all": "zcraft_decorations:block/12gammobox",
+    "particle": "zcraft_decorations:block/12gammobox",
+    "0": "zcraft_decorations:block/12gammobox",
+    "missing": "zcraft_decorations:block/12gammobox"
+  },
+  "render_type": "solid"
+}

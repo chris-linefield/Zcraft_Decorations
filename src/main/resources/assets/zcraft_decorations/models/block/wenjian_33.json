@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/blocks33",
+  "textures": {
+    "all": "zcraft_decorations:block/blocks33",
+    "particle": "zcraft_decorations:block/blocks33",
+    "0": "zcraft_decorations:block/blocks33",
+    "missing": "zcraft_decorations:block/blocks33"
+  }
+}

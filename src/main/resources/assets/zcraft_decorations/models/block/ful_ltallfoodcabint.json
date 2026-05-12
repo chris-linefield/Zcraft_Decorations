@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/tallfoodcabinetfull",
+  "textures": {
+    "all": "zcraft_decorations:block/foodcabinet",
+    "particle": "zcraft_decorations:block/foodcabinet",
+    "0": "zcraft_decorations:block/foodcabinet",
+    "1": "zcraft_decorations:block/foodsmodel",
+    "missing": "zcraft_decorations:block/"
+  },
+  "render_type": "solid"
+}

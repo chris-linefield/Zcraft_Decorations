@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/san_luo_de_shi_wu_",
+  "textures": {
+    "all": "zcraft_decorations:block/foodsmodel",
+    "particle": "zcraft_decorations:block/foodsmodel",
+    "0": "zcraft_decorations:block/su_liao_shui_ping_",
+    "1": "zcraft_decorations:block/foodsmodel"
+  }
+}

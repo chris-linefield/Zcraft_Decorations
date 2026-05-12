@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/cslu_pai_3",
+  "textures": {
+    "all": "zcraft_decorations:block/lc_sign08",
+    "particle": "zcraft_decorations:block/lc_sign08",
+    "0": "zcraft_decorations:block/lc_sign08"
+  }
+}

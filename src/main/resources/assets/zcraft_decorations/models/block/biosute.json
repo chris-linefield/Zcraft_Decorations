@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/biosute",
+  "textures": {
+    "all": "zcraft_decorations:block/biosute",
+    "particle": "zcraft_decorations:block/biosute",
+    "0": "zcraft_decorations:block/biosute"
+  },
+  "render_type": "solid"
+}

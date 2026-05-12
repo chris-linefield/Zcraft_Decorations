@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/da_xing_shi_pin_ju_kong_",
+  "textures": {
+    "all": "zcraft_decorations:block/shi_pin_ju_",
+    "particle": "zcraft_decorations:block/shi_pin_ju_",
+    "0": "zcraft_decorations:block/shi_pin_ju_",
+    "missing": "zcraft_decorations:block/shi_pin_ju_"
+  }
+}

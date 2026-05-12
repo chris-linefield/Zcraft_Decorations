@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/barr_sovet",
+  "textures": {
+    "all": "zcraft_decorations:block/barr_sovitbot",
+    "particle": "zcraft_decorations:block/barr_sovitbot",
+    "0": "zcraft_decorations:block/barr_sovittop"
+  },
+  "render_type": "solid"
+}

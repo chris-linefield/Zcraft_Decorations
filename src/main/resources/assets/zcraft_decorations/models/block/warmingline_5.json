@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/warmingline3",
+  "textures": {
+    "all": "zcraft_decorations:block/warningline",
+    "particle": "zcraft_decorations:block/warningline",
+    "0": "zcraft_decorations:block/warningline"
+  },
+  "render_type": "solid"
+}

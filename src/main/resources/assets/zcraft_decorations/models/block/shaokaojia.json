@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/shao_kao_jia_",
+  "textures": {
+    "all": "zcraft_decorations:block/shao_kao_jia_",
+    "particle": "zcraft_decorations:block/shao_kao_jia_",
+    "0": "zcraft_decorations:block/shao_kao_jia_"
+  }
+}

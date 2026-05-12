@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/sign60",
+  "textures": {
+    "all": "zcraft_decorations:block/sign",
+    "particle": "zcraft_decorations:block/sign",
+    "0": "zcraft_decorations:block/sign",
+    "missing": "zcraft_decorations:block/sign"
+  },
+  "render_type": "cutout"
+}

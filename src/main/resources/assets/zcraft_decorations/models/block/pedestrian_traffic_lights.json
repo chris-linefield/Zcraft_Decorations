@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/sl",
+  "textures": {
+    "all": "zcraft_decorations:block/signallite",
+    "particle": "zcraft_decorations:block/signallite",
+    "0": "zcraft_decorations:block/signallite",
+    "missing": "zcraft_decorations:block/signallite"
+  },
+  "render_type": "solid"
+}

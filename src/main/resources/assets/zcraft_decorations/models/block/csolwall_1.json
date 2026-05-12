@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/csolqiang_1",
+  "textures": {
+    "all": "zcraft_decorations:block/lc_2f01",
+    "particle": "zcraft_decorations:block/lc_2f01",
+    "0": "zcraft_decorations:block/lc_2f01"
+  }
+}

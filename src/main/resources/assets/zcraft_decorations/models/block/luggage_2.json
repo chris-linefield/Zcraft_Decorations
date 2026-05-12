@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/luggage",
+  "textures": {
+    "all": "zcraft_decorations:block/luggage",
+    "particle": "zcraft_decorations:block/luggage",
+    "0": "zcraft_decorations:block/luggage2",
+    "missing": "zcraft_decorations:block/luggage2"
+  },
+  "render_type": "cutout"
+}

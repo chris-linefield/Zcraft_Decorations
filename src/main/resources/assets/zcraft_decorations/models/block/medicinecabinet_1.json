@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/medicinecabinetupopen",
+  "textures": {
+    "all": "zcraft_decorations:block/medicinecabinet",
+    "particle": "zcraft_decorations:block/medicinecabinet",
+    "0": "zcraft_decorations:block/medicinecabinet"
+  },
+  "render_type": "cutout"
+}

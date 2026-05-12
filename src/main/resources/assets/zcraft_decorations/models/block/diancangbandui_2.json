@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/dian_cang_ban_dui_2",
+  "textures": {
+    "all": "zcraft_decorations:block/mu_ban_",
+    "particle": "zcraft_decorations:block/mu_ban_",
+    "texture": "zcraft_decorations:block/mu_ban_",
+    "1_texture": "zcraft_decorations:block/mu_ban_"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/firebarrol",
+  "textures": {
+    "all": "zcraft_decorations:block/firebarrol",
+    "particle": "zcraft_decorations:block/firebarrol",
+    "1": "zcraft_decorations:block/firebarrol",
+    "missing": "zcraft_decorations:block/firebarrol"
+  },
+  "render_type": "cutout"
+}

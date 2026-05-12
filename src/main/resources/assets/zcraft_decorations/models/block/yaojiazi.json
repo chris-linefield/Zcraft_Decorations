@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/yao_jia_zi_",
+  "textures": {
+    "all": "zcraft_decorations:block/tie_jia_zi_",
+    "particle": "zcraft_decorations:block/tie_jia_zi_",
+    "0": "zcraft_decorations:block/tie_jia_zi_",
+    "1": "zcraft_decorations:block/zhen_",
+    "2": "zcraft_decorations:block/yao_wan_",
+    "3": "zcraft_decorations:block/lls"
+  }
+}

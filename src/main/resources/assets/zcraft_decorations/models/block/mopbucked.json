@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/mop_bucket",
+  "textures": {
+    "all": "zcraft_decorations:block/mop_bucketpng",
+    "particle": "zcraft_decorations:block/mop_bucketpng",
+    "0": "zcraft_decorations:block/mop_bucketpng"
+  },
+  "render_type": "cutout"
+}

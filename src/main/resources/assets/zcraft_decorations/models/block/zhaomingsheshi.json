@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zcraft_decorations:block/zhao_ming_she_shi_3",
+    "up": "zcraft_decorations:block/zhao_ming_she_shi_2",
+    "north": "zcraft_decorations:block/zhao_ming_she_shi_",
+    "east": "zcraft_decorations:block/zhao_ming_she_shi_1",
+    "south": "zcraft_decorations:block/zhao_ming_she_shi_1",
+    "west": "zcraft_decorations:block/zhao_ming_she_shi_1",
+    "particle": "zcraft_decorations:block/zhao_ming_she_shi_3"
+  }
+}

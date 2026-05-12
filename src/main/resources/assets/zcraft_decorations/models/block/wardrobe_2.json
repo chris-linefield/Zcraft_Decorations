@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/wardrobe2",
+  "textures": {
+    "all": "zcraft_decorations:block/wardrobe2",
+    "particle": "zcraft_decorations:block/wardrobe2",
+    "0": "zcraft_decorations:block/wardrobe2"
+  },
+  "render_type": "solid"
+}

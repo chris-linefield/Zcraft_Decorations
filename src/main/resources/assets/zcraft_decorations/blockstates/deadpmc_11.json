@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zcraft_decorations:block/deadpmc_11"
+    },
+    "facing=east": {
+      "model": "zcraft_decorations:block/deadpmc_11",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zcraft_decorations:block/deadpmc_11",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zcraft_decorations:block/deadpmc_11",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/xin_de_shi_ti_",
+  "textures": {
+    "all": "zcraft_decorations:block/zombie446",
+    "particle": "zcraft_decorations:block/zombie446",
+    "1": "zcraft_decorations:block/gutou2",
+    "1_0": "zcraft_decorations:block/zombie446",
+    "2": "zcraft_decorations:block/xueye"
+  }
+}

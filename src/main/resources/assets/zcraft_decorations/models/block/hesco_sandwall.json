@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/hescosandwallm",
+  "textures": {
+    "all": "zcraft_decorations:block/hescosandwallm",
+    "particle": "zcraft_decorations:block/hescosandwallm",
+    "0": "zcraft_decorations:block/hescosandwallm"
+  },
+  "render_type": "solid"
+}

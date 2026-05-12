@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/tai_deng_ai_",
+  "textures": {
+    "all": "zcraft_decorations:block/planks_oak",
+    "particle": "zcraft_decorations:block/planks_oak",
+    "extra": "zcraft_decorations:block/iron_block",
+    "bulb": "zcraft_decorations:block/light_gray_wool",
+    "shade": "zcraft_decorations:block/mushroom_block_skin_brown",
+    "stand": "zcraft_decorations:block/planks_oak"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/ting_zhi_biao_zhi_",
+  "textures": {
+    "all": "zcraft_decorations:block/sign_stop",
+    "particle": "zcraft_decorations:block/sign_stop",
+    "sign_stop": "zcraft_decorations:block/sign_stop",
+    "sign_post": "zcraft_decorations:block/sign_post"
+  }
+}

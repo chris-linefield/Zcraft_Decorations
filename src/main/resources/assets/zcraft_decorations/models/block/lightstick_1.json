@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/lightstick",
+  "textures": {
+    "all": "zcraft_decorations:block/sprite-0001",
+    "particle": "zcraft_decorations:block/sprite-0001",
+    "0": "zcraft_decorations:block/sprite-0001",
+    "missing": "zcraft_decorations:block/sprite-0001"
+  },
+  "render_type": "cutout"
+}

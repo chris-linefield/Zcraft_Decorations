@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/signalstick",
+  "textures": {
+    "all": "zcraft_decorations:block/signalstick",
+    "particle": "zcraft_decorations:block/signalstick",
+    "0": "zcraft_decorations:block/signalstick"
+  },
+  "render_type": "cutout"
+}

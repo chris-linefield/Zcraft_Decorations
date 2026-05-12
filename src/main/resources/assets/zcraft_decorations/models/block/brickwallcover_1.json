@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/birckwallbrokin",
+  "textures": {
+    "all": "zcraft_decorations:block/brickwallcover",
+    "particle": "zcraft_decorations:block/brickwallcover",
+    "0": "zcraft_decorations:block/brickwallcover"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/ammo338lapua",
+  "textures": {
+    "all": "zcraft_decorations:block/12gammobox",
+    "particle": "zcraft_decorations:block/12gammobox",
+    "0": "zcraft_decorations:block/ammo338lapua"
+  },
+  "render_type": "solid"
+}

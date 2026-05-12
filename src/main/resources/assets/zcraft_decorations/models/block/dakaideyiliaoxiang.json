@@ -1,0 +1,17 @@
+{
+  "parent": "zcraft_decorations:custom/di_shang_da_kai_liao_de_yi_liao_xiang_",
+  "textures": {
+    "all": "zcraft_decorations:block/red1",
+    "particle": "zcraft_decorations:block/red1",
+    "red": "zcraft_decorations:block/red1",
+    "bandage_dark": "zcraft_decorations:block/sack_dirty",
+    "gray": "zcraft_decorations:block/gray3",
+    "white": "zcraft_decorations:block/wool_colored_white",
+    "bandaid_box": "zcraft_decorations:block/wool_colored_light_blue",
+    "bottle": "zcraft_decorations:block/wool_colored_orange_old",
+    "light_red": "zcraft_decorations:block/wool_colored_red_old",
+    "inner": "zcraft_decorations:block/gray1",
+    "bandage": "zcraft_decorations:block/sack",
+    "cloth": "zcraft_decorations:block/wool_colored_white"
+  }
+}

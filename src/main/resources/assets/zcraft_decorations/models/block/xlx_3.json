@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/hong_se_xing_li_xiang_",
+  "textures": {
+    "all": "zcraft_decorations:block/xinlixiang2",
+    "particle": "zcraft_decorations:block/xinlixiang2",
+    "0": "zcraft_decorations:block/xinlixiang2",
+    "2": "zcraft_decorations:block/xinlixiang1",
+    "3": "zcraft_decorations:block/wup"
+  }
+}

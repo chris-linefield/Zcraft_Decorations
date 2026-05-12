@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/la_ji_dai_",
+  "textures": {
+    "all": "zcraft_decorations:block/wool_colored_black",
+    "particle": "zcraft_decorations:block/wool_colored_black",
+    "texture": "zcraft_decorations:block/wool_colored_black",
+    "wool_colored_black": "zcraft_decorations:block/wool_colored_brown"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/rooftoop1",
+  "textures": {
+    "all": "zcraft_decorations:block/camp1",
+    "particle": "zcraft_decorations:block/camp1",
+    "0": "zcraft_decorations:block/camp1",
+    "missing": "zcraft_decorations:block/camp1"
+  },
+  "render_type": "solid"
+}

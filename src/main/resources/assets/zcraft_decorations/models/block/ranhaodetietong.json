@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/ran_shao_de_tie_tong_",
+  "textures": {
+    "all": "zcraft_decorations:block/ran_shao_de_tie_tong_",
+    "particle": "zcraft_decorations:block/ran_shao_de_tie_tong_",
+    "1": "zcraft_decorations:block/ran_shao_de_tie_tong_",
+    "missing": "zcraft_decorations:block/ran_shao_de_tie_tong_"
+  }
+}

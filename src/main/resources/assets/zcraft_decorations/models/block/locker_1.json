@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/locker",
+  "textures": {
+    "all": "zcraft_decorations:block/locker",
+    "particle": "zcraft_decorations:block/locker",
+    "0": "zcraft_decorations:block/locker"
+  },
+  "render_type": "solid"
+}

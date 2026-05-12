@@ -1,0 +1,12 @@
+{
+  "parent": "testa:custom/huo_jia_man_",
+  "textures": {
+    "all": "testa:block/huo_jia_",
+    "particle": "testa:block/huo_jia_",
+    "1": "testa:block/sha_ding_yu_guan_tou_",
+    "2": "testa:block/block17",
+    "1_0": "testa:block/tie_jia_zi_",
+    "1_1": "testa:block/foodsmodel",
+    "missing": "testa:block/texture"
+  }
+}

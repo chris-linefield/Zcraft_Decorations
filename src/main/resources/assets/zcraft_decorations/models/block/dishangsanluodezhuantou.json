@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/di_shang_san_luo_de_zhuan_tou_",
+  "textures": {
+    "all": "zcraft_decorations:block/zhuan_tou_",
+    "particle": "zcraft_decorations:block/zhuan_tou_",
+    "0": "zcraft_decorations:block/zhuan_tou_"
+  }
+}

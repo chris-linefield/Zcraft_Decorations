@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/beear3",
+  "textures": {
+    "all": "zcraft_decorations:block/beear",
+    "particle": "zcraft_decorations:block/beear",
+    "0": "zcraft_decorations:block/beear",
+    "missing": "zcraft_decorations:block/beear"
+  },
+  "render_type": "solid"
+}

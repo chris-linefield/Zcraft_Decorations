@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/qiang_jia_zi_",
+  "textures": {
+    "all": "zcraft_decorations:block/tie_jia_zi_",
+    "particle": "zcraft_decorations:block/tie_jia_zi_",
+    "0": "zcraft_decorations:block/tie_jia_zi_"
+  }
+}

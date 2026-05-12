@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/ljd2",
+  "textures": {
+    "all": "zcraft_decorations:block/ljd",
+    "particle": "zcraft_decorations:block/ljd",
+    "0": "zcraft_decorations:block/ljd",
+    "missing": "zcraft_decorations:block/ljd"
+  },
+  "render_type": "cutout"
+}

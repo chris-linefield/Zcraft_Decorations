@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/zmda_ju_zi_",
+  "textures": {
+    "all": "zcraft_decorations:block/abyss_table03",
+    "particle": "zcraft_decorations:block/abyss_table03",
+    "0": "zcraft_decorations:block/abyss_table03",
+    "1": "zcraft_decorations:block/abyss_table04"
+  }
+}

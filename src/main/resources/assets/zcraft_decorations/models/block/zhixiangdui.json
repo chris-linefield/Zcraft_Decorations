@@ -1,0 +1,12 @@
+{
+  "parent": "zcraft_decorations:custom/zhi_xiang_dui_",
+  "textures": {
+    "all": "zcraft_decorations:block/block17",
+    "particle": "zcraft_decorations:block/block17",
+    "1": "zcraft_decorations:block/bb_box01",
+    "2": "zcraft_decorations:block/bb_box01_2",
+    "3": "zcraft_decorations:block/bb_box01_1",
+    "4": "zcraft_decorations:block/freezer_bx",
+    "texture": "zcraft_decorations:block/block17"
+  }
+}

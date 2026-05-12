@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/mi_cai_bao_",
+  "textures": {
+    "all": "zcraft_decorations:block/camo",
+    "particle": "zcraft_decorations:block/camo",
+    "mesh_atlas": "zcraft_decorations:block/camo_strap2",
+    "texture": "zcraft_decorations:block/camo",
+    "texture1": "zcraft_decorations:block/camo_strap"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/rottenfood",
+  "textures": {
+    "all": "zcraft_decorations:block/purified_water_bottle",
+    "particle": "zcraft_decorations:block/purified_water_bottle",
+    "0": "zcraft_decorations:block/purified_water_bottle",
+    "1": "zcraft_decorations:block/foodsmodel",
+    "missing": "zcraft_decorations:block/"
+  },
+  "render_type": "solid"
+}

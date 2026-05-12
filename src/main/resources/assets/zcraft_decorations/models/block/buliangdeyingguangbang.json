@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/bu_liang_de_ying_guang_bang_",
+  "textures": {
+    "all": "zcraft_decorations:block/ying_guang_bang_",
+    "particle": "zcraft_decorations:block/ying_guang_bang_",
+    "0": "zcraft_decorations:block/ying_guang_bang_",
+    "missing": "zcraft_decorations:block/ying_guang_bang_"
+  }
+}

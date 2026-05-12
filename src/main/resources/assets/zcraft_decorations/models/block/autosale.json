@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/autosale",
+  "textures": {
+    "all": "zcraft_decorations:block/sprite-00021",
+    "particle": "zcraft_decorations:block/sprite-00021",
+    "0": "zcraft_decorations:block/sprite-00021",
+    "missing": "zcraft_decorations:block/sprite-00021"
+  },
+  "render_type": "solid"
+}

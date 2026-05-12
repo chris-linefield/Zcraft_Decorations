@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zcraft_decorations:block/fang_kuai_zhuang_shi_",
+    "up": "zcraft_decorations:block/fang_kuai_zhuang_shi_",
+    "north": "zcraft_decorations:block/fang_kuai_zhuang_shi_",
+    "east": "zcraft_decorations:block/fang_kuai_zhuang_shi_",
+    "south": "zcraft_decorations:block/fang_kuai_zhuang_shi_",
+    "west": "zcraft_decorations:block/fang_kuai_zhuang_shi_",
+    "particle": "zcraft_decorations:block/fang_kuai_zhuang_shi_"
+  }
+}

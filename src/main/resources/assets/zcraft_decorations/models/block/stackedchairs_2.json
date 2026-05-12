@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/stacked_chairs_mid",
+  "textures": {
+    "all": "zcraft_decorations:block/stacked_chairs",
+    "particle": "zcraft_decorations:block/stacked_chairs",
+    "0": "zcraft_decorations:block/stacked_chairs"
+  },
+  "render_type": "cutout"
+}

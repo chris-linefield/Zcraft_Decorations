@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/aircindeshoin",
+  "textures": {
+    "all": "zcraft_decorations:block/aircindishen",
+    "particle": "zcraft_decorations:block/aircindishen",
+    "0": "zcraft_decorations:block/aircindishen"
+  },
+  "render_type": "cutout"
+}

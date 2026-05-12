@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/ruins",
+  "textures": {
+    "all": "zcraft_decorations:block/wallbrick",
+    "particle": "zcraft_decorations:block/wallbrick",
+    "0": "zcraft_decorations:block/wallbrick"
+  },
+  "render_type": "solid"
+}

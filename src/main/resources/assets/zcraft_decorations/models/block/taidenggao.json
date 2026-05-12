@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/tai_deng_gao_",
+  "textures": {
+    "all": "zcraft_decorations:block/iron_block",
+    "particle": "zcraft_decorations:block/iron_block",
+    "extra": "zcraft_decorations:block/iron_block",
+    "bulb": "zcraft_decorations:block/light_gray_wool",
+    "stand": "zcraft_decorations:block/lamp_tall"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "zcraft_decorations:block/chu_fang_5"
+                                      },
+                     "facing=east":  {
+                                         "model":  "zcraft_decorations:block/chu_fang_5",
+                                         "y":  90
+                                     },
+                     "facing=south":  {
+                                          "model":  "zcraft_decorations:block/chu_fang_5",
+                                          "y":  180
+                                      },
+                     "facing=west":  {
+                                         "model":  "zcraft_decorations:block/chu_fang_5",
+                                         "y":  270
+                                     }
+                 }
+}

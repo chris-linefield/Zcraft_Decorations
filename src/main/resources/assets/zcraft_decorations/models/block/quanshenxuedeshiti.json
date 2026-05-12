@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/quan_shen_xie_de_shi_ti_",
+  "textures": {
+    "all": "zcraft_decorations:block/quan_shen_xie_de_shi_ti_",
+    "particle": "zcraft_decorations:block/quan_shen_xie_de_shi_ti_",
+    "0": "zcraft_decorations:block/rust_knife",
+    "1": "zcraft_decorations:block/quan_shen_xie_de_shi_ti_",
+    "2": "zcraft_decorations:block/gutou",
+    "missing": "zcraft_decorations:block/quan_shen_xie_de_shi_ti_"
+  }
+}

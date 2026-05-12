@@ -1,0 +1,13 @@
+{
+  "parent": "zcraft_decorations:custom/lan_tu_gong_ju_tai_",
+  "textures": {
+    "all": "zcraft_decorations:block/blueprint",
+    "particle": "zcraft_decorations:block/blueprint",
+    "1": "zcraft_decorations:block/hardened_clay_stained_brown",
+    "4": "zcraft_decorations:block/lapis_block_ferrugem",
+    "5": "zcraft_decorations:block/cor_clara",
+    "6": "zcraft_decorations:block/ferro_com_ferrugem",
+    "7": "zcraft_decorations:block/hopper_top",
+    "8": "zcraft_decorations:block/blueprint"
+  }
+}

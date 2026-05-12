@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/block609",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "1": "zcraft_decorations:block/shouyintai",
+    "2": "zcraft_decorations:block/desk_detail",
+    "missing": "zcraft_decorations:block/di"
+  }
+}

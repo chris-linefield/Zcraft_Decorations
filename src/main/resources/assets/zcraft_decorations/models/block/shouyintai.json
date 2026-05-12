@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/shou_yin_tai_",
+  "textures": {
+    "all": "zcraft_decorations:block/cashbox",
+    "particle": "zcraft_decorations:block/cashbox",
+    "0": "zcraft_decorations:block/cashbox",
+    "missing": "zcraft_decorations:block/cashbox"
+  }
+}

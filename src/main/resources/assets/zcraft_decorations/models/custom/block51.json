@@ -1,0 +1,52 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"elements": [
+		{
+			"name": "自动贩卖�?",
+			"from": [0, 0, 0],
+			"to": [16, 32, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [10.75, 11.25, 16, 16], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [1.25, 14.5, 3.25, 16], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [10.75, 11.25, 16, 16], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [10.75, 11.25, 16, 16], "texture": "#0", "cullface": "up"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0", "cullface": "down"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [2, 0, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"thirdperson_lefthand": {
+			"translation": [2, 0, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_righthand": {
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"ground": {
+			"translation": [0, 6, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"gui": {
+			"rotation": [25, 135, 0],
+			"translation": [0, -4, 0],
+			"scale": [0.41914, 0.41914, 0.41914]
+		},
+		"head": {
+			"translation": [0, 5, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"scale": [0.4, 0.4, 0.4]
+		}
+	}
+}

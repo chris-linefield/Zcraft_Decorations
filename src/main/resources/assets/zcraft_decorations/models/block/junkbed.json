@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/junkbad",
+  "textures": {
+    "all": "zcraft_decorations:block/junkbad",
+    "particle": "zcraft_decorations:block/junkbad",
+    "0": "zcraft_decorations:block/junkbad",
+    "missing": "zcraft_decorations:block/junkbad"
+  },
+  "render_type": "solid"
+}

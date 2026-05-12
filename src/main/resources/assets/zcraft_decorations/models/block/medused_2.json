@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/usedsalva",
+  "textures": {
+    "all": "zcraft_decorations:block/gbandage",
+    "particle": "zcraft_decorations:block/gbandage",
+    "2": "zcraft_decorations:block/gbandage",
+    "1_0": "zcraft_decorations:block/bandage",
+    "missing": "zcraft_decorations:block/gbandage"
+  },
+  "render_type": "cutout"
+}

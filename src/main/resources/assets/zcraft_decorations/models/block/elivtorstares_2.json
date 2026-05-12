@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "zcraft_decorations:block/walkingelivtorrotated",
+    "bottom": "zcraft_decorations:block/walkingelivtorrotated",
+    "top": "zcraft_decorations:block/walkingelivtorrotated",
+    "side": "zcraft_decorations:block/walkingelivtorrotated"
+  },
+  "render_type": "solid"
+}

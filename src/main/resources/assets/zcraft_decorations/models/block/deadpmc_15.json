@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/deadpmc3",
+  "textures": {
+    "all": "zcraft_decorations:block/deadpmc1",
+    "particle": "zcraft_decorations:block/deadpmc1",
+    "0": "zcraft_decorations:block/deadpmc3",
+    "missing": "zcraft_decorations:block/deadpmc3"
+  },
+  "render_type": "solid"
+}

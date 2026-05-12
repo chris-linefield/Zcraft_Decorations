@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/jing_deng_bu_fa_guang__",
+  "textures": {
+    "all": "zcraft_decorations:block/siren_off",
+    "particle": "zcraft_decorations:block/siren_off",
+    "cage": "zcraft_decorations:block/anvil_base",
+    "texture": "zcraft_decorations:block/siren_off",
+    "base": "zcraft_decorations:block/wool_colored_darkish_black"
+  }
+}

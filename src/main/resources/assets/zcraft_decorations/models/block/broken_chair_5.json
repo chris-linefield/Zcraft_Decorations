@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/chairfelldown2",
+  "textures": {
+    "all": "zcraft_decorations:block/planks_birch",
+    "particle": "zcraft_decorations:block/planks_birch",
+    "0": "zcraft_decorations:block/planks_birch"
+  },
+  "render_type": "solid"
+}

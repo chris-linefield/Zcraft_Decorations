@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/dao_xia_de_hong_se_deng_zi_2",
+  "textures": {
+    "all": "zcraft_decorations:block/hong_se_deng_zi_",
+    "particle": "zcraft_decorations:block/hong_se_deng_zi_",
+    "0": "zcraft_decorations:block/hong_se_deng_zi_",
+    "missing": "zcraft_decorations:block/texture"
+  }
+}

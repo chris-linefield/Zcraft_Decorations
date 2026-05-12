@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/misks",
+  "textures": {
+    "all": "zcraft_decorations:block/misks",
+    "particle": "zcraft_decorations:block/misks",
+    "0": "zcraft_decorations:block/misks"
+  },
+  "render_type": "cutout"
+}

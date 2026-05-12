@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/raccoontrophy",
+  "textures": {
+    "all": "zcraft_decorations:block/raccoontrophy",
+    "particle": "zcraft_decorations:block/raccoontrophy",
+    "0": "zcraft_decorations:block/raccoontrophy"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/map",
+  "textures": {
+    "all": "zcraft_decorations:block/map",
+    "particle": "zcraft_decorations:block/map",
+    "0": "zcraft_decorations:block/map",
+    "missing": "zcraft_decorations:block/map"
+  },
+  "render_type": "solid"
+}

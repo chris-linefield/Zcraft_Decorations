@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/brick",
+  "textures": {
+    "all": "zcraft_decorations:block/brick1",
+    "particle": "zcraft_decorations:block/brick1",
+    "0": "zcraft_decorations:block/brick1",
+    "missing": "zcraft_decorations:block/brick1"
+  },
+  "render_type": "solid"
+}

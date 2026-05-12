@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/yi_liao_xiang_zi_",
+  "textures": {
+    "all": "zcraft_decorations:block/red1",
+    "particle": "zcraft_decorations:block/red1",
+    "red": "zcraft_decorations:block/red1",
+    "gray": "zcraft_decorations:block/gray3",
+    "white": "zcraft_decorations:block/silver1"
+  }
+}

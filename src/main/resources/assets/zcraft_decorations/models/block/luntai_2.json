@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/kong_lun_tai_",
+  "textures": {
+    "all": "zcraft_decorations:block/tire",
+    "particle": "zcraft_decorations:block/tire",
+    "treads": "zcraft_decorations:block/tire",
+    "tire_outer": "zcraft_decorations:block/tire_outer",
+    "inner": "zcraft_decorations:block/wool_colored_black"
+  }
+}

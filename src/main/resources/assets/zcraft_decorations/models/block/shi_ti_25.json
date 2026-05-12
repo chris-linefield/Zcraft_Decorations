@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/block660",
+  "textures": {
+    "all": "zcraft_decorations:block/di",
+    "particle": "zcraft_decorations:block/di",
+    "0": "zcraft_decorations:block/zombie317",
+    "1": "zcraft_decorations:block/blood11",
+    "2": "zcraft_decorations:block/chushou",
+    "3": "zcraft_decorations:block/blood21"
+  }
+}

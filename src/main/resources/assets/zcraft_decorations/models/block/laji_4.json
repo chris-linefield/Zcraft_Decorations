@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/la_ji_4",
+  "textures": {
+    "all": "zcraft_decorations:block/la_ji_2",
+    "particle": "zcraft_decorations:block/la_ji_2",
+    "texture": "zcraft_decorations:block/la_ji_2"
+  }
+}

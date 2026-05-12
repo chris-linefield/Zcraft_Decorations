@@ -1,0 +1,11 @@
+{
+  "parent": "zcraft_decorations:custom/tou_ding_cao_",
+  "textures": {
+    "all": "zcraft_decorations:block/root",
+    "particle": "zcraft_decorations:block/root",
+    "texture": "zcraft_decorations:block/root_small",
+    "root": "zcraft_decorations:block/root",
+    "root_bottom": "zcraft_decorations:block/root_bottom",
+    "root_top": "zcraft_decorations:block/root_top"
+  }
+}

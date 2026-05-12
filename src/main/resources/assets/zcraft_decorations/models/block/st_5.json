@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/shi_ti_2hao__3",
+  "textures": {
+    "all": "zcraft_decorations:block/shi_ti_2hao__3",
+    "particle": "zcraft_decorations:block/shi_ti_2hao__3",
+    "1": "zcraft_decorations:block/gutou2",
+    "2": "zcraft_decorations:block/xueye",
+    "3": "zcraft_decorations:block/shi_ti_2hao__3"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/xie_ji_de_chuang_",
+  "textures": {
+    "all": "zcraft_decorations:block/xie_ji_de_chuang_",
+    "particle": "zcraft_decorations:block/xie_ji_de_chuang_",
+    "0": "zcraft_decorations:block/xie_ji_de_chuang_"
+  }
+}

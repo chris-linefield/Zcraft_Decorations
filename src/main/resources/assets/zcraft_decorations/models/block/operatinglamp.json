@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/operatinglamp",
+  "textures": {
+    "all": "zcraft_decorations:block/operatinglamp",
+    "particle": "zcraft_decorations:block/operatinglamp",
+    "0": "zcraft_decorations:block/operatinglamp"
+  },
+  "render_type": "cutout"
+}

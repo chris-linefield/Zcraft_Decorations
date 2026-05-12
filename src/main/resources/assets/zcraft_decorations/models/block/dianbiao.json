@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zcraft_decorations:block/dian_biao_",
+    "up": "zcraft_decorations:block/dian_biao_",
+    "north": "zcraft_decorations:block/dian_biao_",
+    "east": "zcraft_decorations:block/dian_biao_",
+    "south": "zcraft_decorations:block/dian_biao_",
+    "west": "zcraft_decorations:block/dian_biao_",
+    "particle": "zcraft_decorations:block/dian_biao_"
+  }
+}

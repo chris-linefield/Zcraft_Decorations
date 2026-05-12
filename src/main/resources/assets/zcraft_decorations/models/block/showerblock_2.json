@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/showerblock2",
+  "textures": {
+    "all": "zcraft_decorations:block/showerblock",
+    "particle": "zcraft_decorations:block/showerblock",
+    "0": "zcraft_decorations:block/showerblock"
+  },
+  "render_type": "solid"
+}

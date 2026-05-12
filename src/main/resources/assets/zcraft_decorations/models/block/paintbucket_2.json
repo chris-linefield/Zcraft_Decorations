@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/paintbucket2",
+  "textures": {
+    "all": "zcraft_decorations:block/paintbucket",
+    "particle": "zcraft_decorations:block/paintbucket",
+    "0": "zcraft_decorations:block/paintbucket"
+  },
+  "render_type": "solid"
+}

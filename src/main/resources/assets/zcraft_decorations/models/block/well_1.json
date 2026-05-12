@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/well",
+  "textures": {
+    "all": "zcraft_decorations:block/well",
+    "particle": "zcraft_decorations:block/well",
+    "0": "zcraft_decorations:block/well"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,1478 @@
+{
+  "__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+  "elements": [
+    {
+      "__comment": "broom1",
+      "from": [
+        7.5,
+        -8,
+        7.5
+      ],
+      "to": [
+        8.5,
+        14.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            15.75,
+            8.25,
+            16
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            7.75,
+            5,
+            8.25,
+            4.75
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            8.25,
+            4.75,
+            7.75,
+            16
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            7.75,
+            4.75,
+            8.25,
+            16
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            7.75,
+            4.75,
+            8,
+            16
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            4.75,
+            8,
+            16
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom2",
+      "from": [
+        6.5,
+        14.5,
+        7.5
+      ],
+      "to": [
+        9.5,
+        15,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            4.5,
+            8.75,
+            4.75
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            4.75,
+            8.75,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            4.5,
+            7.25,
+            4.75
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            4.5,
+            8.75,
+            4.75
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            4.5,
+            7.5,
+            4.75
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            4.5,
+            8.5,
+            4.75
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom3",
+      "from": [
+        6,
+        15,
+        7.5
+      ],
+      "to": [
+        6.5,
+        16.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            4.25,
+            7.25,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            7,
+            4,
+            7.25,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            7.25,
+            3.75,
+            7,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            7,
+            3.75,
+            7.25,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            7,
+            3.75,
+            7.25,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            7.25,
+            3.75,
+            7,
+            4.5
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom4",
+      "from": [
+        5.5,
+        16.5,
+        7.5
+      ],
+      "to": [
+        6,
+        18,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            3.5,
+            7,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            3.25,
+            7,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            7,
+            3,
+            6.75,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            3,
+            7,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            3,
+            7,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            7,
+            3,
+            6.75,
+            3.75
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom5",
+      "from": [
+        5,
+        18,
+        7.5
+      ],
+      "to": [
+        5.5,
+        20,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            2.75,
+            6.75,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            2.25,
+            6.75,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            6.75,
+            2,
+            6.5,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            2,
+            6.75,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            2,
+            6.75,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            6.75,
+            2,
+            6.5,
+            3
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom6",
+      "from": [
+        4.5,
+        20,
+        7.5
+      ],
+      "to": [
+        5,
+        22,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.25,
+            1.75,
+            6.5,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            6.25,
+            1.25,
+            6.5,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            1,
+            6.25,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            6.25,
+            1,
+            6.5,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            6.25,
+            1,
+            6.5,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            1,
+            6.25,
+            2
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom7",
+      "from": [
+        4,
+        22,
+        7.5
+      ],
+      "to": [
+        4.5,
+        23,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            0.75,
+            6.25,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            6,
+            0.75,
+            6.25,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            6.25,
+            0.5,
+            6,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            6,
+            0.5,
+            6.25,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            6,
+            0.5,
+            6.25,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            6.25,
+            0.5,
+            6,
+            1
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom8",
+      "from": [
+        3.5,
+        23,
+        7.5
+      ],
+      "to": [
+        4,
+        24,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.75,
+            0.25,
+            6,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            0.25,
+            6,
+            0
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            6,
+            0,
+            5.75,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            0,
+            6,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            0,
+            6,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            6,
+            0,
+            5.75,
+            0.5
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom9",
+      "from": [
+        9.5,
+        15,
+        7.5
+      ],
+      "to": [
+        10,
+        16.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.75,
+            4.25,
+            9,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            8.75,
+            4,
+            9,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            9,
+            3.75,
+            8.75,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            8.75,
+            3.75,
+            9,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            8.75,
+            3.75,
+            9,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            9,
+            3.75,
+            8.75,
+            4.5
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom10",
+      "from": [
+        10,
+        16.5,
+        7.5
+      ],
+      "to": [
+        10.5,
+        18,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            3.5,
+            9.25,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            9,
+            3.25,
+            9.25,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            3,
+            9,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            9,
+            3,
+            9.25,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            9,
+            3,
+            9.25,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            3,
+            9,
+            3.75
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom11",
+      "from": [
+        10.5,
+        18,
+        7.5
+      ],
+      "to": [
+        11,
+        20,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.25,
+            2.75,
+            9.5,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            2.25,
+            9.5,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            2,
+            9.25,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            2,
+            9.5,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            2,
+            9.5,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            2,
+            9.25,
+            3
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom12",
+      "from": [
+        11,
+        20,
+        7.5
+      ],
+      "to": [
+        11.5,
+        22,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.5,
+            1.75,
+            9.75,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            9.5,
+            1.25,
+            9.75,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            9.75,
+            1,
+            9.5,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            9.5,
+            1,
+            9.75,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            9.5,
+            1,
+            9.75,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            9.75,
+            1,
+            9.5,
+            2
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom13",
+      "from": [
+        11.5,
+        22,
+        7.5
+      ],
+      "to": [
+        12,
+        23,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.75,
+            0.75,
+            10,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            9.75,
+            0.75,
+            10,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            10,
+            0.5,
+            9.75,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            9.75,
+            0.5,
+            10,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            9.75,
+            0.5,
+            10,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            10,
+            0.5,
+            9.75,
+            1
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom14",
+      "from": [
+        12,
+        23,
+        7.5
+      ],
+      "to": [
+        12.5,
+        24,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            10,
+            0.25,
+            10.25,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            10,
+            0.25,
+            10.25,
+            0
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            10.25,
+            0,
+            10,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            10,
+            0,
+            10.25,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            10,
+            0,
+            10.25,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            10.25,
+            0,
+            10,
+            0.5
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom15",
+      "from": [
+        6.5,
+        15,
+        7
+      ],
+      "to": [
+        9.5,
+        16.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            4.25,
+            8.75,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            4,
+            8.75,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            8.75,
+            3.75,
+            7.25,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            7.25,
+            3.75,
+            8.75,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            7.25,
+            3.75,
+            7.5,
+            4.5
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            3.75,
+            8.5,
+            4.5
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom16",
+      "from": [
+        6,
+        16.5,
+        7
+      ],
+      "to": [
+        10,
+        18,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            3.5,
+            9,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            7,
+            3.25,
+            9,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            9,
+            3,
+            7,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            7,
+            3,
+            9,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            7,
+            3,
+            7.25,
+            3.75
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            9,
+            3,
+            8.75,
+            3.75
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom17",
+      "from": [
+        5.5,
+        18,
+        7
+      ],
+      "to": [
+        10.5,
+        20,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.75,
+            2.75,
+            9.25,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            6.75,
+            2.25,
+            9.25,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            9.25,
+            2,
+            6.75,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            6.75,
+            2,
+            9.25,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            6.75,
+            2,
+            7,
+            3
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            2,
+            9,
+            3
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom18",
+      "from": [
+        5,
+        20,
+        7
+      ],
+      "to": [
+        11,
+        22,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            1.75,
+            9.5,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            1.25,
+            9.5,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            1,
+            6.5,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            1,
+            9.5,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            1,
+            6.75,
+            2
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            1,
+            9.25,
+            2
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom19",
+      "from": [
+        4.5,
+        22,
+        7
+      ],
+      "to": [
+        11.5,
+        23,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6.25,
+            0.75,
+            9.75,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            6.25,
+            0.75,
+            9.75,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            9.75,
+            0.5,
+            6.25,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            6.25,
+            0.5,
+            9.75,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            6.25,
+            0.5,
+            6.5,
+            1
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            9.75,
+            0.5,
+            9.5,
+            1
+          ],
+          "texture": "#broom"
+        }
+      }
+    },
+    {
+      "__comment": "broom",
+      "from": [
+        4,
+        23,
+        7
+      ],
+      "to": [
+        12,
+        24,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            0.25,
+            10,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "up": {
+          "uv": [
+            6,
+            0.25,
+            10,
+            0
+          ],
+          "texture": "#broom"
+        },
+        "north": {
+          "uv": [
+            10,
+            0,
+            6,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "south": {
+          "uv": [
+            6,
+            0,
+            10,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "west": {
+          "uv": [
+            6,
+            0,
+            6.25,
+            0.5
+          ],
+          "texture": "#broom"
+        },
+        "east": {
+          "uv": [
+            10,
+            0,
+            9.75,
+            0.5
+          ],
+          "texture": "#broom"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        6,
+        1
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -90,
+        -180,
+        45
+      ],
+      "translation": [
+        -6,
+        -6,
+        9
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -90,
+        -60,
+        -90
+      ],
+      "translation": [
+        -3,
+        0,
+        -3
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        -45
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "head": {
+      "scale": [
+        0.0001,
+        0.0001,
+        0.0001
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        90
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "fixed": {
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
+}

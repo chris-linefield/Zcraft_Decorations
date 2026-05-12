@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/zhang_peng_",
+  "textures": {
+    "all": "zcraft_decorations:block/zhangpengt",
+    "particle": "zcraft_decorations:block/zhangpengt",
+    "0": "zcraft_decorations:block/zhangpeng1",
+    "1": "zcraft_decorations:block/zhangpengt"
+  }
+}

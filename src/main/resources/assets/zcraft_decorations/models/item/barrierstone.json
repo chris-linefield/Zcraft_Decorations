@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "zcraft_decorations:item/barrier_stone"
+  },
+  "render_type": "translucent"
+}

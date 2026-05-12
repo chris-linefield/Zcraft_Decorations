@@ -1,0 +1,9 @@
+{
+  "parent": "zcraft_decorations:custom/walkingelevator_flat_left",
+  "textures": {
+    "all": "zcraft_decorations:block/walkingelevator",
+    "particle": "zcraft_decorations:block/walkingelevator",
+    "1": "zcraft_decorations:block/walkingelevator"
+  },
+  "render_type": "cutout"
+}

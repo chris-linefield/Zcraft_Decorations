@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/shui_ping_la_ji_",
+  "textures": {
+    "all": "zcraft_decorations:block/kuang_quan_shui_ping_",
+    "particle": "zcraft_decorations:block/kuang_quan_shui_ping_",
+    "1_0": "zcraft_decorations:block/kuang_quan_shui_ping_"
+  }
+}

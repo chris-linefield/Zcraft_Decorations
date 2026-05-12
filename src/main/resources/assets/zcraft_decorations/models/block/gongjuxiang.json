@@ -1,0 +1,8 @@
+{
+  "parent": "zcraft_decorations:custom/gong_ju_xiang_",
+  "textures": {
+    "all": "zcraft_decorations:block/gong_ju_xiang_",
+    "particle": "zcraft_decorations:block/gong_ju_xiang_",
+    "0": "zcraft_decorations:block/gong_ju_xiang_"
+  }
+}

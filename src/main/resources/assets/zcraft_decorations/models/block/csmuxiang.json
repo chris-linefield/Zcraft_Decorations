@@ -1,0 +1,10 @@
+{
+  "parent": "zcraft_decorations:custom/csmuxiang",
+  "textures": {
+    "all": "zcraft_decorations:block/cs_blbox02_03",
+    "particle": "zcraft_decorations:block/cs_blbox02_03",
+    "0": "zcraft_decorations:block/cs_blbox02_01",
+    "1": "zcraft_decorations:block/cs_blbox02_02",
+    "2": "zcraft_decorations:block/cs_blbox02_03"
+  }
+}
