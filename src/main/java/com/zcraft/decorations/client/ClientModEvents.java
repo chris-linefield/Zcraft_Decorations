@@ -2,6 +2,7 @@ package com.zcraft.decorations.client;
 
 import com.zcraft.decorations.ZcraftDecorationsMod;
 import com.zcraft.decorations.client.model.NoAmbientOcclusionBakedModel;
+import com.zcraft.decorations.model.ModelShapeCache;
 import com.zcraft.decorations.registry.ModBlocks;
 import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import net.minecraft.client.renderer.RenderType;
@@ -42,5 +43,6 @@ public final class ClientModEvents {
 
             entry.setValue(new NoAmbientOcclusionBakedModel(model));
         }
+        ModelShapeCache.warmAllBlockShapes(ModBlocks.getBlockNames());
     }
 }
