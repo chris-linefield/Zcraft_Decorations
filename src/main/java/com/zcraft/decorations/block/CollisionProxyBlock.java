@@ -1,13 +1,10 @@
 package com.zcraft.decorations.block;
 
-import javax.annotation.Nullable;
-
 import com.zcraft.decorations.block.entity.CollisionProxyBlockEntity;
 import com.zcraft.decorations.model.ModelShapeCache;
 import com.zcraft.decorations.model.ShapeProfiler;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
-import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.BlockGetter;
@@ -21,6 +18,7 @@ import net.minecraft.world.level.storage.loot.LootParams;
 import net.minecraft.world.phys.shapes.CollisionContext;
 import net.minecraft.world.phys.shapes.Shapes;
 import net.minecraft.world.phys.shapes.VoxelShape;
+import org.jetbrains.annotations.Nullable;
 
 import java.util.List;
 
@@ -112,7 +110,7 @@ public class CollisionProxyBlock extends Block implements EntityBlock {
     }
 
     @Override
-    public void playerWillDestroy(Level level, BlockPos pos, BlockState state, Player player) {
+    public BlockState playerWillDestroy(Level level, BlockPos pos, BlockState state, Player player) {
         if (!level.isClientSide) {
             BlockEntity entity = level.getBlockEntity(pos);
             if (entity instanceof CollisionProxyBlockEntity proxy) {
@@ -125,14 +123,6 @@ public class CollisionProxyBlock extends Block implements EntityBlock {
                 }
             }
         }
-        super.playerWillDestroy(level, pos, state, player);
-    }
-
-    @Override
-    public void onRemove(BlockState state, Level level, BlockPos pos, BlockState newState, boolean isMoving) {
-        super.onRemove(state, level, pos, newState, isMoving);
-        if (level instanceof ServerLevel serverLevel) {
-            serverLevel.removeBlockEntity(pos);
-        }
+        return super.playerWillDestroy(level, pos, state, player);
     }
 }

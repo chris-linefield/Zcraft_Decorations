@@ -1,19 +1,19 @@
 package com.zcraft.decorations.config;
 
-import net.minecraftforge.common.ForgeConfigSpec;
+import net.neoforged.neoforge.common.ModConfigSpec;
 
 public final class ZcraftConfig {
-    public static final ForgeConfigSpec COMMON_SPEC;
+    public static final ModConfigSpec COMMON_SPEC;
 
-    public static final ForgeConfigSpec.ConfigValue<String> SHAPE_MODE;
-    public static final ForgeConfigSpec.DoubleValue PROXY_SNAP_16;
-    public static final ForgeConfigSpec.DoubleValue SHAPE_VOXEL_STEP_16;
-    public static final ForgeConfigSpec.IntValue SHAPE_CACHE_THREADS;
-    public static final ForgeConfigSpec.BooleanValue WARM_VOXEL_SHAPE_CACHE;
-    public static final ForgeConfigSpec.BooleanValue PROXY_COLLISION;
+    public static final ModConfigSpec.ConfigValue<String> SHAPE_MODE;
+    public static final ModConfigSpec.DoubleValue PROXY_SNAP_16;
+    public static final ModConfigSpec.DoubleValue SHAPE_VOXEL_STEP_16;
+    public static final ModConfigSpec.IntValue SHAPE_CACHE_THREADS;
+    public static final ModConfigSpec.BooleanValue WARM_VOXEL_SHAPE_CACHE;
+    public static final ModConfigSpec.BooleanValue PROXY_COLLISION;
 
     static {
-        ForgeConfigSpec.Builder builder = new ForgeConfigSpec.Builder();
+        ModConfigSpec.Builder builder = new ModConfigSpec.Builder();
         builder.push("model_shapes");
 
         SHAPE_MODE = builder

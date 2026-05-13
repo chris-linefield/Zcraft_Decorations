@@ -1,6 +1,6 @@
 package com.zcraft.decorations.mixin;
 
-import javax.annotation.Nullable;
+import org.jetbrains.annotations.Nullable;
 
 import com.zcraft.decorations.model.ShapeProfiler;
 import it.unimi.dsi.fastutil.doubles.DoubleList;

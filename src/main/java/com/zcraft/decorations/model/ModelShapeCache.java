@@ -35,7 +35,7 @@ import net.minecraft.world.phys.AABB;
 import net.minecraft.world.phys.shapes.BooleanOp;
 import net.minecraft.world.phys.shapes.Shapes;
 import net.minecraft.world.phys.shapes.VoxelShape;
-import net.minecraftforge.fml.loading.FMLPaths;
+import net.neoforged.fml.loading.FMLPaths;
 import org.slf4j.Logger;
 
 public final class ModelShapeCache {
@@ -1148,7 +1148,7 @@ public final class ModelShapeCache {
                 .append("|snap=").append(getProxySnap16());
 
         String blockPath = "assets/%s/models/block/%s.json".formatted(ZcraftDecorationsMod.MODID, blockName);
-        appendModelChainFingerprint(data, new ResourceLocation(ZcraftDecorationsMod.MODID, "block/" + blockName), blockPath);
+        appendModelChainFingerprint(data, ResourceLocation.fromNamespaceAndPath(ZcraftDecorationsMod.MODID, "block/" + blockName), blockPath);
         return sha256(data.toString());
     }
 
@@ -1180,7 +1180,7 @@ public final class ModelShapeCache {
             }
             String parent = parentEl.getAsString();
             try {
-                current = parent.contains(":") ? new ResourceLocation(parent) : new ResourceLocation(current.getNamespace(), parent);
+                current = parent.contains(":") ? ResourceLocation.parse(parent) : ResourceLocation.fromNamespaceAndPath(current.getNamespace(), parent);
                 path = "assets/%s/models/%s.json".formatted(current.getNamespace(), current.getPath());
             } catch (Exception e) {
                 return;
@@ -1211,7 +1211,7 @@ public final class ModelShapeCache {
             }
             JsonArray elements = blockModel.getAsJsonArray("elements");
             if (elements != null && !elements.isEmpty()) {
-                return new ResourceLocation(ZcraftDecorationsMod.MODID, "block/" + name);
+                return ResourceLocation.fromNamespaceAndPath(ZcraftDecorationsMod.MODID, "block/" + name);
             }
             JsonElement parentEl = blockModel.get("parent");
             if (parentEl == null || !parentEl.isJsonPrimitive()) {
@@ -1219,7 +1219,7 @@ public final class ModelShapeCache {
             }
             String parent = parentEl.getAsString();
             try {
-                return parent.contains(":") ? new ResourceLocation(parent) : new ResourceLocation(ZcraftDecorationsMod.MODID, parent);
+                return parent.contains(":") ? ResourceLocation.parse(parent) : ResourceLocation.fromNamespaceAndPath(ZcraftDecorationsMod.MODID, parent);
             } catch (Exception e) {
                 return null;
             }
@@ -1275,7 +1275,7 @@ public final class ModelShapeCache {
             }
             String parent = parentEl.getAsString();
             try {
-                current = parent.contains(":") ? new ResourceLocation(parent) : new ResourceLocation(current.getNamespace(), parent);
+                current = parent.contains(":") ? ResourceLocation.parse(parent) : ResourceLocation.fromNamespaceAndPath(current.getNamespace(), parent);
             } catch (Exception e) {
                 return null;
             }

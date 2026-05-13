@@ -5,20 +5,18 @@ import com.zcraft.decorations.config.ZcraftConfig;
 import com.zcraft.decorations.registry.ModBlocks;
 import com.zcraft.decorations.registry.ModBlockEntities;
 import com.zcraft.decorations.registry.ModCreativeTabs;
-import net.minecraftforge.eventbus.api.IEventBus;
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.ModLoadingContext;
-import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
-import net.minecraftforge.fml.config.ModConfig;
-import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.neoforged.bus.api.IEventBus;
+import net.neoforged.fml.ModContainer;
+import net.neoforged.fml.common.Mod;
+import net.neoforged.fml.config.ModConfig;
+import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
 
 @Mod(ZcraftDecorationsMod.MODID)
 public class ZcraftDecorationsMod {
     public static final String MODID = "zcraft_decorations";
 
-    public ZcraftDecorationsMod() {
-        ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, ZcraftConfig.COMMON_SPEC);
-        IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+    public ZcraftDecorationsMod(IEventBus modEventBus, ModContainer modContainer) {
+        modContainer.registerConfig(ModConfig.Type.COMMON, ZcraftConfig.COMMON_SPEC, "zcraft_decorations-common.toml");
         ModBlocks.BLOCKS.register(modEventBus);
         ModBlocks.ITEMS.register(modEventBus);
         ModBlockEntities.BLOCK_ENTITIES.register(modEventBus);

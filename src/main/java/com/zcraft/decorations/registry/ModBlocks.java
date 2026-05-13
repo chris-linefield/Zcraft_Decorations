@@ -13,18 +13,23 @@ import java.util.Set;
 import com.zcraft.decorations.ZcraftDecorationsMod;
 import com.zcraft.decorations.block.CollisionProxyBlock;
 import com.zcraft.decorations.block.ModelBasedFacingBlock;
+import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
-import net.minecraftforge.registries.DeferredRegister;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.RegistryObject;
+import net.neoforged.neoforge.registries.DeferredHolder;
+import net.neoforged.neoforge.registries.DeferredRegister;
 
 public final class ModBlocks {
-    public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, ZcraftDecorationsMod.MODID);
-    public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, ZcraftDecorationsMod.MODID);
+    public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(BuiltInRegistries.BLOCK, ZcraftDecorationsMod.MODID);
+    public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(BuiltInRegistries.ITEM, ZcraftDecorationsMod.MODID);
+
+    /**
+     * Premier bloc décoratif du fichier liste (hors {@link #COLLISION_PROXY}) : icône d’onglet créatif stable.
+     */
+    private static DeferredHolder<Item, BlockItem> creativeTabIconItem;
 
     private static final String BLOCK_LIST_RESOURCE = "test_block_list.txt";
     private static final List<String> BLOCK_NAMES = new ArrayList<>();
@@ -55,7 +60,7 @@ public final class ModBlocks {
             "men_4"
     );
 
-    public static final RegistryObject<Block> COLLISION_PROXY = BLOCKS.register("collision_proxy",
+    public static final DeferredHolder<Block, CollisionProxyBlock> COLLISION_PROXY = BLOCKS.register("collision_proxy",
             () -> new CollisionProxyBlock(BlockBehaviour.Properties.of()
                     .strength(0.5F, 1.0F)
                     .sound(SoundType.STONE)
@@ -90,12 +95,25 @@ public final class ModBlocks {
         }
     }
 
-    private static RegistryObject<Block> registerBlock(String name) {
+    private static DeferredHolder<Block, ModelBasedFacingBlock> registerBlock(String name) {
         boolean noCollision = NO_COLLISION_BLOCKS.contains(name) || NO_COLLISION_KEEP_DROPS_BLOCKS.contains(name);
         boolean noDrops = NO_COLLISION_BLOCKS.contains(name);
-        RegistryObject<Block> block = BLOCKS.register(name, () -> new ModelBasedFacingBlock(name, blockProperties(noCollision), noCollision, noDrops));
-        ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties()));
+        DeferredHolder<Block, ModelBasedFacingBlock> block = BLOCKS.register(name, () -> new ModelBasedFacingBlock(name, blockProperties(noCollision), noCollision, noDrops));
+        DeferredHolder<Item, BlockItem> itemHolder = ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties()));
+        if (creativeTabIconItem == null) {
+            creativeTabIconItem = itemHolder;
+        }
         return block;
+    }
+
+    /**
+     * Item utilisé pour l’icône de l’onglet créatif (premier bloc de la liste chargée).
+     */
+    public static Item creativeTabIconItem() {
+        if (creativeTabIconItem != null) {
+            return creativeTabIconItem.get();
+        }
+        return COLLISION_PROXY.get().asItem();
     }
 
     public static List<String> getBlockNames() {

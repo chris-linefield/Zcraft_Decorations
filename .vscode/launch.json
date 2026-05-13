@@ -1,0 +1,93 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Client",
+      "presentation": {
+        "group": "Mod Development - Zcraft_Decorations",
+        "order": 0
+      },
+      "projectName": "Zcraft_Decorations",
+      "mainClass": "net.neoforged.devlaunch.Main",
+      "args": [
+        "@C:\\Users\\zurch\\IdeaProjects\\Zcraft_Decorations\\build\\moddev\\clientRunProgramArgs.txt"
+      ],
+      "vmArgs": [
+        "@C:\\Users\\zurch\\IdeaProjects\\Zcraft_Decorations\\build\\moddev\\clientRunVmArgs.txt",
+        "-Dfml.modFolders\u003dzcraft_decorations%%C:\\Users\\zurch\\IdeaProjects\\Zcraft_Decorations\\bin\\main"
+      ],
+      "cwd": "${workspaceFolder}\\run",
+      "env": {},
+      "console": "internalConsole",
+      "shortenCommandLine": "none"
+    },
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Data",
+      "presentation": {
+        "group": "Mod Development - Zcraft_Decorations",
+        "order": 1
+      },
+      "projectName": "Zcraft_Decorations",
+      "mainClass": "net.neoforged.devlaunch.Main",
+      "args": [
+        "@C:\\Users\\zurch\\IdeaProjects\\Zcraft_Decorations\\build\\moddev\\dataRunProgramArgs.txt"
+      ],
+      "vmArgs": [
+        "@C:\\Users\\zurch\\IdeaProjects\\Zcraft_Decorations\\build\\moddev\\dataRunVmArgs.txt",
+        "-Dfml.modFolders\u003dzcraft_decorations%%C:\\Users\\zurch\\IdeaProjects\\Zcraft_Decorations\\bin\\main"
+      ],
+      "cwd": "${workspaceFolder}\\run",
+      "env": {},
+      "console": "internalConsole",
+      "shortenCommandLine": "none"
+    },
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "GameTestServer",
+      "presentation": {
+        "group": "Mod Development - Zcraft_Decorations",
+        "order": 2
+      },
+      "projectName": "Zcraft_Decorations",
+      "mainClass": "net.neoforged.devlaunch.Main",
+      "args": [
+        "@C:\\Users\\zurch\\IdeaProjects\\Zcraft_Decorations\\build\\moddev\\gameTestServerRunProgramArgs.txt"
+      ],
+      "vmArgs": [
+        "@C:\\Users\\zurch\\IdeaProjects\\Zcraft_Decorations\\build\\moddev\\gameTestServerRunVmArgs.txt",
+        "-Dfml.modFolders\u003dzcraft_decorations%%C:\\Users\\zurch\\IdeaProjects\\Zcraft_Decorations\\bin\\main"
+      ],
+      "cwd": "${workspaceFolder}\\run",
+      "env": {},
+      "console": "internalConsole",
+      "shortenCommandLine": "none"
+    },
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Server",
+      "presentation": {
+        "group": "Mod Development - Zcraft_Decorations",
+        "order": 3
+      },
+      "projectName": "Zcraft_Decorations",
+      "mainClass": "net.neoforged.devlaunch.Main",
+      "args": [
+        "@C:\\Users\\zurch\\IdeaProjects\\Zcraft_Decorations\\build\\moddev\\serverRunProgramArgs.txt"
+      ],
+      "vmArgs": [
+        "@C:\\Users\\zurch\\IdeaProjects\\Zcraft_Decorations\\build\\moddev\\serverRunVmArgs.txt",
+        "-Dfml.modFolders\u003dzcraft_decorations%%C:\\Users\\zurch\\IdeaProjects\\Zcraft_Decorations\\bin\\main"
+      ],
+      "cwd": "${workspaceFolder}\\run",
+      "env": {},
+      "console": "internalConsole",
+      "shortenCommandLine": "none"
+    }
+  ]
+}
