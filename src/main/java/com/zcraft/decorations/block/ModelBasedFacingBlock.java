@@ -2,8 +2,10 @@ package com.zcraft.decorations.block;
 
 import java.util.List;
 
+import com.zcraft.decorations.config.ZcraftConfig;
 import com.zcraft.decorations.model.ModelShapeCache;
 import com.zcraft.decorations.model.ModelShapeCache.IntBounds;
+import com.zcraft.decorations.model.ShapeProfiler;
 import com.zcraft.decorations.block.entity.CollisionProxyBlockEntity;
 import com.zcraft.decorations.registry.ModBlocks;
 import net.minecraft.core.BlockPos;
@@ -21,8 +23,6 @@ import net.minecraft.world.phys.shapes.Shapes;
 import net.minecraft.world.phys.shapes.VoxelShape;
 
 public class ModelBasedFacingBlock extends FacingModelBlock {
-    private static final String PROXY_COLLISION_PROPERTY = "zcraft_decorations.proxyCollision";
-    private static final boolean PROXY_COLLISION_ENABLED = Boolean.parseBoolean(System.getProperty(PROXY_COLLISION_PROPERTY, "true"));
     private static final int PROXY_CLEANUP_RADIUS = 4;
 
     private final String blockName;
@@ -79,7 +79,7 @@ public class ModelBasedFacingBlock extends FacingModelBlock {
         if (state == null || noCollision) {
             return state;
         }
-        if (!PROXY_COLLISION_ENABLED) {
+        if (!isProxyCollisionEnabled()) {
             return state;
         }
 
@@ -97,7 +97,7 @@ public class ModelBasedFacingBlock extends FacingModelBlock {
                     if (dx == 0 && dy == 0 && dz == 0) {
                         continue;
                     }
-                    if (ModelShapeCache.getOrCreateLocalShape(blockName, facing, dx, dy, dz).isEmpty()) {
+                    if (!ModelShapeCache.hasLocalShape(blockName, facing, dx, dy, dz)) {
                         continue;
                     }
                     BlockPos target = origin.offset(dx, dy, dz);
@@ -116,7 +116,7 @@ public class ModelBasedFacingBlock extends FacingModelBlock {
         if (level.isClientSide || noCollision) {
             return;
         }
-        if (!PROXY_COLLISION_ENABLED) {
+        if (!isProxyCollisionEnabled()) {
             return;
         }
         Direction facing = state.getValue(FACING);
@@ -132,7 +132,7 @@ public class ModelBasedFacingBlock extends FacingModelBlock {
                     if (dx == 0 && dy == 0 && dz == 0) {
                         continue;
                     }
-                    if (ModelShapeCache.getOrCreateLocalShape(blockName, facing, dx, dy, dz).isEmpty()) {
+                    if (!ModelShapeCache.hasLocalShape(blockName, facing, dx, dy, dz)) {
                         continue;
                     }
                     BlockPos target = pos.offset(dx, dy, dz);
@@ -151,10 +151,14 @@ public class ModelBasedFacingBlock extends FacingModelBlock {
 
     @Override
     public void onRemove(BlockState state, Level level, BlockPos pos, BlockState newState, boolean isMoving) {
-        if (!level.isClientSide && state.getBlock() != newState.getBlock() && !noCollision && PROXY_COLLISION_ENABLED) {
+        if (!level.isClientSide && state.getBlock() != newState.getBlock() && !noCollision && isProxyCollisionEnabled()) {
             cleanupProxies(level, pos);
         }
         super.onRemove(state, level, pos, newState, isMoving);
+    }
+
+    private static boolean isProxyCollisionEnabled() {
+        return ZcraftConfig.PROXY_COLLISION.get();
     }
 
     private static void cleanupProxies(Level level, BlockPos origin) {
@@ -190,13 +194,27 @@ public class ModelBasedFacingBlock extends FacingModelBlock {
     }
 
     private VoxelShape getShapeForState(BlockState state) {
+        long startNanos = ShapeProfiler.enabled() ? System.nanoTime() : 0L;
         VoxelShape[] shapes = cachedShapes;
         if (shapes == null) {
-            shapes = ModelShapeCache.getOrCreateShapes(blockName);
+            shapes = new VoxelShape[4];
             cachedShapes = shapes;
         }
         Direction dir = state.getValue(FACING);
-        return shapes[horizontalIndex(dir)];
+        int index = horizontalIndex(dir);
+        VoxelShape shape = shapes[index];
+        if (shape == null || !ModelShapeCache.isLocalShapeSetReady(blockName, dir)) {
+            shape = ModelShapeCache.getOrScheduleLocalShape(blockName, dir, 0, 0, 0);
+            if (ModelShapeCache.isLocalShapeSetReady(blockName, dir)) {
+                shapes[index] = shape;
+            }
+        }
+        if (ShapeProfiler.enabled()) {
+            String label = "block=" + blockName + ",facing=" + dir.getSerializedName() + ",origin";
+            ShapeProfiler.registerShape(shape, label);
+            ShapeProfiler.recordShapeGet(label, System.nanoTime() - startNanos);
+        }
+        return shape;
     }
 
     private static int horizontalIndex(Direction dir) {

@@ -4,6 +4,7 @@ import javax.annotation.Nullable;
 
 import com.zcraft.decorations.block.entity.CollisionProxyBlockEntity;
 import com.zcraft.decorations.model.ModelShapeCache;
+import com.zcraft.decorations.model.ShapeProfiler;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.server.level.ServerLevel;
@@ -65,12 +66,20 @@ public class CollisionProxyBlock extends Block implements EntityBlock {
             String blockName = proxy.getBlockName();
             Direction facing = proxy.getFacing();
             if (origin != null && blockName != null && facing != null) {
-                return ModelShapeCache.getOrCreateLocalShape(
+                int offsetX = pos.getX() - origin.getX();
+                int offsetY = pos.getY() - origin.getY();
+                int offsetZ = pos.getZ() - origin.getZ();
+                VoxelShape shape = ModelShapeCache.getOrScheduleLocalShape(
                         blockName,
                         facing,
-                        pos.getX() - origin.getX(),
-                        pos.getY() - origin.getY(),
-                        pos.getZ() - origin.getZ());
+                        offsetX,
+                        offsetY,
+                        offsetZ);
+                if (ShapeProfiler.enabled()) {
+                    ShapeProfiler.registerShape(shape, "block=" + blockName + ",facing=" + facing.getSerializedName()
+                            + ",offset=" + offsetX + "," + offsetY + "," + offsetZ);
+                }
+                return shape;
             }
         }
         return Shapes.block();

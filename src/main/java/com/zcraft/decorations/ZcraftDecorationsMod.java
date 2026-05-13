@@ -1,12 +1,15 @@
 package com.zcraft.decorations;
 
 import com.zcraft.decorations.model.ModelShapeCache;
+import com.zcraft.decorations.config.ZcraftConfig;
 import com.zcraft.decorations.registry.ModBlocks;
 import com.zcraft.decorations.registry.ModBlockEntities;
 import com.zcraft.decorations.registry.ModCreativeTabs;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
+import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
 @Mod(ZcraftDecorationsMod.MODID)
@@ -14,6 +17,7 @@ public class ZcraftDecorationsMod {
     public static final String MODID = "zcraft_decorations";
 
     public ZcraftDecorationsMod() {
+        ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, ZcraftConfig.COMMON_SPEC);
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         ModBlocks.BLOCKS.register(modEventBus);
         ModBlocks.ITEMS.register(modEventBus);
@@ -23,6 +27,6 @@ public class ZcraftDecorationsMod {
     }
 
     private void commonSetup(FMLCommonSetupEvent event) {
-        event.enqueueWork(() -> ModelShapeCache.warmAllBlockShapes(ModBlocks.getBlockNames()));
+        event.enqueueWork(() -> ModelShapeCache.warmAllBlockShapesAsync(ModBlocks.getBlockNames(), "common setup"));
     }
 }

@@ -43,6 +43,6 @@ public final class ClientModEvents {
 
             entry.setValue(new NoAmbientOcclusionBakedModel(model));
         }
-        ModelShapeCache.warmAllBlockShapes(ModBlocks.getBlockNames());
+        ModelShapeCache.warmAllBlockShapesAsync(ModBlocks.getBlockNames(), "client model baking result");
     }
 }

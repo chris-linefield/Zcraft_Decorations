@@ -1,9 +1,0 @@
-{
-  "parent": "test:custom/block109",
-  "textures": {
-    "all": "test:block/di",
-    "particle": "test:block/di",
-    "desk_detail": "test:block/desk_detail",
-    "texture": "test:block/desk"
-  }
-}
